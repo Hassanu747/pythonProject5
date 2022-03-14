@@ -6,7 +6,7 @@ from dask.distributed import Client
 import dask.dataframe as dd
 import time
 import re as regex
-
+#commit test
 pd.set_option('display.max_rows', 500)
 pd.set_option('display.max_columns', 500)
 pd.set_option('display.width', 150)
