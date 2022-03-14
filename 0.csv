@@ -1,0 +1,681 @@
+,id,product_id,location_id,lot_id,x_studio_vendor,x_studio_gsai_part,x_studio_vendor_part,x_studio_manufacturer,available_quantity,quantity,product_uom_id,inventory_quantity,reserved_quantity,value
+0,48,"[16, '[SFTY-1-01-50] Pluto PLC Safety Controller']","[28, 'LAE/Stock']",False,False,SFTY-1-01-50,False,False,1.0,1.0,"[1, 'Units']",0.0,0.0,1385.0
+1,58,"[68, '[DET-1-01-220CONFG] Low Profile Camera Link Board (framegrabber)']","[28, 'LAE/Stock']","[36, '64400259']",Hamamatsu,DET-1-01-220CONFG,CAMRA-3114-00,Hamamatsu,1.0,1.0,"[1, 'Units']",0.0,0.0,1160.0
+2,59,"[69, '[DET-1-01-220FGCBL] Camera Link Cable (to framegrabber)']","[28, 'LAE/Stock']",False,Hamamatsu,DET-1-01-220FGCBL,CAMRA-4224-000,Hamamatsu,1.0,1.0,"[1, 'Units']",0.0,0.0,200.0
+3,92,"[64, '[TUBE-1-01-AC75801-90CBL] X-ray tube accessories type set 5 MCDH 75']","[8, 'GSAI/Stock']",False,rtw RÖNTGEN-TECHNIK,TUBE-1-01-AC75801-90CBL,MCD_Set5_MCDH_75,RTW,9.0,10.0,"[1, 'Units']",0.0,1.0,7911.2
+4,103,"[134, 'WMR Magnetic Non Contact Switch, 10M, 2NC 1NO']","[8, 'GSAI/Stock']",False,False,False,False,False,1.0,1.0,"[1, 'Units']",0.0,0.0,244.38
+5,105,"[147, '[PS-1-01-UPS] Uninterruptible power supply - TRIO-UPS-2G/1AC/1AC/230V/750VA']","[8, 'GSAI/Stock']",False,False,PS-1-01-UPS,False,False,2.0,2.0,"[1, 'Units']",0.0,0.0,1259.52
+6,110,"[138, '[TDI-XRay-Tube-001_Demo] TDI XRay Tube DEMO']","[8, 'GSAI/Stock']","[46, '2090004']",Hamamatsu,TDI-XRay-Tube-001_Demo,L11754-01-DEMO,Hamamatsu,1.0,1.0,"[1, 'Units']",0.0,0.0,0.0
+7,118,"[69, '[DET-1-01-220FGCBL] Camera Link Cable (to framegrabber)']","[8, 'GSAI/Stock']",False,Hamamatsu,DET-1-01-220FGCBL,CAMRA-4224-000,Hamamatsu,7.0,8.0,"[1, 'Units']",0.0,1.0,1600.0
+8,124,"[15, '[SFTY-1-02-40] Non Contact Magnetic Interlock']","[28, 'LAE/Stock']",False,EandM,SFTY-1-02-40,138030,IDEM,1.0,1.0,"[1, 'Units']",0.0,0.0,149.32
+9,132,"[17, '[SFTY-1-01-60] X-ray Generator Key Switch']","[8, 'GSAI/Stock']",False,EandM,SFTY-1-01-60,3SU1050-4BF01-0AA0,Siemens,1.0,2.0,"[1, 'Units']",0.0,1.0,131.9
+10,134,"[19, '[SFTY-1-01-80] Red Stop Button Flush Mount']","[28, 'LAE/Stock']",False,Buckles-Smith Electric,SFTY-1-01-80,800K-30FMR24X01,Allen Bradley,1.0,1.0,"[1, 'Units']",0.0,0.0,134.17000000000002
+11,136,"[18, '[SFTY-1-01-70] Green Start Button Flush Mount']","[28, 'LAE/Stock']",False,False,SFTY-1-01-70,False,False,1.0,1.0,"[1, 'Units']",0.0,0.0,69.3
+12,138,"[39, 'Air Pressure Sensor']","[28, 'LAE/Stock']",False,False,False,False,False,1.0,1.0,"[1, 'Units']",0.0,0.0,65.0
+13,150,"[32, '[TS-1-01-17ACRES] 17"" Touchscreen Monitor AC Power']","[28, 'LAE/Stock']","[59, '20018152']",Hope Industrial,TS-1-01-17ACRES,HIS-ML17-STAH,Hope Industrial,1.0,1.0,"[1, 'Units']",0.0,0.0,814.0
+14,175,"[160, 'NTCALUG01A103F']","[8, 'GSAI/Stock']",False,Digikey,False,BC2891-ND,Vishay Beyschlag/Draloric/BC Components,10.0,10.0,"[1, 'Units']",0.0,0.0,23.2
+15,205,"[20, '[SFTY-1-04-90] Retro Reflective Photoelectric Sensor']","[8, 'GSAI/Stock']",False,EandM,SFTY-1-04-90,1041436,Sick,2.0,6.0,"[1, 'Units']",0.0,4.0,1152.1200000000001
+16,206,"[21, '[SFTY-1-04-100] Sensor Reflector']","[8, 'GSAI/Stock']",False,EandM,SFTY-1-04-100,1012719,Sick,4.0,8.0,"[1, 'Units']",0.0,4.0,104.08
+17,207,"[47, '[AC-1-01-SLLS7SM] Side mount for stacklight']","[8, 'GSAI/Stock']",False,EandM,AC-1-01-SLLS7SM,SZ-110D,Patlight,0.0,1.0,"[1, 'Units']",0.0,1.0,31.0
+18,216,"[67, '[DET-1-01-220PCBL] Power cable for XRay TDI camera']","[8, 'GSAI/Stock']",False,Hamamatsu,DET-1-01-220PCBL,A13967-05,Hamamatsu,4.0,5.0,"[1, 'Units']",0.0,1.0,1700.0
+19,218,"[68, '[DET-1-01-220CONFG] Low Profile Camera Link Board (framegrabber)']","[8, 'GSAI/Stock']","[66, '69900822']",Hamamatsu,DET-1-01-220CONFG,CAMRA-3114-00,Hamamatsu,0.0,1.0,"[1, 'Units']",0.0,1.0,1160.0
+20,220,"[8, '[PS-1-01-HV300W] XRay Power Supply 300W']","[8, 'GSAI/Stock']","[67, '135017986-A00004']",Spellman High Voltage Electronics,PS-1-01-HV300W,DXM40N300X6057,Spellman,0.0,1.0,"[1, 'Units']",0.0,1.0,2952.0
+21,226,"[173, 'CIR BRKR 25A 480VAC 125VDC']","[8, 'GSAI/Stock']",False,Digikey,False,277-17350-ND,Phoenix Contact,2.0,2.0,"[1, 'Units']",0.0,0.0,84.0
+22,228,"[174, 'DIN RAIL PWR SUPPLY 240W 24V 10A']","[8, 'GSAI/Stock']",False,Digikey,False,1736-1054-ND,PULS,3.0,3.0,"[1, 'Units']",0.0,0.0,840.0
+23,230,"[175, 'THERMISTOR NTC 10KOHM 3997K DO35']","[8, 'GSAI/Stock']",False,Digikey,False,Ntcalug54a103gla,Vishay,10.0,10.0,"[1, 'Units']",0.0,0.0,7.6000000000000005
+24,232,"[203, 'PWR ENT PLUG IEC320-C13 STR SCRW']","[8, 'GSAI/Stock']",False,Digikey,False,486-1107-ND,Schurter Inc.,7.0,7.0,"[1, 'Units']",0.0,0.0,41.160000000000004
+25,242,"[155, '[SFTY-1-02-10] Interlock Safety Switches for curtains']","[8, 'GSAI/Stock']",False,Walker Industrial,SFTY-1-02-10,2TLA050003R0120,ABB,7.0,7.0,"[1, 'Units']",0.0,0.0,1191.82
+26,243,"[156, '[SFTY-1-02-20] Actuator Keys']","[8, 'GSAI/Stock']",False,Walker Industrial,SFTY-1-02-20,2TLA050040R0204,ABB,7.0,7.0,"[1, 'Units']",0.0,0.0,473.83
+27,247,"[55, '[FT-1-01-M20WP] M20 2.5mm Thread Sanitary Weld Plate']","[8, 'GSAI/Stock']",False,NGI,FT-1-01-M20WP,HF70016,NGI,28.0,28.0,"[1, 'Units']",0.0,0.0,70.0
+28,251,"[31, '[FB-SPDY-1-01] Fan board']","[8, 'GSAI/Stock']","[73, 'FB01']",LAE,FB-SPDY-1-01,FB-SPDY-1-01,LAE,1.0,1.0,"[1, 'Units']",0.0,0.0,154.5
+29,253,"[29, '[PC-SPDY-1-01] Industrial Computer']","[8, 'GSAI/Stock']","[23, 'PSE210300123']",Premio,PC-SPDY-1-01,M2Q370V2-GRE2U,Premio,0.0,1.0,"[1, 'Units']",0.0,1.0,1350.0
+30,254,"[65, '[DET-1-01-220CON] XRay Camera 221mm, low energy']","[8, 'GSAI/Stock']","[37, '000009']",Hamamatsu,DET-1-01-220CON,C12300-321B,Hamamatsu,0.0,1.0,"[1, 'Units']",0.0,1.0,26100.0
+31,255,"[66, '[PS-DET-1-01-220CON] Direct Conversion Power Supply']","[8, 'GSAI/Stock']","[38, '000072']",Hamamatsu,PS-DET-1-01-220CON,A8206-60,Hamamatsu,0.0,1.0,"[1, 'Units']",0.0,1.0,790.0
+32,256,"[68, '[DET-1-01-220CONFG] Low Profile Camera Link Board (framegrabber)']","[8, 'GSAI/Stock']","[39, '69900821']",Hamamatsu,DET-1-01-220CONFG,CAMRA-3114-00,Hamamatsu,1.0,1.0,"[1, 'Units']",0.0,0.0,1160.0
+33,259,"[158, '[AC-1-01-KEY] Enclosure Key']","[8, 'GSAI/Stock']",False,Rexel USA,AC-1-01-KEY,N41214TTRIK,Hubbell- Wiegmann,7.0,7.0,"[1, 'Units']",0.0,0.0,79.38
+34,264,"[45, '[PS-1-01-UPS] Uninterruptible power supply - TRIO-UPS-2G/1AC/1AC/230V/750VA']","[8, 'GSAI/Stock']",False,False,PS-1-01-UPS,False,False,2.0,2.0,"[1, 'Units']",0.0,0.0,2938.0
+35,276,"[231, 'UPS, 115/230VAC']","[8, 'GSAI/Stock']",False,False,False,False,False,2.0,2.0,"[1, 'Units']",0.0,0.0,2562.84
+36,280,"[233, 'Conveyor']","[8, 'GSAI/Stock']",False,in line,False,1299 -0110,In Line,1.0,1.0,"[1, 'Units']",0.0,0.0,6866.1900000000005
+37,282,"[8, '[PS-1-01-HV300W] XRay Power Supply 300W']","[8, 'GSAI/Stock']","[78, '135017987-A00005']",Spellman High Voltage Electronics,PS-1-01-HV300W,DXM40N300X6057,Spellman,1.0,1.0,"[1, 'Units']",0.0,0.0,2952.0
+38,284,"[8, '[PS-1-01-HV300W] XRay Power Supply 300W']","[8, 'GSAI/Stock']","[79, '135017988-A00006']",Spellman High Voltage Electronics,PS-1-01-HV300W,DXM40N300X6057,Spellman,1.0,1.0,"[1, 'Units']",0.0,0.0,2952.0
+39,286,"[8, '[PS-1-01-HV300W] XRay Power Supply 300W']","[8, 'GSAI/Stock']","[80, '135017989-A00007']",Spellman High Voltage Electronics,PS-1-01-HV300W,DXM40N300X6057,Spellman,1.0,1.0,"[1, 'Units']",0.0,0.0,2952.0
+40,288,"[8, '[PS-1-01-HV300W] XRay Power Supply 300W']","[8, 'GSAI/Stock']","[81, '135017990-A00008']",Spellman High Voltage Electronics,PS-1-01-HV300W,DXM40N300X6057,Spellman,1.0,1.0,"[1, 'Units']",0.0,0.0,2952.0
+41,292,"[129, '[DET-1-01-220HICONFG] Regular Profile Camera Link Board (framegrabber)']","[8, 'GSAI/Stock']","[47, '69900062']",Hamamatsu,DET-1-01-220HICONFG,CAMRA-3113-00,Hamamatsu,1.0,1.0,"[1, 'Units']",0.0,0.0,1160.0
+42,293,"[78, '[MC-SPDY-1-01] Controller board']","[28, 'LAE/Stock']","[76, 'SC02']",LAE,MC-SPDY-1-01,MC-SPDY-1-01,LAE,1.0,1.0,"[1, 'Units']",0.0,0.0,1202.5
+43,344,"[8, '[PS-1-01-HV300W] XRay Power Supply 300W']","[8, 'GSAI/Stock']","[92, '135017992-A00010']",Spellman High Voltage Electronics,PS-1-01-HV300W,DXM40N300X6057,Spellman,1.0,1.0,"[1, 'Units']",0.0,0.0,2952.0
+44,346,"[8, '[PS-1-01-HV300W] XRay Power Supply 300W']","[8, 'GSAI/Stock']","[93, '135017991-A00009']",Spellman High Voltage Electronics,PS-1-01-HV300W,DXM40N300X6057,Spellman,1.0,1.0,"[1, 'Units']",0.0,0.0,2952.0
+45,398,"[236, '[HRX380.A] HRX380.A']","[8, 'GSAI/Stock']","[97, 'Mercury']",False,HRX380.A,False,False,-1.0,0.0,"[1, 'Units']",0.0,1.0,0.0
+46,401,"[236, '[HRX380.A] HRX380.A']","[8, 'GSAI/Stock']","[99, 'Venus']",False,HRX380.A,False,False,-1.0,-1.0,"[1, 'Units']",0.0,0.0,0.0
+47,403,"[68, '[DET-1-01-220CONFG] Low Profile Camera Link Board (framegrabber)']","[8, 'GSAI/Stock']","[27, '69900820']",Hamamatsu,DET-1-01-220CONFG,CAMRA-3114-00,Hamamatsu,1.0,1.0,"[1, 'Units']",0.0,0.0,1160.0
+48,405,"[232, 'Rechargeable Battery UPS']","[8, 'GSAI/Stock']",False,Digikey,False,2320306,Phoenix Contact,2.0,2.0,"[1, 'Units']",0.0,0.0,436.46000000000004
+49,407,"[103, '[ELEC-1-DIS-3POL40A] Power Disconnect Switch']","[8, 'GSAI/Stock']",False,Allied Electronics & Automation,ELEC-1-DIS-3POL40A,KU340N,Altech Corp,3.0,3.0,"[1, 'Units']",0.0,0.0,99.78
+50,409,"[98, '[ELEC-1-DIS-HAN] Power Disconnect Handle']","[8, 'GSAI/Stock']",False,Allied Electronics & Automation,ELEC-1-DIS-HAN,OKA/KU LK10Y/R,Altech Corp,3.0,3.0,"[1, 'Units']",0.0,0.0,84.24
+51,411,"[86, '[ELEC-1-TB-3END] Terminal Block end plate (3 hole, 282 series)']","[8, 'GSAI/Stock']",False,Newark Electronic,ELEC-1-TB-3END,282-339,Wago,4.0,4.0,"[1, 'Units']",0.0,0.0,7.8
+52,413,"[85, '[ELEC-1-TB-3GND] Terminal Blocks (3 hole green/yellow, 10awg)']","[8, 'GSAI/Stock']",False,Newark Electronic,ELEC-1-TB-3GND,282-687,Wago,8.0,8.0,"[1, 'Units']",0.0,0.0,112.08
+53,415,"[82, '[ELEC-1-TB-4END] Terminal Block end plate (4 hole, 280 series)']","[8, 'GSAI/Stock']",False,Newark Electronic,ELEC-1-TB-4END,280-315,Wago,3.0,3.0,"[1, 'Units']",0.0,0.0,5.37
+54,417,"[79, '[ELEC-1-TB-4GND] Terminal Blocks (4 hole green/yellow)']","[8, 'GSAI/Stock']",False,Newark Electronic,ELEC-1-TB-4GND,280-837,Wago,18.0,18.0,"[1, 'Units']",0.0,0.0,253.8
+55,419,"[44, '[ELEC-1-TB-4GRY] Terminal Blocks (4 hole grey)']","[8, 'GSAI/Stock']",False,Newark Electronic,ELEC-1-TB-4GRY,280-833,Wago,28.0,28.0,"[1, 'Units']",0.0,0.0,127.12
+56,421,"[88, '[ELEC-1-TB-END] Terminal Block end stop']","[8, 'GSAI/Stock']",False,Newark Electronic,ELEC-1-TB-END,249-116,Wago,19.0,19.0,"[1, 'Units']",0.0,0.0,36.480000000000004
+57,425,"[84, '[ELEC-1-TB-3GRY] Terminal Blocks (3 hole grey, 10awg)']","[8, 'GSAI/Stock']",False,Newark Electronic,ELEC-1-TB-3GRY,282-681,Wago,4.0,4.0,"[1, 'Units']",0.0,0.0,25.84
+58,433,"[242, '[SFTY-1-04-91] Right Angle Sensor M12 Cable 5M Length']","[8, 'GSAI/Stock']",False,Allied Electronics & Automation,SFTY-1-04-91,70746218,IFM,6.0,6.0,"[1, 'Units']",0.0,0.0,91.74
+59,436,"[92, '[ELEC-1-FH-2POLCC] Fuse Holder']","[8, 'GSAI/Stock']",False,Allied Electronics & Automation,ELEC-1-FH-2POLCC,70193206,Marathon,8.0,8.0,"[1, 'Units']",0.0,0.0,388.88
+60,438,"[108, '[WIR-1-10BLK] 10 AWG Black']","[8, 'GSAI/Stock']",False,Digikey,WIR-1-10BLK,461019 BK005,Alpha Wire,1.0,1.0,"[1, 'Units']",0.0,0.0,101.29
+61,440,"[107, '[ELEC-1-CON-5POSPLUG] 5 Pos 3.5mm Plug']","[8, 'GSAI/Stock']",False,Digikey,ELEC-1-CON-5POSPLUG,1952296,Phoenix Contact,2.0,2.0,"[1, 'Units']",0.0,0.0,12.1
+62,442,"[104, '[ELEC-1-CON-2POSPLUG] 2 Pos 3.5mm Plug']","[8, 'GSAI/Stock']",False,Digikey,ELEC-1-CON-2POSPLUG,1952267,Phoenix Contact,16.0,16.0,"[1, 'Units']",0.0,0.0,41.76
+63,446,"[96, '[CBL-1-DVID] DVI-D cable (PC to touchscreen)']","[8, 'GSAI/Stock']",False,Digikey,CBL-1-DVID,TL676-ND,Tripp Lite,1.0,1.0,"[1, 'Units']",0.0,0.0,10.78
+64,448,"[93, '[ELEC-1-FU-CC10A] Class CC Fuses']","[8, 'GSAI/Stock']",False,Digikey,ELEC-1-FU-CC10A,CCMR010,Littlefuse,6.0,6.0,"[1, 'Units']",0.0,0.0,132.66
+65,450,"[97, '[CBL-1-USBAB] USB A to B male (PC to touchscreen)']","[8, 'GSAI/Stock']",False,Digikey,CBL-1-USBAB,380-1424-ND,Stewart Connector,1.0,1.0,"[1, 'Units']",0.0,0.0,2.16
+66,452,"[102, '[CBL-1-USBAMINIB] USB A to Mini-B']","[8, 'GSAI/Stock']",False,Digikey,CBL-1-USBAMINIB,3021003-03,Qualtek,1.0,1.0,"[1, 'Units']",0.0,0.0,2.81
+67,456,"[42, '[PS-1-01-LV24] 24V DC Power Supply DIN Mountable (10A)']","[8, 'GSAI/Stock']",False,Digikey,PS-1-01-LV24,CP10.241,PULS,2.0,2.0,"[1, 'Units']",0.0,0.0,560.0
+68,458,"[113, '[WIR-1-14GRN] 14 AWG Green']","[8, 'GSAI/Stock']",False,Digikey,WIR-1-14GRN,461419 GR005,Alpha Wire,2.0,2.0,"[1, 'Units']",0.0,0.0,95.84
+69,460,"[112, '[WIR-1-14RED] 14 AWG Red']","[8, 'GSAI/Stock']",False,Digikey,WIR-1-14RED,461419 RD005,Alpha Wire,1.0,1.0,"[1, 'Units']",0.0,0.0,47.92
+70,462,"[114, '[WIR-1-16BLU] 16 AWG Blue']","[8, 'GSAI/Stock']",False,Digikey,WIR-1-16BLU,3057 BL005,Alpha Wire,1.0,1.0,"[1, 'Units']",0.0,0.0,96.37
+71,464,"[110, '[WIR-1-10GRN] 10 AWG Green']","[8, 'GSAI/Stock']",False,Digikey,WIR-1-10GRN,461019 GR005,Alpha Wire,1.0,1.0,"[1, 'Units']",0.0,0.0,101.29
+72,466,"[115, '[WIR-1-16WBU] 16 AWG White/Blue']","[8, 'GSAI/Stock']",False,Digikey,WIR-1-16WBU,3057 WU005,Alpha Wire,1.0,1.0,"[1, 'Units']",0.0,0.0,92.66
+73,468,"[43, '[PS-1-01-LV12] 12V DC Power Supply DIN Mountable']","[8, 'GSAI/Stock']",False,Digikey,PS-1-01-LV12,2904605,Phoenix,1.0,1.0,"[1, 'Units']",0.0,0.0,106.0
+74,473,"[83, '[ELEC-1-TB-JMP280] Terminal Block jumper (280 series)']","[8, 'GSAI/Stock']",False,Newark Electronic,ELEC-1-TB-JMP280,280-402,Wago,3.0,3.0,"[1, 'Units']",0.0,0.0,3.5700000000000003
+75,478,"[87, '[ELEC-1-TB-JMP282] Terminal Block jumper (282 series)']","[8, 'GSAI/Stock']",False,Newark Electronic,ELEC-1-TB-JMP282,282-402,Wago,2.0,2.0,"[1, 'Units']",0.0,0.0,3.66
+76,483,"[91, '[ELEC-1-CB-2POL25A] Breaker']","[8, 'GSAI/Stock']",False,False,ELEC-1-CB-2POL25A,False,False,2.0,2.0,"[1, 'Units']",0.0,0.0,84.0
+77,492,"[273, '[SFTY-1-01-62] Contact block, NO x-ray key switch']","[8, 'GSAI/Stock']",False,EandM,SFTY-1-01-62,3SU1400-1AA10-1BA0,Siemens,5.0,5.0,"[1, 'Units']",0.0,0.0,69.25
+78,494,"[272, '[SFTY-1-01-61] X-ray key switch contact holder']","[8, 'GSAI/Stock']",False,EandM,SFTY-1-01-61,3SU1550-0AA10-0AA0,Siemens,1.0,5.0,"[1, 'Units']",0.0,4.0,26.8
+79,496,"[276, '[SFTY-1-01-50] Pluto PLC Safety Controller']","[8, 'GSAI/Stock']",False,EU Automation,SFTY-1-01-50,2TLA020070R4700,ABB,3.0,3.0,"[1, 'Units']",0.0,0.0,2677.5
+80,499,"[269, '[ELEC-1-FAN-24120] Rear Fans for Back Door 24v']","[8, 'GSAI/Stock']",False,Digikey,ELEC-1-FAN-24120,1688-1496-ND,San Ace,4.0,4.0,"[1, 'Units']",0.0,0.0,82.36
+81,501,"[282, '[ELEC-1-FAN-2460] Tube Fans - active cooling']","[8, 'GSAI/Stock']",False,Digikey,ELEC-1-FAN-2460,1688-2281-ND,Sanyo Denki America Inc.,5.0,5.0,"[1, 'Units']",0.0,0.0,90.15
+82,504,"[270, '[SFTY-1-02-30] Emergency stop button']","[8, 'GSAI/Stock']",False,False,SFTY-1-02-30,False,False,12.0,12.0,"[1, 'Units']",0.0,0.0,388.2
+83,514,"[317, '[CBL-1-RDN10] Ribbon cable, 10 conductor']","[8, 'GSAI/Stock']",False,Digikey,CBL-1-RDN10,BEL1433-100-ND,Belden Inc.,1.0,1.0,"[1, 'Units']",0.0,0.0,73.64
+84,516,"[313, '[ELEC-1-CON-10POS] Connector, 10 position ribbon']","[8, 'GSAI/Stock']",False,Digikey,ELEC-1-CON-10POS,AKC10H-ND,TE Connectivity AMP Connectors,2.0,2.0,"[1, 'Units']",0.0,0.0,2.2600000000000002
+85,520,"[315, 'Duct cover, 2in Gray']","[8, 'GSAI/Stock']",False,False,False,False,False,1.0,1.0,"[1, 'Units']",0.0,0.0,13.43
+86,522,"[302, '[ELEC-FRL-14-10] 14AWG Ferrule Insulated 10mm Blue']","[8, 'GSAI/Stock']",False,Digikey,ELEC-FRL-14-10,277-5429-ND,Phoenix Contact,20.0,20.0,"[1, 'Units']",0.0,0.0,7.4
+87,524,"[303, '[ELEC-FRL-14-12] 14AWG Ferrule Insulated 12mm Blue']","[8, 'GSAI/Stock']",False,Digikey,ELEC-FRL-14-12,288-1025-ND,American Electrical Inc.,25.0,25.0,"[1, 'Units']",0.0,0.0,6.0
+88,526,"[304, '[ELEC-FRL-16-10] 16AWG Ferrule Insulated 10mm Black']","[8, 'GSAI/Stock']",False,Digikey,ELEC-FRL-16-10,288-1020-ND,American Electrical Inc.,10.0,10.0,"[1, 'Units']",0.0,0.0,2.6
+89,528,"[305, '[ELEC-FRL-18-8] 18AWG Ferrule Insulated 8mm Gray']","[8, 'GSAI/Stock']",False,Digikey,ELEC-FRL-18-8,298-10746-ND,Panduit Corp.,150.0,150.0,"[1, 'Units']",0.0,0.0,825.0
+90,530,"[307, '[ELEC-FRL-2022-8] 20-22AWG Ferrule Insulated 8mm Gray']","[8, 'GSAI/Stock']",False,Digikey,ELEC-FRL-2022-8,288-1011-ND,American Electrical Inc.,32.0,32.0,"[1, 'Units']",0.0,0.0,4.8
+91,532,"[308, '[ELEC-FRL-2024-10] 20-24AWG Ferrule Insulated 10mm (White)']","[8, 'GSAI/Stock']",False,Digikey,ELEC-FRL-2024-10,288-1009-ND,Americal Electrical Inc.,74.0,74.0,"[1, 'Units']",0.0,0.0,12.58
+92,534,"[309, '[ELEC-FRL-2024-6] 20-24AWG Ferrule Insulated 6mm (White)']","[8, 'GSAI/Stock']",False,Digikey,ELEC-FRL-2024-6,288-1007-ND,American Electrical Inc.,51.0,51.0,"[1, 'Units']",0.0,0.0,8.67
+93,536,"[301, '[WIR-1-10WHT] 10 AWG White']","[8, 'GSAI/Stock']",False,Digikey,WIR-1-10WHT,A461019W-100-ND,Alpha Wire,1.0,1.0,"[1, 'Units']",0.0,0.0,101.29
+94,538,"[306, '[WIR-1-20BLU] 20 AWG Blue']","[8, 'GSAI/Stock']",False,Digikey,WIR-1-20BLU,A2040L-100-ND,Alpha Wire,2.0,2.0,"[1, 'Units']",0.0,0.0,76.56
+95,540,"[274, '[SFTY-1-01-63] Legend Plate Holder']","[8, 'GSAI/Stock']",False,EandM,SFTY-1-01-63,Legend Plate Holder,Siemens,16.0,16.0,"[1, 'Units']",0.0,0.0,22.240000000000002
+96,543,"[298, '[CBL-1-C13-ST] 3/14 C-13 Straight Cable']","[8, 'GSAI/Stock']",False,Arrow Electronics,CBL-1-C13-ST,A-PC2302-030026-1,Assmann,9.0,9.0,"[1, 'Units']",0.0,0.0,68.76
+97,545,"[296, '[ELEC-1-CB-2POL25A] Breaker']","[8, 'GSAI/Stock']",False,Mouser Electronics,ELEC-1-CB-2POL25A,651-2907598,Phoenix Contact,2.0,2.0,"[1, 'Units']",0.0,0.0,86.58
+98,547,"[106, '[ELEC-1-CON-4POSPLUG] 4 Pos 3.5mm Plug']","[8, 'GSAI/Stock']",False,Digikey,ELEC-1-CON-4POSPLUG,1952283,Phoenix Contact,42.0,42.0,"[1, 'Units']",0.0,0.0,202.02
+99,549,"[62, '[LBL-RAD-ENG] Xray Warning with Radiation Symbol - English Label']","[8, 'GSAI/Stock']",False,MySafetyLabels,LBL-RAD-ENG,LB-0094-SSL-2x4,MySafetyLabels,2.0,2.0,"[1, 'Units']",0.0,0.0,5.38
+100,551,"[61, '[LBL-HV-ENG] Hazardous Voltage with Flash Symbol - English Label']","[8, 'GSAI/Stock']",False,MySafetyLabels,LBL-HV-ENG,LB-4107-SSL-2x4,MySafetyLabels,2.0,2.0,"[1, 'Units']",0.0,0.0,5.38
+101,553,"[105, '[ELEC-1-CON-3POSPLUG] 3 Pos 3.5mm Plug']","[8, 'GSAI/Stock']",False,Digikey,ELEC-1-CON-3POSPLUG,1952270,Phoenix Contact,82.0,82.0,"[1, 'Units']",0.0,0.0,321.44
+102,555,"[266, '[SFTY-1-01-70] Green Start Button Flush Mount']","[57, 'SLN/Stock']",False,Buckles-Smith Electric,SFTY-1-01-70,800K-30FMG24X10,Allen Bradley,12.0,15.0,"[1, 'Units']",0.0,3.0,2012.55
+103,562,"[311, '[CBL-1-C13-RA] 3/14 C-13 Right Angle Cable']","[8, 'GSAI/Stock']",False,Digikey,CBL-1-C13-RA,AE10718-ND,Assmann WSW Components,1.0,1.0,"[1, 'Units']",0.0,0.0,11.11
+104,564,"[38, '[CON-1-01-5000] Seamless Conveyor Belt']","[8, 'GSAI/Stock']",False,False,CON-1-01-5000,False,False,3.0,3.0,"[1, 'Units']",0.0,0.0,2850.0
+105,569,"[157, '[AC-1-01-LOCK] Enclosure Latch']","[8, 'GSAI/Stock']",False,Rexel USA,AC-1-01-LOCK,N41214TTRI,Hubbell- Wiegmann,18.0,18.0,"[1, 'Units']",0.0,0.0,513.0
+106,581,"[427, '[AP-1-01-10] Filter Regulator']","[8, 'GSAI/Stock']",False,Orange Coast Pneumatics,AP-1-01-10,AW30-N03B-Z-A,SMC,3.0,3.0,"[1, 'Units']",0.0,0.0,133.35
+107,584,"[418, 'Cable Holder, Screw In, .5in dia']","[8, 'GSAI/Stock']",False,McMaster-Carr,False,7572K24,McMaster Carr,50.0,50.0,"[1, 'Units']",0.0,0.0,462.5
+108,586,"[359, 'Square-Drive Cam Lock']","[8, 'GSAI/Stock']",False,False,False,False,False,6.0,6.0,"[1, 'Units']",0.0,0.0,267.84000000000003
+109,588,"[378, 'Washer, m4']","[8, 'GSAI/Stock']",False,McMaster-Carr,False,93475A230,McMaster Carr,16.0,16.0,"[1, 'Units']",0.0,0.0,38.88
+110,590,"[391, 'Screw, Socket Head, m5 x 22mm']","[8, 'GSAI/Stock']",False,McMaster-Carr,False,91292A060,McMaster Carr,25.0,25.0,"[1, 'Units']",0.0,0.0,284.0
+111,592,"[377, 'Standoff, Male-Female, Hex, m4 x 10mm lg']","[8, 'GSAI/Stock']",False,McMaster-Carr,False,93655A450,McMaster Carr,10.0,10.0,"[1, 'Units']",0.0,0.0,29.900000000000002
+112,594,"[414, 'Rivet, Stainless, .125 dia, Countersink']","[8, 'GSAI/Stock']",False,McMaster-Carr,False,97525A670,McMaster Carr,100.0,100.0,"[1, 'Units']",0.0,0.0,1161.0
+113,596,"[398, 'Screw, Flanged Button Head, m6 x 10mm']","[8, 'GSAI/Stock']",False,McMaster-Carr,False,97654A379,McMaster Carr,10.0,10.0,"[1, 'Units']",0.0,0.0,58.800000000000004
+114,598,"[374, 'Bearing, Sleeve, 12mm ID, Acetal']","[8, 'GSAI/Stock']",False,McMaster-Carr,False,57785K324,McMaster Carr,4.0,4.0,"[1, 'Units']",0.0,0.0,7.2
+115,600,"[409, 'Screw, Socket Head, m5 x 6mm']","[8, 'GSAI/Stock']",False,McMaster-Carr,False,91292A189,McMaster Carr,50.0,50.0,"[1, 'Units']",0.0,0.0,315.5
+116,602,"[390, 'Screw, Shoulder, Slotted, m3, 4mm Dia, 4mm Lg']","[8, 'GSAI/Stock']",False,McMaster-Carr,False,97307A114,McMaster Carr,16.0,16.0,"[1, 'Units']",0.0,0.0,96.64
+117,604,"[385, 'Screw, Shoulder, Slotted, M5, 7mm dia, 16mm Lg']","[8, 'GSAI/Stock']",False,McMaster-Carr,False,97307A122,McMaster Carr,4.0,4.0,"[1, 'Units']",0.0,0.0,30.560000000000002
+118,606,"[406, 'Screw, Hex Head, m5 x 10mm']","[8, 'GSAI/Stock']",False,McMaster-Carr,False,93635A156,McMaster Carr,50.0,50.0,"[1, 'Units']",0.0,0.0,548.5
+119,608,"[412, 'Screw, Flat Head, m4 x 10mm']","[8, 'GSAI/Stock']",False,McMaster-Carr,False,92125A190,McMaster Carr,100.0,100.0,"[1, 'Units']",0.0,0.0,708.0
+120,610,"[362, 'Fan Guard']","[8, 'GSAI/Stock']",False,McMaster-Carr,False,19155K127,McMaster Carr,18.0,18.0,"[1, 'Units']",0.0,0.0,125.10000000000001
+121,612,"[392, 'Screw, Socket Head, m5 x 8mm']","[8, 'GSAI/Stock']",False,McMaster-Carr,False,91292A191,McMaster Carr,100.0,100.0,"[1, 'Units']",0.0,0.0,1181.0
+122,614,"[387, 'Screw, Pan Head Philips, m4 x 12mm']","[8, 'GSAI/Stock']",False,McMaster-Carr,False,92000A222,McMaster Carr,100.0,100.0,"[1, 'Units']",0.0,0.0,1023.0
+123,616,"[379, 'Washer, #10 screw, PU Rubber']","[8, 'GSAI/Stock']",False,McMaster-Carr,False,93650A120,McMaster Carr,100.0,100.0,"[1, 'Units']",0.0,0.0,1677.0
+124,618,"[382, 'Washer, 3/8"" Screw Size, PTFE']","[8, 'GSAI/Stock']",False,McMaster-Carr,False,95630A245,McMaster,10.0,10.0,"[1, 'Units']",0.0,0.0,71.9
+125,620,"[383, 'Washer, Lock, m5']","[8, 'GSAI/Stock']",False,McMaster-Carr,False,93925A260,McMaster Carr,100.0,100.0,"[1, 'Units']",0.0,0.0,341.0
+126,622,"[369, '[HW-NUT-M4-NLC] Nut, M4 Nyloc SST']","[8, 'GSAI/Stock']",False,McMaster-Carr,HW-NUT-M4-NLC,93625A150,McMaster Carr,400.0,400.0,"[1, 'Units']",0.0,0.0,24.0
+127,624,"[367, 'Nut, Sanitary Low Profile, M6']","[8, 'GSAI/Stock']",False,McMaster-Carr,False,97511A110,McMaster Carr,12.0,12.0,"[1, 'Units']",0.0,0.0,162.6
+128,626,"[401, 'Screw, Sanitary Hex, 1/2""-13 x 1 in lg']","[8, 'GSAI/Stock']",False,False,False,False,False,16.0,16.0,"[1, 'Units']",0.0,0.0,222.08
+129,628,"[381, 'Washer, m5']","[8, 'GSAI/Stock']",False,McMaster-Carr,False,98689A114,McMaster Carr,100.0,100.0,"[1, 'Units']",0.0,0.0,314.0
+130,630,"[415, 'Retaining Ring, 7mm-9mm']","[8, 'GSAI/Stock']",False,McMaster-Carr,False,98317A220,McMaster Carr,25.0,25.0,"[1, 'Units']",0.0,0.0,150.25
+131,632,"[395, 'Screw, Flat head, m3 x 6mm']","[8, 'GSAI/Stock']",False,McMaster-Carr,False,92125A126,McMaster Carr,100.0,100.0,"[1, 'Units']",0.0,0.0,442.0
+132,634,"[380, 'Nut, Cap, m4']","[8, 'GSAI/Stock']",False,McMaster-Carr,False,94000A035,McMaster Carr,25.0,25.0,"[1, 'Units']",0.0,0.0,101.0
+133,636,"[399, 'Screw, Socket Head, m5 x 10mm']","[8, 'GSAI/Stock']",False,McMaster-Carr,False,91292A124,McMaster Carr,100.0,100.0,"[1, 'Units']",0.0,0.0,1111.0
+134,638,"[375, 'Spacer, m6, 6mm lg']","[8, 'GSAI/Stock']",False,McMaster-Carr,False,92871A247,McMaster Carr,12.0,12.0,"[1, 'Units']",0.0,0.0,40.56
+135,640,"[376, 'Spacer, m5, 4mm lg']","[8, 'GSAI/Stock']",False,McMaster-Carr,False,92871A240,McMaster Carr,8.0,8.0,"[1, 'Units']",0.0,0.0,25.52
+136,642,"[360, 'Threaded-Hole Round Pull Handle']","[8, 'GSAI/Stock']",False,McMaster-Carr,False,1726A93,McMaster,2.0,2.0,"[1, 'Units']",0.0,0.0,24.0
+137,644,"[386, 'Screw, Pan Head Slotted, m4 x 12mm']","[8, 'GSAI/Stock']",False,McMaster-Carr,False,93923A119,McMaster Carr,50.0,50.0,"[1, 'Units']",0.0,0.0,565.0
+138,646,"[393, 'Screw, Flat head, m3 x 10mm']","[8, 'GSAI/Stock']",False,McMaster-Carr,False,92125A130,McMaster Carr,100.0,100.0,"[1, 'Units']",0.0,0.0,569.0
+139,648,"[408, 'Screw, Flat Head, m4 x 8mm']","[8, 'GSAI/Stock']",False,McMaster-Carr,False,92125A188,McMaster Carr,100.0,100.0,"[1, 'Units']",0.0,0.0,685.0
+140,650,"[396, 'Screw, Flat head, m3 x 8mm']","[8, 'GSAI/Stock']",False,McMaster-Carr,False,92125A128,McMaster Carr,100.0,100.0,"[1, 'Units']",0.0,0.0,435.0
+141,652,"[361, 'Lift off Hinge']","[8, 'GSAI/Stock']",False,McMaster-Carr,False,1071A51,McMaster Carr,4.0,4.0,"[1, 'Units']",0.0,0.0,23.2
+142,654,"[400, 'Screw, Flat Head, m5 x 10mm']","[8, 'GSAI/Stock']",False,McMaster-Carr,False,92010A320,McMaster Carr,100.0,100.0,"[1, 'Units']",0.0,0.0,1214.0
+143,656,"[373, 'Nut, Locknut, External Tooth washer']","[8, 'GSAI/Stock']",False,McMaster-Carr,False,90923A219,McMaster Carr,50.0,50.0,"[1, 'Units']",0.0,0.0,620.5
+144,658,"[394, 'Screw, Flat head, m5 x 16mm']","[8, 'GSAI/Stock']",False,McMaster-Carr,False,92125A212,McMaster Carr,50.0,50.0,"[1, 'Units']",0.0,0.0,452.5
+145,660,"[404, 'Screw, Hex Head, m5 x 6mm']","[8, 'GSAI/Stock']",False,McMaster-Carr,False,91287A081,McMaster Carr,50.0,50.0,"[1, 'Units']",0.0,0.0,510.5
+146,662,"[405, 'Screw, Socket Head Low Profile, m4 x 8mm']","[8, 'GSAI/Stock']",False,McMaster-Carr,False,92855A408,McMaster Carr,25.0,25.0,"[1, 'Units']",0.0,0.0,201.25
+147,664,"[410, 'Screw, Socket Head, m4 x 6mm']","[8, 'GSAI/Stock']",False,McMaster-Carr,False,91292A107,McMaster Carr,100.0,100.0,"[1, 'Units']",0.0,0.0,763.0
+148,666,"[363, 'Cord Grip, Sanitary']","[8, 'GSAI/Stock']",False,McMaster-Carr,False,3711N12,McMaster Carr,8.0,8.0,"[1, 'Units']",0.0,0.0,388.0
+149,668,"[413, 'Screw, Socket Head, Locking, m5 x 30mm']","[8, 'GSAI/Stock']",False,McMaster-Carr,False,93705A838,McMaster Carr,10.0,10.0,"[1, 'Units']",0.0,0.0,46.0
+150,670,"[397, 'Screw, Flat head, m5 x 18mm']","[8, 'GSAI/Stock']",False,McMaster-Carr,False,92010A793,McMaster Carr,100.0,100.0,"[1, 'Units']",0.0,0.0,1499.0
+151,672,"[417, 'Pin, Clevis, Double Retaining Ring, 3/16"" Dia x 1-1/4"" Lg']","[8, 'GSAI/Stock']",False,McMaster-Carr,False,93890A109,McMaster Carr,4.0,4.0,"[1, 'Units']",0.0,0.0,26.560000000000002
+152,674,"[388, 'Screw, Pan Head Philips, m4 x 10mm']","[8, 'GSAI/Stock']",False,McMaster-Carr,False,92000A220,McMaster Carr,100.0,100.0,"[1, 'Units']",0.0,0.0,1059.0
+153,676,"[402, 'Screw, Sanitary Hex, m8 x 16mm lg']","[8, 'GSAI/Stock']",False,False,False,False,False,4.0,4.0,"[1, 'Units']",0.0,0.0,41.160000000000004
+154,678,"[300, '[HWARE-1-NUT-M20] Nut, Hex M20x2.5 SST']","[8, 'GSAI/Stock']",False,McMaster-Carr,HWARE-1-NUT-M20,91828A440,McMaster-Carr,10.0,10.0,"[1, 'Units']",0.0,0.0,140.3
+155,680,"[372, '[HW-NUT-M5-NLC] Nut, Nylon Insert, m5']","[8, 'GSAI/Stock']",False,McMaster-Carr,HW-NUT-M5-NLC,93625A200,McMaster Carr,100.0,100.0,"[1, 'Units']",0.0,0.0,6.0
+156,682,"[371, 'Nut, Cap, m5']","[8, 'GSAI/Stock']",False,McMaster-Carr,False,94000A037,McMaster Carr,25.0,25.0,"[1, 'Units']",0.0,0.0,109.75
+157,687,"[32, '[TS-1-01-17ACRES] 17"" Touchscreen Monitor AC Power']","[8, 'GSAI/Stock']","[106, '20032082']",Hope Industrial,TS-1-01-17ACRES,HIS-ML17-STAH,Hope Industrial,0.0,1.0,"[1, 'Units']",0.0,1.0,814.0
+158,688,"[32, '[TS-1-01-17ACRES] 17"" Touchscreen Monitor AC Power']","[8, 'GSAI/Stock']","[107, '20032086']",Hope Industrial,TS-1-01-17ACRES,HIS-ML17-STAH,Hope Industrial,1.0,1.0,"[1, 'Units']",0.0,0.0,814.0
+159,690,"[424, 'Air Solenoid Valve']","[8, 'GSAI/Stock']",False,False,False,False,False,3.0,3.0,"[1, 'Units']",0.0,0.0,332.7
+160,692,"[426, 'Plug Socket with Cable']","[8, 'GSAI/Stock']",False,Festo,False,KMEB-1-24-10-LED,Festo,3.0,3.0,"[1, 'Units']",0.0,0.0,134.13
+161,694,"[431, '[AP-1-01-AIRBLST] High Power Flat Super Air Nozzle with 18"" SSH']","[8, 'GSAI/Stock']",False,EXAIR,AP-1-01-AIRBLST,HP1125SS-9218,Exair,3.0,3.0,"[1, 'Units']",0.0,0.0,549.0
+162,696,"[364, 'Cord Grip, Sanitary (.2""-.25"")']","[8, 'GSAI/Stock']",False,McMaster-Carr,False,3711N11,McMaster Carr,16.0,16.0,"[1, 'Units']",0.0,0.0,737.28
+163,698,"[389, 'Thumb Screw, m4 x 8mm']","[8, 'GSAI/Stock']",False,McMaster-Carr,False,92558A100,McMaster Carr,32.0,32.0,"[1, 'Units']",0.0,0.0,233.6
+164,700,"[411, 'Screw, Socket Head, Sealing, Locking, m5 x 8mm']","[8, 'GSAI/Stock']",False,McMaster-Carr,False,96738A257,McMaster Carr,8.0,8.0,"[1, 'Units']",0.0,0.0,29.2
+165,702,"[384, 'Screw, Sealing Socket Head, 8-32 x 1/4"", Locking']","[8, 'GSAI/Stock']",False,McMaster-Carr,False,96738A159,McMaster Carr,4.0,4.0,"[1, 'Units']",0.0,0.0,14.6
+166,714,"[293, '[FT-1-01-CAS8T] Casters, leveling with brake 8in']","[8, 'GSAI/Stock']",False,NGI,FT-1-01-CAS8T,4000239,NGI,24.0,24.0,"[1, 'Units']",0.0,0.0,1651.92
+167,716,"[275, '[SFTY-1-01-64] Legend Plate, X-ray Key OFF/ON']","[8, 'GSAI/Stock']",False,EandM,SFTY-1-01-64,3SU1900-0AC16-0DH0,Siemens,10.0,10.0,"[1, 'Units']",0.0,0.0,35.2
+168,725,"[320, '[REJ-SYS-3214-DNR] Reject Conveyor']","[8, 'GSAI/Stock']",False,Clayton Controls,REJ-SYS-3214-DNR,22EDM14-026720A010101,Dorner,1.0,1.0,"[1, 'Units']",0.0,0.0,6281.81
+169,731,"[31, '[FB-SPDY-1-01] Fan board']","[8, 'GSAI/Stock']","[116, 'F06']",LAE,FB-SPDY-1-01,FB-SPDY-1-01,LAE,1.0,1.0,"[1, 'Units']",0.0,0.0,154.5
+170,735,"[446, '[AP-1-01-25] Solenoid Coil']","[8, 'GSAI/Stock']",False,EandM,AP-1-01-25,VACF-B-C1-1,Festo,3.0,3.0,"[1, 'Units']",0.0,0.0,23.55
+171,737,"[447, 'Seal SET']","[8, 'GSAI/Stock']",False,Festo,False,VAMC-B10-B-B-S8,Festo,3.0,3.0,"[1, 'Units']",0.0,0.0,4.11
+172,742,"[439, 'Gas Spring (Non-SS)']","[8, 'GSAI/Stock']",False,Associated Spring RAYMOND,False,66G010215MM0289,Associated Spring Raymond,22.0,22.0,"[1, 'Units']",0.0,0.0,2341.02
+173,744,"[440, 'Gas Spring Bracket']","[8, 'GSAI/Stock']",False,Associated Spring RAYMOND,False,BR-B100,Associated Spring Raymond,34.0,34.0,"[1, 'Units']",0.0,0.0,461.72
+174,746,"[438, 'Damper (Carbon Steel)']","[8, 'GSAI/Stock']",False,Associated Spring RAYMOND,False,89D076214TTE0445,Associated Spring Raymond,22.0,22.0,"[1, 'Units']",0.0,0.0,544.5
+175,748,"[234, '[PS-1-01-HV600W] XRay Power Supply 600W 8mA']","[8, 'GSAI/Stock']","[118, 'N21618-B00001']",Spellman High Voltage Electronics,PS-1-01-HV600W,DXM75N600X6113,Spellman,1.0,1.0,"[1, 'Units']",0.0,0.0,5500.0
+176,751,"[437, '[TS-1-01-23ACRES] 23"" Touchscreen WIDE Monitor AC Power']","[8, 'GSAI/Stock']","[119, '20033746']",Hope Industrial,TS-1-01-23ACRES,HIS-ML23-STAD,Hope Industrial,1.0,1.0,"[1, 'Units']",0.0,0.0,1070.0
+177,756,"[65, '[DET-1-01-220CON] XRay Camera 221mm, low energy']","[8, 'GSAI/Stock']","[26, '000008']",Hamamatsu,DET-1-01-220CON,C12300-321B,Hamamatsu,1.0,1.0,"[1, 'Units']",0.0,0.0,26100.0
+178,757,"[66, '[PS-DET-1-01-220CON] Direct Conversion Power Supply']","[8, 'GSAI/Stock']","[28, '00006']",Hamamatsu,PS-DET-1-01-220CON,A8206-60,Hamamatsu,1.0,1.0,"[1, 'Units']",0.0,0.0,790.0
+179,758,"[129, '[DET-1-01-220HICONFG] Regular Profile Camera Link Board (framegrabber)']","[8, 'GSAI/Stock']","[34, ' 69900491']",Hamamatsu,DET-1-01-220HICONFG,CAMRA-3113-00,Hamamatsu,1.0,1.0,"[1, 'Units']",0.0,0.0,1160.0
+180,759,"[136, '[TUBE-1-01-AC756501_DEMO] XRay Tube MCDH 75B-1,5/1,5 65°x10° Air Cooled']","[8, 'GSAI/Stock']","[40, '24422']",rtw RÖNTGEN-TECHNIK,TUBE-1-01-AC756501_DEMO,"X-ray tube type MCDH 75B-1,5/1,5 65°x10° Air Cooled",RTW,1.0,1.0,"[1, 'Units']",0.0,0.0,5335.0
+181,760,"[137, '[TUBE-1-01-AC75801-90CBL_DEMO] XRay Tube Accessory type set 9 MCDH 75 DEMO']","[8, 'GSAI/Stock']",False,False,TUBE-1-01-AC75801-90CBL_DEMO,False,False,1.0,1.0,"[1, 'Units']",0.0,0.0,850.0
+182,766,"[284, '[SFTY-1-02-11] Interlock Safety Switches for curtains']","[57, 'SLN/Stock']",False,EandM,SFTY-1-02-11,224002,IDEM,58.0,60.0,"[1, 'Units']",0.0,2.0,5913.6
+183,767,"[283, '[SFTY-1-02-21] Actuator Keys']","[57, 'SLN/Stock']",False,EandM,SFTY-1-02-21,140181,IDEM,58.0,60.0,"[1, 'Units']",0.0,2.0,508.2
+184,769,"[403, 'Screw, Shoulder, Slotted, m10, 12mm dia x 8mm lg']","[8, 'GSAI/Stock']",False,McMaster-Carr,False,90270A701,McMaster Carr,4.0,4.0,"[1, 'Units']",0.0,0.0,47.68
+185,783,"[31, '[FB-SPDY-1-01] Fan board']","[28, 'LAE/Stock']","[122, 'FB02']",LAE,FB-SPDY-1-01,FB-SPDY-1-01,LAE,1.0,1.0,"[1, 'Units']",0.0,0.0,154.5
+186,784,"[31, '[FB-SPDY-1-01] Fan board']","[28, 'LAE/Stock']","[123, 'FB-SPDY-1-01-SPARE2']",LAE,FB-SPDY-1-01,FB-SPDY-1-01,LAE,1.0,1.0,"[1, 'Units']",0.0,0.0,154.5
+187,785,"[31, '[FB-SPDY-1-01] Fan board']","[28, 'LAE/Stock']","[124, 'FB-SPDY-1-01-SPARE3']",LAE,FB-SPDY-1-01,FB-SPDY-1-01,LAE,1.0,1.0,"[1, 'Units']",0.0,0.0,154.5
+188,786,"[31, '[FB-SPDY-1-01] Fan board']","[28, 'LAE/Stock']","[125, 'FB-SPDY-1-01-SPARE4']",LAE,FB-SPDY-1-01,FB-SPDY-1-01,LAE,1.0,1.0,"[1, 'Units']",0.0,0.0,154.5
+189,787,"[78, '[MC-SPDY-1-01] Controller board']","[28, 'LAE/Stock']","[127, 'MC-SPDY-1-01-SPARE2']",LAE,MC-SPDY-1-01,MC-SPDY-1-01,LAE,1.0,1.0,"[1, 'Units']",0.0,0.0,1202.5
+190,788,"[78, '[MC-SPDY-1-01] Controller board']","[28, 'LAE/Stock']","[71, 'FC']",LAE,MC-SPDY-1-01,MC-SPDY-1-01,LAE,1.0,1.0,"[1, 'Units']",0.0,0.0,1202.5
+191,790,"[78, '[MC-SPDY-1-01] Controller board']","[28, 'LAE/Stock']","[126, 'MC-SPDY-1-01-SPARE1']",LAE,MC-SPDY-1-01,MC-SPDY-1-01,LAE,1.0,1.0,"[1, 'Units']",0.0,0.0,1202.5
+192,792,"[516, '[AP-1-01-APS] Pressure Switch']","[8, 'GSAI/Stock']",False,AutomationDirect,AP-1-01-APS,QPSH-AP-42,Prosense,3.0,3.0,"[1, 'Units']",0.0,0.0,228.0
+193,794,"[141, '[LBL-EC-LOC] Lock out Tag out with Symbol - English Label']","[8, 'GSAI/Stock']",False,MySafetyLabels,LBL-EC-LOC,LB-2824-SSL-2x4,MySafetyLabels,2.0,2.0,"[1, 'Units']",0.0,0.0,5.38
+194,796,"[459, 'Precision Pivot Pins - Straight, Retaining Rings (MISUMI)']","[8, 'GSAI/Stock']",False,MISUMI USA,False,SCDG6-30,Misumi,20.0,20.0,"[1, 'Units']",0.0,0.0,102.4
+195,798,"[407, 'Screw, Flat Head, Sealing, m6 x 8mm']","[8, 'GSAI/Stock']",False,McMaster-Carr,False,90505A410,McMaster Carr,25.0,25.0,"[1, 'Units']",0.0,0.0,296.5
+196,800,"[236, '[HRX380.A] HRX380.A']","[8, 'GSAI/Stock']","[129, 'A2121AP02']",False,HRX380.A,False,False,1.0,1.0,"[1, 'Units']",0.0,0.0,0.0
+197,802,"[236, '[HRX380.A] HRX380.A']","[8, 'GSAI/Stock']","[130, 'A2116AP01']",False,HRX380.A,False,False,1.0,1.0,"[1, 'Units']",0.0,0.0,0.0
+198,809,"[20, '[SFTY-1-04-90] Retro Reflective Photoelectric Sensor']","[57, 'SLN/Stock']",False,EandM,SFTY-1-04-90,1041436,Sick,13.0,17.0,"[1, 'Units']",0.0,4.0,3264.34
+199,810,"[21, '[SFTY-1-04-100] Sensor Reflector']","[57, 'SLN/Stock']",False,EandM,SFTY-1-04-100,1012719,Sick,4.0,12.0,"[1, 'Units']",0.0,8.0,156.12
+200,811,"[423, '[PC-SPDY-1-02] Industrial Computer (2000 - 4 Port Lan)']","[57, 'SLN/Stock']","[108, 'PSE210800065']",Premio,PC-SPDY-1-02,M2Q370V2-GRE-A,Premio,1.0,1.0,"[1, 'Units']",0.0,0.0,1960.0
+201,814,"[423, '[PC-SPDY-1-02] Industrial Computer (2000 - 4 Port Lan)']","[57, 'SLN/Stock']","[111, 'PSE210800068']",Premio,PC-SPDY-1-02,M2Q370V2-GRE-A,Premio,1.0,1.0,"[1, 'Units']",0.0,0.0,1960.0
+202,815,"[282, '[ELEC-1-FAN-2460] Tube Fans - active cooling']","[57, 'SLN/Stock']",False,Digikey,ELEC-1-FAN-2460,1688-2281-ND,Sanyo Denki America Inc.,30.0,40.0,"[1, 'Units']",0.0,10.0,721.2
+203,816,"[35, '[VFD-1-01-1HP1P230] Variable Frequency Drive (1 HP)']","[57, 'SLN/Stock']",False,Buckles-Smith Electric,VFD-1-01-1HP1P230,25B-A4P8N104,Allen Bradley,22.0,23.0,"[1, 'Units']",0.0,1.0,13524.0
+204,817,"[42, '[PS-1-01-LV24] 24V DC Power Supply DIN Mountable (10A)']","[57, 'SLN/Stock']",False,Digikey,PS-1-01-LV24,CP10.241,PULS,11.0,15.0,"[1, 'Units']",0.0,4.0,4200.0
+205,818,"[43, '[PS-1-01-LV12] 12V DC Power Supply DIN Mountable']","[57, 'SLN/Stock']",False,Digikey,PS-1-01-LV12,2904605,Phoenix,8.0,12.0,"[1, 'Units']",0.0,4.0,1272.0
+206,819,"[46, '[AC-1-01-SL4ZDB] Four zone Stacklight: Green, Yellow, Red, Blue, This model also includes a buzzer']","[57, 'SLN/Stock']",False,EandM,AC-1-01-SL4ZDB,LS7-502DFBWH-RYGBC,Patlight,9.0,13.0,"[1, 'Units']",0.0,4.0,3223.48
+207,820,"[47, '[AC-1-01-SLLS7SM] Side mount for stacklight']","[57, 'SLN/Stock']",False,EandM,AC-1-01-SLLS7SM,SZ-110D,Patlight,9.0,13.0,"[1, 'Units']",0.0,4.0,403.0
+208,821,"[61, '[LBL-HV-ENG] Hazardous Voltage with Flash Symbol - English Label']","[57, 'SLN/Stock']",False,MySafetyLabels,LBL-HV-ENG,LB-4107-SSL-2x4,MySafetyLabels,22.0,24.0,"[1, 'Units']",0.0,2.0,64.56
+209,822,"[62, '[LBL-RAD-ENG] Xray Warning with Radiation Symbol - English Label']","[57, 'SLN/Stock']",False,MySafetyLabels,LBL-RAD-ENG,LB-0094-SSL-2x4,MySafetyLabels,12.0,16.0,"[1, 'Units']",0.0,4.0,43.04
+210,823,"[141, '[LBL-EC-LOC] Lock out Tag out with Symbol - English Label']","[57, 'SLN/Stock']",False,MySafetyLabels,LBL-EC-LOC,LB-2824-SSL-2x4,MySafetyLabels,22.0,24.0,"[1, 'Units']",0.0,2.0,64.56
+211,824,"[44, '[ELEC-1-TB-4GRY] Terminal Blocks (4 hole grey)']","[57, 'SLN/Stock']",False,Newark Electronic,ELEC-1-TB-4GRY,280-833,Wago,445.0,445.0,"[1, 'Units']",0.0,0.0,2020.3
+212,825,"[79, '[ELEC-1-TB-4GND] Terminal Blocks (4 hole green/yellow)']","[57, 'SLN/Stock']",False,Newark Electronic,ELEC-1-TB-4GND,280-837,Wago,65.0,65.0,"[1, 'Units']",0.0,0.0,916.5
+213,826,"[83, '[ELEC-1-TB-JMP280] Terminal Block jumper (280 series)']","[57, 'SLN/Stock']",False,Newark Electronic,ELEC-1-TB-JMP280,280-402,Wago,570.0,570.0,"[1, 'Units']",0.0,0.0,678.3000000000001
+214,827,"[82, '[ELEC-1-TB-4END] Terminal Block end plate (4 hole, 280 series)']","[57, 'SLN/Stock']",False,Newark Electronic,ELEC-1-TB-4END,280-315,Wago,32.0,32.0,"[1, 'Units']",0.0,0.0,57.28
+215,828,"[84, '[ELEC-1-TB-3GRY] Terminal Blocks (3 hole grey, 10awg)']","[57, 'SLN/Stock']",False,Newark Electronic,ELEC-1-TB-3GRY,282-681,Wago,332.0,332.0,"[1, 'Units']",0.0,0.0,2144.7200000000003
+216,829,"[86, '[ELEC-1-TB-3END] Terminal Block end plate (3 hole, 282 series)']","[57, 'SLN/Stock']",False,Newark Electronic,ELEC-1-TB-3END,282-339,Wago,60.0,60.0,"[1, 'Units']",0.0,0.0,117.0
+217,830,"[85, '[ELEC-1-TB-3GND] Terminal Blocks (3 hole green/yellow, 10awg)']","[57, 'SLN/Stock']",False,Newark Electronic,ELEC-1-TB-3GND,282-687,Wago,65.0,65.0,"[1, 'Units']",0.0,0.0,910.65
+218,831,"[87, '[ELEC-1-TB-JMP282] Terminal Block jumper (282 series)']","[57, 'SLN/Stock']",False,Newark Electronic,ELEC-1-TB-JMP282,282-402,Wago,510.0,510.0,"[1, 'Units']",0.0,0.0,933.3000000000001
+219,832,"[88, '[ELEC-1-TB-END] Terminal Block end stop']","[57, 'SLN/Stock']",False,Newark Electronic,ELEC-1-TB-END,249-116,Wago,150.0,150.0,"[1, 'Units']",0.0,0.0,288.0
+220,833,"[89, '[ELEC-1-TB-LBLBLNK] Terminal Block Blank Label']","[57, 'SLN/Stock']",False,Newark Electronic,ELEC-1-TB-LBLBLNK,209-501,Wago,3.0,3.0,"[1, 'Units']",0.0,0.0,19.830000000000002
+221,834,"[90, '[ELEC-1-TB-LBLGND] Terminal Block GND Label']","[57, 'SLN/Stock']",False,Newark Electronic,ELEC-1-TB-LBLGND,209-680,Wago,4.0,4.0,"[1, 'Units']",0.0,0.0,31.720000000000002
+222,836,"[92, '[ELEC-1-FH-2POLCC] Fuse Holder']","[57, 'SLN/Stock']",False,Allied Electronics & Automation,ELEC-1-FH-2POLCC,70193206,Marathon,42.0,45.0,"[1, 'Units']",0.0,3.0,2187.4500000000003
+223,837,"[93, '[ELEC-1-FU-CC10A] Class CC Fuses']","[57, 'SLN/Stock']",False,Digikey,ELEC-1-FU-CC10A,CCMR010,Littlefuse,26.0,32.0,"[1, 'Units']",0.0,6.0,707.52
+224,838,"[104, '[ELEC-1-CON-2POSPLUG] 2 Pos 3.5mm Plug']","[57, 'SLN/Stock']",False,Digikey,ELEC-1-CON-2POSPLUG,1952267,Phoenix Contact,300.0,300.0,"[1, 'Units']",0.0,0.0,783.0
+225,839,"[102, '[CBL-1-USBAMINIB] USB A to Mini-B']","[57, 'SLN/Stock']",False,Digikey,CBL-1-USBAMINIB,3021003-03,Qualtek,0.0,1.0,"[1, 'Units']",0.0,1.0,2.81
+226,840,"[105, '[ELEC-1-CON-3POSPLUG] 3 Pos 3.5mm Plug']","[57, 'SLN/Stock']",False,Digikey,ELEC-1-CON-3POSPLUG,1952270,Phoenix Contact,100.0,100.0,"[1, 'Units']",0.0,0.0,392.0
+227,841,"[106, '[ELEC-1-CON-4POSPLUG] 4 Pos 3.5mm Plug']","[57, 'SLN/Stock']",False,Digikey,ELEC-1-CON-4POSPLUG,1952283,Phoenix Contact,300.0,300.0,"[1, 'Units']",0.0,0.0,1443.0
+228,842,"[107, '[ELEC-1-CON-5POSPLUG] 5 Pos 3.5mm Plug']","[57, 'SLN/Stock']",False,Digikey,ELEC-1-CON-5POSPLUG,1952296,Phoenix Contact,56.0,56.0,"[1, 'Units']",0.0,0.0,338.8
+229,843,"[298, '[CBL-1-C13-ST] 3/14 C-13 Straight Cable']","[57, 'SLN/Stock']",False,Arrow Electronics,CBL-1-C13-ST,A-PC2302-030026-1,Assmann,0.0,1.0,"[1, 'Units']",0.0,1.0,7.640000000000001
+230,844,"[311, '[CBL-1-C13-RA] 3/14 C-13 Right Angle Cable']","[57, 'SLN/Stock']",False,Digikey,CBL-1-C13-RA,AE10718-ND,Assmann WSW Components,2.0,4.0,"[1, 'Units']",0.0,2.0,44.44
+231,845,"[316, '[CBL-1-ETH-3FT] Ethernet Cable 3 Ft, Black']","[57, 'SLN/Stock']",False,Digikey,CBL-1-ETH-3FT,95-N262-006-BK-ND,Tripp Lite,2.0,3.0,"[1, 'Units']",0.0,1.0,6.69
+232,846,"[436, '[ELEC-1-DCT-21] Wire Duct, 2in W x 1in H Gray']","[57, 'SLN/Stock']",False,Allied Electronics & Automation,ELEC-1-DCT-21,70326786,Panduit Corp.,48.0,48.0,"[16, 'ft']",0.0,0.0,1892.16
+233,847,"[445, '[ELEC-1-DCT-CVR2] Duct cover, 2inch Gray']","[57, 'SLN/Stock']",False,Allied Electronics & Automation,ELEC-1-DCT-CVR2,70333409,Panduit Corp.,6.0,6.0,"[16, 'ft']",0.0,0.0,77.4
+234,848,"[103, '[ELEC-1-DIS-3POL40A] Power Disconnect Switch']","[57, 'SLN/Stock']",False,Allied Electronics & Automation,ELEC-1-DIS-3POL40A,KU340N,Altech Corp,5.0,12.0,"[1, 'Units']",0.0,7.0,399.12
+235,849,"[98, '[ELEC-1-DIS-HAN] Power Disconnect Handle']","[57, 'SLN/Stock']",False,Allied Electronics & Automation,ELEC-1-DIS-HAN,OKA/KU LK10Y/R,Altech Corp,5.0,12.0,"[1, 'Units']",0.0,7.0,336.96
+236,850,"[242, '[SFTY-1-04-91] Right Angle Sensor M12 Cable 5M Length']","[57, 'SLN/Stock']",False,Allied Electronics & Automation,SFTY-1-04-91,70746218,IFM,56.0,60.0,"[1, 'Units']",0.0,4.0,917.4
+237,851,"[269, '[ELEC-1-FAN-24120] Rear Fans for Back Door 24v']","[57, 'SLN/Stock']",False,Digikey,ELEC-1-FAN-24120,1688-1496-ND,San Ace,89.0,89.0,"[1, 'Units']",0.0,0.0,1832.51
+238,852,"[14, '[SFTY-1-02-30] Emergency stop button']","[57, 'SLN/Stock']",False,Walker Industrial,SFTY-1-02-30,CE3T-10R-11,ABB,28.0,35.0,"[1, 'Units']",0.0,7.0,679.0
+239,853,"[274, '[SFTY-1-01-63] Legend Plate Holder']","[57, 'SLN/Stock']",False,EandM,SFTY-1-01-63,Legend Plate Holder,Siemens,23.0,26.0,"[1, 'Units']",0.0,3.0,36.14
+240,854,"[96, '[CBL-1-DVID] DVI-D cable (PC to touchscreen)']","[57, 'SLN/Stock']",False,Digikey,CBL-1-DVID,TL676-ND,Tripp Lite,0.0,1.0,"[1, 'Units']",0.0,1.0,10.78
+241,855,"[17, '[SFTY-1-01-60] X-ray Generator Key Switch']","[57, 'SLN/Stock']",False,EandM,SFTY-1-01-60,3SU1050-4BF01-0AA0,Siemens,14.0,16.0,"[1, 'Units']",0.0,2.0,1055.2
+242,856,"[272, '[SFTY-1-01-61] X-ray key switch contact holder']","[57, 'SLN/Stock']",False,EandM,SFTY-1-01-61,3SU1550-0AA10-0AA0,Siemens,13.0,16.0,"[1, 'Units']",0.0,3.0,85.76
+243,857,"[273, '[SFTY-1-01-62] Contact block, NO x-ray key switch']","[57, 'SLN/Stock']",False,EandM,SFTY-1-01-62,3SU1400-1AA10-1BA0,Siemens,13.0,16.0,"[1, 'Units']",0.0,3.0,221.6
+244,858,"[275, '[SFTY-1-01-64] Legend Plate, X-ray Key OFF/ON']","[57, 'SLN/Stock']",False,EandM,SFTY-1-01-64,3SU1900-0AC16-0DH0,Siemens,18.0,24.0,"[1, 'Units']",0.0,6.0,84.48
+245,859,"[420, 'HRX380 Sliding Rail']","[57, 'SLN/Stock']",False,Accuride International,False,SS5322,Accuride,6.0,6.0,"[1, 'Units']",0.0,0.0,2078.16
+246,860,"[319, '[MC-SPDY-1-02] Controller Board']","[57, 'SLN/Stock']","[114, 'SC05']",Selene,MC-SPDY-1-02,Spidey_810 A Rev: A,Selene,0.0,1.0,"[1, 'Units']",0.0,1.0,1245.0
+247,863,"[97, '[CBL-1-USBAB] USB A to B male (PC to touchscreen)']","[57, 'SLN/Stock']",False,Digikey,CBL-1-USBAB,380-1424-ND,Stewart Connector,0.0,1.0,"[1, 'Units']",0.0,1.0,2.16
+248,864,"[95, '[ELEC-1-THRMRES] Thermal resistor (M5)']","[57, 'SLN/Stock']",False,Digikey,ELEC-1-THRMRES,NTCLG100E2103JB,Vishay,0.0,7.0,"[1, 'Units']",0.0,7.0,7.07
+249,866,"[101, '[ELEC-1-CON-FANPLUG] Fan Plugs']","[57, 'SLN/Stock']",False,Digikey,ELEC-1-CON-FANPLUG,151350306,Molex,66.0,89.0,"[1, 'Units']",0.0,23.0,289.25
+250,867,"[314, '[CBL-1-DB15] DB 15 2 Row Cable']","[57, 'SLN/Stock']",False,Digikey,CBL-1-DB15,2926085,Phoenix Contact,3.0,6.0,"[1, 'Units']",0.0,3.0,333.90000000000003
+251,868,"[458, '[PS-1-01-UPS-BATT] Sealed Lead Acid Battery VRLA/24DC/3.4AH']","[57, 'SLN/Stock']",False,Mouser Electronics,PS-1-01-UPS-BATT,2320306,Phoenix Contact,16.0,18.0,"[1, 'Units']",0.0,2.0,4259.16
+252,869,"[419, 'DIN Rail (2m)']","[57, 'SLN/Stock']",False,Allied Electronics & Automation,False,71369683,Allied Electronics,4.0,4.0,"[8, 'm']",0.0,0.0,20.84
+253,872,"[32, '[TS-1-01-17ACRES] 17"" Touchscreen Monitor AC Power']","[57, 'SLN/Stock']","[103, '20031796']",Hope Industrial,TS-1-01-17ACRES,HIS-ML17-STAH,Hope Industrial,0.0,1.0,"[1, 'Units']",0.0,1.0,814.0
+254,889,"[15, '[SFTY-1-02-40] Non Contact Magnetic Interlock']","[57, 'SLN/Stock']",False,EandM,SFTY-1-02-40,138030,IDEM,53.0,62.0,"[1, 'Units']",0.0,9.0,9257.84
+255,891,"[312, '[CBL-1-820SH] 8/20 AWG Foil Shield Cable']","[57, 'SLN/Stock']",False,Digikey,CBL-1-820SH,5468CSL005-ND,Alpha Wire,2.0,2.0,"[1, 'Units']",0.0,0.0,1140.16
+256,892,"[310, '[CBL-1-2020] 20/20 AWG Unshielded Cable']","[57, 'SLN/Stock']",False,Digikey,CBL-1-2020,A5060/20C-100-ND,Alpha Wire,2.0,2.0,"[1, 'Units']",0.0,0.0,2652.1
+257,894,"[448, '[COOL-1-WAT-3000] HEAT EXCHANGE LIQUID - AIR 3000W']","[8, 'GSAI/Stock']",False,Digikey,COOL-1-WAT-3000,1487-387002779-ND,Laird,1.0,1.0,"[1, 'Units']",0.0,0.0,2757.3
+258,895,"[448, '[COOL-1-WAT-3000] HEAT EXCHANGE LIQUID - AIR 3000W']","[57, 'SLN/Stock']",False,Digikey,COOL-1-WAT-3000,1487-387002779-ND,Laird,2.0,2.0,"[1, 'Units']",0.0,0.0,5514.6
+259,897,"[521, 'Cable Fitting, Large']","[57, 'SLN/Stock']",False,McMaster-Carr,False,7310K34,McMaster,2.0,4.0,"[1, 'Units']",0.0,2.0,26.92
+260,899,"[522, 'Cable Fitting, Small']","[57, 'SLN/Stock']",False,McMaster-Carr,False,7310K33,McMaster,14.0,28.0,"[1, 'Units']",0.0,14.0,134.96
+261,901,"[523, 'Filter Material']","[57, 'SLN/Stock']",False,McMaster-Carr,False,5307T125,McMaster,2.0,4.0,"[1, 'Units']",0.0,2.0,48.92
+262,903,"[524, 'Filter Tray Gasket']","[57, 'SLN/Stock']",False,McMaster-Carr,False,5109K21,McMaster Carr,2.0,4.0,"[1, 'Units']",0.0,2.0,61.36
+263,905,"[519, '[AC-1-02-LOCK] Enclosure Latch and Key']","[57, 'SLN/Stock']",False,McMaster-Carr,AC-1-02-LOCK,2051N26,McMaster Carr,34.0,35.0,"[1, 'Units']",0.0,1.0,1562.4
+264,907,"[355, '[FT-1-01-3ASF] Standard Foot']","[57, 'SLN/Stock']",False,NGI,FT-1-01-3ASF,"XHJ105-XHJG20210-RHOX2080,FIX",NGI,16.0,16.0,"[1, 'Units']",0.0,0.0,1589.1200000000001
+265,913,"[449, '[ELEC-1-ACHEAT-02-2000] CS020 Enclosure Air Conditioner 2,000 BTU/H']","[57, 'SLN/Stock']",False,Thermal Edge,ELEC-1-ACHEAT-02-2000,CS0202364X,Thermal Edge,0.0,1.0,"[1, 'Units']",0.0,1.0,3160.0
+266,914,"[430, '[01-FRM-M] HRX380 Medium Leg Frame']","[57, 'SLN/Stock']",False,Rice Lake Weighing Systems,01-FRM-M,3261061.1,Rice Lake,1.0,2.0,"[1, 'Units']",0.0,1.0,1837.5
+267,916,"[19, '[SFTY-1-01-80] Red Stop Button Flush Mount']","[57, 'SLN/Stock']",False,Buckles-Smith Electric,SFTY-1-01-80,800K-30FMR24X01,Allen Bradley,10.0,12.0,"[1, 'Units']",0.0,2.0,1610.04
+268,919,"[581, '[SFTY-1-02-31] Emergency Stop Legend Plate']","[57, 'SLN/Stock']",False,Allied Electronics & Automation,SFTY-1-02-31,70094232,ABB,20.0,24.0,"[1, 'Units']",0.0,4.0,153.12
+269,924,"[230, '[DET-1-01-350CON] Dual Energy X-Ray Detector (350)']","[8, 'GSAI/Stock']","[136, '02FX352423']",Direct Conversion,DET-1-01-350CON,TDI350.1.60.075,Direct Conversion,1.0,1.0,"[1, 'Units']",0.0,0.0,15569.65
+270,925,"[293, '[FT-1-01-CAS8T] Casters, leveling with brake 8in']","[57, 'SLN/Stock']",False,NGI,FT-1-01-CAS8T,4000239,NGI,28.0,28.0,"[1, 'Units']",0.0,0.0,1927.24
+271,927,"[452, '[SFTY-1-04-101] Sensor Reflector (80mm x 80mm)']","[57, 'SLN/Stock']",False,EandM,SFTY-1-04-101,PL80A,SICK,44.0,56.0,"[1, 'Units']",0.0,12.0,1792.0
+272,929,"[290, '[CON-1-01-3415] HRX380 Conveyor (34x15)']","[8, 'GSAI/Stock']",False,Inline Motion,CON-1-01-3415,1371-101,Inline Motion,1.0,1.0,"[1, 'Units']",0.0,0.0,6644.4800000000005
+273,943,"[519, '[AC-1-02-LOCK] Enclosure Latch and Key']","[8, 'GSAI/Stock']",False,McMaster-Carr,AC-1-02-LOCK,2051N26,McMaster Carr,36.0,36.0,"[1, 'Units']",0.0,0.0,1607.04
+274,944,"[8, '[PS-1-01-HV300W] XRay Power Supply 300W']","[57, 'SLN/Stock']","[25, '135013161-A00001']",Spellman High Voltage Electronics,PS-1-01-HV300W,DXM40N300X6057,Spellman,1.0,1.0,"[1, 'Units']",0.0,0.0,2952.0
+275,955,"[585, 'F06-VME8-20-BZ VOLUME LINE END FITTING']","[8, 'GSAI/Stock']",False,Industrial Gas Springs,False,F06-VME8-20-BZ,industrial gas springs,50.0,50.0,"[1, 'Units']",0.0,0.0,52.5
+276,957,"[437, '[TS-1-01-23ACRES] 23"" Touchscreen WIDE Monitor AC Power']","[57, 'SLN/Stock']","[155, '20036355']",Hope Industrial,TS-1-01-23ACRES,HIS-ML23-STAD,Hope Industrial,1.0,1.0,"[1, 'Units']",0.0,0.0,1070.0
+277,959,"[437, '[TS-1-01-23ACRES] 23"" Touchscreen WIDE Monitor AC Power']","[57, 'SLN/Stock']","[156, '20036737']",Hope Industrial,TS-1-01-23ACRES,HIS-ML23-STAD,Hope Industrial,1.0,1.0,"[1, 'Units']",0.0,0.0,1070.0
+278,961,"[437, '[TS-1-01-23ACRES] 23"" Touchscreen WIDE Monitor AC Power']","[57, 'SLN/Stock']","[157, '20036740']",Hope Industrial,TS-1-01-23ACRES,HIS-ML23-STAD,Hope Industrial,1.0,1.0,"[1, 'Units']",0.0,0.0,1070.0
+279,963,"[437, '[TS-1-01-23ACRES] 23"" Touchscreen WIDE Monitor AC Power']","[57, 'SLN/Stock']","[158, '20036361']",Hope Industrial,TS-1-01-23ACRES,HIS-ML23-STAD,Hope Industrial,1.0,1.0,"[1, 'Units']",0.0,0.0,1070.0
+280,965,"[437, '[TS-1-01-23ACRES] 23"" Touchscreen WIDE Monitor AC Power']","[57, 'SLN/Stock']","[159, '20036733']",Hope Industrial,TS-1-01-23ACRES,HIS-ML23-STAD,Hope Industrial,0.0,1.0,"[1, 'Units']",0.0,1.0,1070.0
+281,967,"[437, '[TS-1-01-23ACRES] 23"" Touchscreen WIDE Monitor AC Power']","[57, 'SLN/Stock']","[160, '20036732']",Hope Industrial,TS-1-01-23ACRES,HIS-ML23-STAD,Hope Industrial,1.0,1.0,"[1, 'Units']",0.0,0.0,1070.0
+282,969,"[437, '[TS-1-01-23ACRES] 23"" Touchscreen WIDE Monitor AC Power']","[57, 'SLN/Stock']","[161, '20036354']",Hope Industrial,TS-1-01-23ACRES,HIS-ML23-STAD,Hope Industrial,1.0,1.0,"[1, 'Units']",0.0,0.0,1070.0
+283,971,"[437, '[TS-1-01-23ACRES] 23"" Touchscreen WIDE Monitor AC Power']","[57, 'SLN/Stock']","[162, '20036738']",Hope Industrial,TS-1-01-23ACRES,HIS-ML23-STAD,Hope Industrial,1.0,1.0,"[1, 'Units']",0.0,0.0,1070.0
+284,973,"[437, '[TS-1-01-23ACRES] 23"" Touchscreen WIDE Monitor AC Power']","[57, 'SLN/Stock']","[163, '20036358']",Hope Industrial,TS-1-01-23ACRES,HIS-ML23-STAD,Hope Industrial,1.0,1.0,"[1, 'Units']",0.0,0.0,1070.0
+285,975,"[460, '[SHME-380-31-0055] Detector Bracket, Hanging']","[8, 'GSAI/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-380-31-0055,380-31-0055 R-2,RMFI,20.0,20.0,"[1, 'Units']",0.0,0.0,344.0
+286,977,"[461, '[SHME-380-21-0022] Detector Bracket Assy']","[8, 'GSAI/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-380-21-0022,380-21-0022 R-2,RMFI,5.0,5.0,"[1, 'Units']",0.0,0.0,342.0
+287,979,"[462, '[SHME-380-21-0024] Front Door W Studs Assy']","[8, 'GSAI/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-380-21-0024,380-21-0024 R-2.1,RMFI,5.0,5.0,"[1, 'Units']",0.0,0.0,1923.0
+288,981,"[463, '[SHME-380-21-0057] Front Door Plate Assy']","[8, 'GSAI/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-380-21-0057,380-21-0057 R-2.1,RMFI,5.0,5.0,"[1, 'Units']",0.0,0.0,807.0
+289,983,"[464, '[SHME-380-21-0026] Display Door Assy']","[8, 'GSAI/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-380-21-0026,380-21-0026 R-2.1,RMFI,5.0,5.0,"[1, 'Units']",0.0,0.0,1693.25
+290,985,"[465, '[SHME-380-31-0028] Collar, Display']","[8, 'GSAI/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-380-31-0028,380-31-0028 R-2,RMFI,5.0,5.0,"[1, 'Units']",0.0,0.0,317.0
+291,987,"[466, '[SHME-380-21-0029] Hinge Upper, Flipped Assy']","[8, 'GSAI/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-380-21-0029,380-21-0029 R-2,RMFI,10.0,10.0,"[1, 'Units']",0.0,0.0,489.5
+292,989,"[467, '[SHME-380-21-0030] Door Back Assy']","[8, 'GSAI/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-380-21-0030,380-21-0030 R-2,RMFI,5.0,5.0,"[1, 'Units']",0.0,0.0,2579.5
+293,991,"[468, '[SHME-380-21-0033] Back Door Hinge Bracket Weld Assy']","[8, 'GSAI/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-380-21-0033,380-21-0033 R-2,RMFI,10.0,10.0,"[1, 'Units']",0.0,0.0,591.5
+294,993,"[469, '[SHME-380-21-0078] Fan Mounting Bracket Assy']","[8, 'GSAI/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-380-21-0078,380-21-0078 R-2,RMFI,10.0,10.0,"[1, 'Units']",0.0,0.0,454.0
+295,995,"[470, '[SHME-380-21-0079] Mid Filter Bracket Assy']","[8, 'GSAI/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-380-21-0079,380-21-0079 R-2,RMFI,10.0,10.0,"[1, 'Units']",0.0,0.0,817.5
+296,997,"[471, '[SHME-380-31-0081] Door Air Panel']","[8, 'GSAI/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-380-31-0081,380-31-0081 R-2,RMFI,5.0,5.0,"[1, 'Units']",0.0,0.0,693.0
+297,999,"[472, '[SHME-380-21-0080] Door Reinforcement Bracket Assy']","[8, 'GSAI/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-380-21-0080,380-21-0080 R-2,RMFI,10.0,10.0,"[1, 'Units']",0.0,0.0,463.0
+298,1001,"[473, '[SHME-380-21-0034] Curtain Wedge Design']","[8, 'GSAI/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-380-21-0034,380-21-0034 R-2,RMFI,5.0,5.0,"[1, 'Units']",0.0,0.0,372.5
+299,1003,"[474, '[SHME-380-21-0035] Left Curtain Wedge Design']","[8, 'GSAI/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-380-21-0035,380-21-0035 R-2,RMFI,5.0,5.0,"[1, 'Units']",0.0,0.0,374.0
+300,1005,"[475, '[SHME-380-21-0059] Fan Ducting, Fixed Lower Assy']","[8, 'GSAI/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-380-21-0059,380-21-0059 R-2,RMFI,5.0,5.0,"[1, 'Units']",0.0,0.0,742.5
+301,1007,"[476, '[SHME-380-21-0060] Duct Overlap Bottom Assy']","[8, 'GSAI/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-380-21-0060,380-21-0060 R-2,RMFI,5.0,5.0,"[1, 'Units']",0.0,0.0,339.0
+302,1009,"[477, '[SHME-380-31-0061] Fan Ducting, Tube Upper']","[8, 'GSAI/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-380-31-0061,380-31-0061 R-2,RMFI,5.0,5.0,"[1, 'Units']",0.0,0.0,361.5
+303,1011,"[478, '[SHME-380-31-0062] Duct Overlap Top']","[8, 'GSAI/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-380-31-0062,380-31-0062 R-2,RMFI,5.0,5.0,"[1, 'Units']",0.0,0.0,202.5
+304,1013,"[479, '[SHME-380-21-0064] Fan Ducting, Fixed Upper Assy']","[8, 'GSAI/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-380-21-0064,380-21-0064 R-2.2,RMFI,5.0,5.0,"[1, 'Units']",0.0,0.0,946.75
+305,1015,"[480, '[SHME-380-21-0065] Fan Ducting, Tube Lower Assy']","[8, 'GSAI/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-380-21-0065,380-21-0065 R-2,RMFI,5.0,5.0,"[1, 'Units']",0.0,0.0,183.5
+306,1017,"[481, '[SHME-380-21-0066] Support Fan Ducting Long Assy']","[8, 'GSAI/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-380-21-0066,380-21-0066 R-2,RMFI,10.0,10.0,"[1, 'Units']",0.0,0.0,315.0
+307,1019,"[494, '[SHME-380-21-0067] Support Fan Ducting Short Assy']","[8, 'GSAI/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-380-21-0067,380-21-0067 R-2.1,RMFI,10.0,10.0,"[1, 'Units']",0.0,0.0,315.0
+308,1021,"[482, '[SHME-380-21-0040] Rail Bracket Right Assy']","[8, 'GSAI/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-380-21-0040,380-21-0040 R-2,RMFI,5.0,5.0,"[1, 'Units']",0.0,0.0,407.5
+309,1023,"[483, '[SHME-380-21-0041] Rail Bracket Left Assy']","[8, 'GSAI/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-380-21-0041,380-21-0041 R-2,RMFI,5.0,5.0,"[1, 'Units']",0.0,0.0,452.5
+310,1025,"[484, '[SHME-380-21-0042] Tray Assembly']","[8, 'GSAI/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-380-21-0042,380-21-0042 R-2,RMFI,5.0,5.0,"[1, 'Units']",0.0,0.0,612.0
+311,1027,"[485, '[SHME-380-31-0070] Tube PSU Bracket']","[8, 'GSAI/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-380-31-0070,380-31-0070 R-2,RMFI,10.0,10.0,"[1, 'Units']",0.0,0.0,208.0
+312,1029,"[486, '[SHME-380-21-0076] Conveyor Drive Mounting Plate Assy']","[8, 'GSAI/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-380-21-0076,380-21-0076 R-2,RMFI,5.0,5.0,"[1, 'Units']",0.0,0.0,122.0
+313,1031,"[487, '[SHME-380-21-0075] UPS Din Bracket Assy']","[8, 'GSAI/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-380-21-0075,380-21-0075 R-2,RMFI,5.0,5.0,"[1, 'Units']",0.0,0.0,148.5
+314,1033,"[488, '[SHME-380-21-0074] Power Supply DIN Bracket Assy']","[8, 'GSAI/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-380-21-0074,380-21-0074 R-2,RMFI,5.0,5.0,"[1, 'Units']",0.0,0.0,208.75
+315,1035,"[489, '[SHME-380-21-0073] Electrical Bracket OW Voltage Assy']","[8, 'GSAI/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-380-21-0073,380-21-0073 R-2,RMFI,5.0,5.0,"[1, 'Units']",0.0,0.0,166.0
+316,1037,"[490, '[SHME-380-21-0072] Electrical Bracket High Voltage Assy']","[8, 'GSAI/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-380-21-0072,380-21-0072 R-2,RMFI,5.0,5.0,"[1, 'Units']",0.0,0.0,298.0
+317,1039,"[491, '[SHME-380-21-0069] Rear Door Interlock Bracket Assy']","[8, 'GSAI/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-380-21-0069,380-21-0069 R-2,RMFI,5.0,5.0,"[1, 'Units']",0.0,0.0,122.5
+318,1041,"[492, '[SHME-380-21-0068] Hood Interlock Bracket Assy']","[8, 'GSAI/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-380-21-0068,380-21-0068 R-2,RMFI,5.0,5.0,"[1, 'Units']",0.0,0.0,94.5
+319,1043,"[493, '[SHME-380-21-0077] Conveyor Block Sheet Metal Assy']","[8, 'GSAI/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-380-21-0077,380-21-0077 R-2,RMFI,10.0,10.0,"[1, 'Units']",0.0,0.0,784.5
+320,1045,"[586, '[DET-1-01-THORCON-DEMO] Dual Energy X-Ray Detector (Thor) DEMO']","[8, 'GSAI/Stock']","[164, '05FX100593']",Direct Conversion,DET-1-01-THORCON-DEMO,THOR-DEMO,Direct Conversion,1.0,1.0,"[1, 'Units']",0.0,0.0,35000.0
+321,1055,"[432, '[SFTY-1-04-112] FDA Compliant Lead-Free Rubber Curtain 0.250mm LE (short))']","[57, 'SLN/Stock']",False,XrayCurtains,SFTY-1-04-112,XRC115-KBK250-GL1 SHORT,XRay Curtains,10.0,10.0,"[1, 'Units']",0.0,0.0,4750.0
+322,1057,"[433, '[SFTY-1-04-113] FDA Compliant Lead-Free Rubber Curtain 0.250mm LE (long)']","[57, 'SLN/Stock']",False,XrayCurtains,SFTY-1-04-113,XRC115-KBK250-GL1 LONG,XRay Curtains,10.0,10.0,"[1, 'Units']",0.0,0.0,5250.0
+323,1059,"[437, '[TS-1-01-23ACRES] 23"" Touchscreen WIDE Monitor AC Power']","[57, 'SLN/Stock']","[165, '20032077']",Hope Industrial,TS-1-01-23ACRES,HIS-ML23-STAD,Hope Industrial,1.0,1.0,"[1, 'Units']",0.0,0.0,1070.0
+324,1061,"[437, '[TS-1-01-23ACRES] 23"" Touchscreen WIDE Monitor AC Power']","[57, 'SLN/Stock']","[166, '20036739']",Hope Industrial,TS-1-01-23ACRES,HIS-ML23-STAD,Hope Industrial,1.0,1.0,"[1, 'Units']",0.0,0.0,1070.0
+325,1063,"[437, '[TS-1-01-23ACRES] 23"" Touchscreen WIDE Monitor AC Power']","[57, 'SLN/Stock']","[167, '20036735']",Hope Industrial,TS-1-01-23ACRES,HIS-ML23-STAD,Hope Industrial,1.0,1.0,"[1, 'Units']",0.0,0.0,1070.0
+326,1065,"[437, '[TS-1-01-23ACRES] 23"" Touchscreen WIDE Monitor AC Power']","[57, 'SLN/Stock']","[168, '20036360']",Hope Industrial,TS-1-01-23ACRES,HIS-ML23-STAD,Hope Industrial,0.0,1.0,"[1, 'Units']",0.0,1.0,1070.0
+327,1067,"[437, '[TS-1-01-23ACRES] 23"" Touchscreen WIDE Monitor AC Power']","[57, 'SLN/Stock']","[169, '20036362']",Hope Industrial,TS-1-01-23ACRES,HIS-ML23-STAD,Hope Industrial,1.0,1.0,"[1, 'Units']",0.0,0.0,1070.0
+328,1071,"[583, '[PC-SPDY-1-03] Industrial Computer (2000 - 2 Port LAN)']","[57, 'SLN/Stock']","[171, 'PSE211000045']",Premio,PC-SPDY-1-03,KCO-2000-GRE-2L,Premio,0.0,1.0,"[1, 'Units']",0.0,1.0,1820.0
+329,1074,"[63, '[TUBE-1-01-AC75801] X-Ray Tube with 300W Air Cooling']","[57, 'SLN/Stock']","[75, '27352']",rtw RÖNTGEN-TECHNIK,TUBE-1-01-AC75801,"MCDH_75B-1,5/1,5_80°x10°AirCooled",RTW,1.0,1.0,"[1, 'Units']",0.0,0.0,5078.05
+330,1077,"[451, '[SFTY-1-04-92] Retro Reflective Photoelectric Sensor (82mm)']","[57, 'SLN/Stock']",False,EandM,SFTY-1-04-92,RAY26P-24162530A00,Sick,44.0,56.0,"[1, 'Units']",0.0,12.0,18825.52
+331,1078,"[29, '[PC-SPDY-1-01] Industrial Computer']","[57, 'SLN/Stock']","[21, 'PSE210300122']",Premio,PC-SPDY-1-01,M2Q370V2-GRE2U,Premio,1.0,1.0,"[1, 'Units']",0.0,0.0,1350.0
+332,1097,"[637, 'Stainless Steel Eyelets']","[57, 'SLN/Stock']",False,Industrial Gas Springs,False,F06-VME8-24SS,Industrial Gas Springs,30.0,30.0,"[1, 'Units']",0.0,0.0,63.0
+333,1099,"[583, '[PC-SPDY-1-03] Industrial Computer (2000 - 2 Port LAN)']","[57, 'SLN/Stock']","[179, 'PSE211000046']",Premio,PC-SPDY-1-03,KCO-2000-GRE-2L,Premio,1.0,1.0,"[1, 'Units']",0.0,0.0,1820.0
+334,1101,"[583, '[PC-SPDY-1-03] Industrial Computer (2000 - 2 Port LAN)']","[57, 'SLN/Stock']","[180, 'PSE211000047']",Premio,PC-SPDY-1-03,KCO-2000-GRE-2L,Premio,1.0,1.0,"[1, 'Units']",0.0,0.0,1820.0
+335,1103,"[583, '[PC-SPDY-1-03] Industrial Computer (2000 - 2 Port LAN)']","[57, 'SLN/Stock']","[181, 'PSE211000048']",Premio,PC-SPDY-1-03,KCO-2000-GRE-2L,Premio,1.0,1.0,"[1, 'Units']",0.0,0.0,1820.0
+336,1105,"[583, '[PC-SPDY-1-03] Industrial Computer (2000 - 2 Port LAN)']","[57, 'SLN/Stock']","[182, 'PSE211000049']",Premio,PC-SPDY-1-03,KCO-2000-GRE-2L,Premio,1.0,1.0,"[1, 'Units']",0.0,0.0,1820.0
+337,1107,"[583, '[PC-SPDY-1-03] Industrial Computer (2000 - 2 Port LAN)']","[57, 'SLN/Stock']","[183, 'PSE211000050']",Premio,PC-SPDY-1-03,KCO-2000-GRE-2L,Premio,1.0,1.0,"[1, 'Units']",0.0,0.0,1820.0
+338,1109,"[583, '[PC-SPDY-1-03] Industrial Computer (2000 - 2 Port LAN)']","[57, 'SLN/Stock']","[184, 'PSE211000051']",Premio,PC-SPDY-1-03,KCO-2000-GRE-2L,Premio,1.0,1.0,"[1, 'Units']",0.0,0.0,1820.0
+339,1111,"[583, '[PC-SPDY-1-03] Industrial Computer (2000 - 2 Port LAN)']","[57, 'SLN/Stock']","[185, 'PSE211000052']",Premio,PC-SPDY-1-03,KCO-2000-GRE-2L,Premio,1.0,1.0,"[1, 'Units']",0.0,0.0,1820.0
+340,1113,"[583, '[PC-SPDY-1-03] Industrial Computer (2000 - 2 Port LAN)']","[57, 'SLN/Stock']","[186, 'PSE211000053']",Premio,PC-SPDY-1-03,KCO-2000-GRE-2L,Premio,1.0,1.0,"[1, 'Units']",0.0,0.0,1820.0
+341,1115,"[583, '[PC-SPDY-1-03] Industrial Computer (2000 - 2 Port LAN)']","[57, 'SLN/Stock']","[187, 'PSE211000054']",Premio,PC-SPDY-1-03,KCO-2000-GRE-2L,Premio,1.0,1.0,"[1, 'Units']",0.0,0.0,1820.0
+342,1119,"[583, '[PC-SPDY-1-03] Industrial Computer (2000 - 2 Port LAN)']","[57, 'SLN/Stock']","[189, 'PSE211000056']",Premio,PC-SPDY-1-03,KCO-2000-GRE-2L,Premio,1.0,1.0,"[1, 'Units']",0.0,0.0,1820.0
+343,1123,"[582, '[PC-SPDY-2-01] Industrial Computer (3000 - 2 Port LAN)']","[57, 'SLN/Stock']","[191, 'PSE211000135']",Premio,PC-SPDY-2-01,KCO-3000-GRE-2L,Premio,1.0,1.0,"[1, 'Units']",0.0,0.0,1915.0
+344,1136,"[230, '[DET-1-01-350CON] Dual Energy X-Ray Detector (350)']","[57, 'SLN/Stock']","[151, '02FX352447']",Direct Conversion,DET-1-01-350CON,TDI350.1.60.075,Direct Conversion,0.0,1.0,"[1, 'Units']",0.0,1.0,15569.65
+345,1137,"[229, '[DET-1-01-650CON] Dual Energy X-Ray Detector (650)']","[57, 'SLN/Stock']","[170, '02FX652451']",Direct Conversion,DET-1-01-650CON,TDI650.1.60.075,Direct Conversion,0.0,1.0,"[1, 'Units']",0.0,1.0,26160.0
+346,1139,"[636, '[SFTY-1-04-99] Retro Reflective Photo Electric Sensor']","[57, 'SLN/Stock']",False,EandM,SFTY-1-04-99,HL18-P4A3BC,SICK,6.0,6.0,"[1, 'Units']",0.0,0.0,475.2
+347,1146,"[229, '[DET-1-01-650CON] Dual Energy X-Ray Detector (650)']","[8, 'GSAI/Stock']","[197, '02FX652457']",Direct Conversion,DET-1-01-650CON,TDI650.1.60.075,Direct Conversion,0.0,1.0,"[1, 'Units']",0.0,1.0,26160.0
+348,1147,"[229, '[DET-1-01-650CON] Dual Energy X-Ray Detector (650)']","[57, 'SLN/Stock']","[96, '02FX652391']",Direct Conversion,DET-1-01-650CON,TDI650.1.60.075,Direct Conversion,1.0,1.0,"[1, 'Units']",0.0,0.0,26160.0
+349,1150,"[63, '[TUBE-1-01-AC75801] X-Ray Tube with 300W Air Cooling']","[8, 'GSAI/Stock']","[42, '27346']",rtw RÖNTGEN-TECHNIK,TUBE-1-01-AC75801,"MCDH_75B-1,5/1,5_80°x10°AirCooled",RTW,0.0,1.0,"[1, 'Units']",0.0,1.0,5078.05
+350,1159,"[234, '[PS-1-01-HV600W] XRay Power Supply 600W 8mA']","[57, 'SLN/Stock']","[198, '136520560-A00005']",Spellman High Voltage Electronics,PS-1-01-HV600W,DXM75N600X6113,Spellman,0.0,1.0,"[1, 'Units']",0.0,1.0,5500.0
+351,1163,"[276, '[SFTY-1-01-50] Pluto PLC Safety Controller']","[57, 'SLN/Stock']",False,EU Automation,SFTY-1-01-50,2TLA020070R4700,ABB,16.0,20.0,"[1, 'Units']",0.0,4.0,17850.0
+352,1181,"[651, '[02-FRM-L] HRX660 Large Leg Frame']","[57, 'SLN/Stock']",False,Rice Lake Weighing Systems,02-FRM-L,3303965.1,Rice Lake,3.0,3.0,"[1, 'Units']",0.0,0.0,3375.0
+353,1184,"[649, '[CBL-1-ETH-6FT] Ethernet Cable 6 Ft, Black']","[57, 'SLN/Stock']",False,Digikey,CBL-1-ETH-6FT,95-N262-006-BK-ND,Tripp Lite,5.0,5.0,"[1, 'Units']",0.0,0.0,60.45
+354,1185,"[91, '[ELEC-1-CB-2POL25A] Breaker']","[57, 'SLN/Stock']",False,False,ELEC-1-CB-2POL25A,False,False,11.0,11.0,"[1, 'Units']",0.0,0.0,462.0
+355,1187,"[454, '[01-FRM-L] HRX380 Large Leg Frame']","[8, 'GSAI/Stock']",False,Rice Lake Weighing Systems,01-FRM-L,3280507.1,Rice Lake,2.0,2.0,"[1, 'Units']",0.0,0.0,1837.5
+356,1189,"[319, '[MC-SPDY-1-02] Controller Board']","[8, 'GSAI/Stock']","[201, 'SC10']",Selene,MC-SPDY-1-02,Spidey_810 A Rev: A,Selene,1.0,1.0,"[1, 'Units']",0.0,0.0,1245.0
+357,1191,"[658, '[SFTY-1-03-31] Emergency Stop Label (Adhesive)']","[57, 'SLN/Stock']",False,Buckles-Smith Electric,SFTY-1-03-31,ALB800F15YSE112,False,25.0,25.0,"[1, 'Units']",0.0,0.0,77.0
+358,1192,"[658, '[SFTY-1-03-31] Emergency Stop Label (Adhesive)']","[8, 'GSAI/Stock']",False,Buckles-Smith Electric,SFTY-1-03-31,ALB800F15YSE112,False,5.0,5.0,"[1, 'Units']",0.0,0.0,15.4
+359,1194,"[319, '[MC-SPDY-1-02] Controller Board']","[8, 'GSAI/Stock']","[202, 'SC11']",Selene,MC-SPDY-1-02,Spidey_810 A Rev: A,Selene,1.0,1.0,"[1, 'Units']",0.0,0.0,1245.0
+360,1196,"[31, '[FB-SPDY-1-01] Fan board']","[8, 'GSAI/Stock']","[203, 'F11']",LAE,FB-SPDY-1-01,FB-SPDY-1-01,LAE,1.0,1.0,"[1, 'Units']",0.0,0.0,154.5
+361,1198,"[31, '[FB-SPDY-1-01] Fan board']","[8, 'GSAI/Stock']","[204, 'F12']",LAE,FB-SPDY-1-01,FB-SPDY-1-01,LAE,1.0,1.0,"[1, 'Units']",0.0,0.0,154.5
+362,1202,"[319, '[MC-SPDY-1-02] Controller Board']","[8, 'GSAI/Stock']","[206, 'SC13']",Selene,MC-SPDY-1-02,Spidey_810 A Rev: A,Selene,1.0,1.0,"[1, 'Units']",0.0,0.0,1245.0
+363,1205,"[319, '[MC-SPDY-1-02] Controller Board']","[57, 'SLN/Stock']","[205, 'SC12']",Selene,MC-SPDY-1-02,Spidey_810 A Rev: A,Selene,0.0,1.0,"[1, 'Units']",0.0,1.0,1245.0
+364,1210,"[442, 'Gas Spring (SS)']","[8, 'GSAI/Stock']",False,Associated Spring RAYMOND,False,66S002288MM0289,Associated Spring Raymond,12.0,12.0,"[1, 'Units']",0.0,0.0,2190.7200000000003
+365,1212,"[441, 'Damper (SS)']","[8, 'GSAI/Stock']",False,Associated Spring RAYMOND,False,102643-1,Associated Spring Raymond,12.0,12.0,"[1, 'Units']",0.0,0.0,3309.48
+366,1213,"[78, '[MC-SPDY-1-01] Controller board']","[28, 'LAE/Stock']","[72, 'SC04']",LAE,MC-SPDY-1-01,MC-SPDY-1-01,LAE,1.0,1.0,"[1, 'Units']",0.0,0.0,1202.5
+367,1214,"[319, '[MC-SPDY-1-02] Controller Board']","[8, 'GSAI/Stock']","[114, 'SC05']",Selene,MC-SPDY-1-02,Spidey_810 A Rev: A,Selene,-1.0,-1.0,"[1, 'Units']",0.0,0.0,-1245.0
+368,1215,"[319, '[MC-SPDY-1-02] Controller Board']","[28, 'LAE/Stock']","[114, 'SC05']",Selene,MC-SPDY-1-02,Spidey_810 A Rev: A,Selene,1.0,1.0,"[1, 'Units']",0.0,0.0,1245.0
+369,1216,"[319, '[MC-SPDY-1-02] Controller Board']","[8, 'GSAI/Stock']","[153, 'SC07']",Selene,MC-SPDY-1-02,Spidey_810 A Rev: A,Selene,-1.0,-1.0,"[1, 'Units']",0.0,0.0,-1245.0
+370,1217,"[319, '[MC-SPDY-1-02] Controller Board']","[28, 'LAE/Stock']","[153, 'SC07']",Selene,MC-SPDY-1-02,Spidey_810 A Rev: A,Selene,1.0,1.0,"[1, 'Units']",0.0,0.0,1245.0
+371,1218,"[319, '[MC-SPDY-1-02] Controller Board']","[8, 'GSAI/Stock']","[192, 'SC08']",Selene,MC-SPDY-1-02,Spidey_810 A Rev: A,Selene,-1.0,-1.0,"[1, 'Units']",0.0,0.0,-1245.0
+372,1219,"[319, '[MC-SPDY-1-02] Controller Board']","[28, 'LAE/Stock']","[192, 'SC08']",Selene,MC-SPDY-1-02,Spidey_810 A Rev: A,Selene,1.0,1.0,"[1, 'Units']",0.0,0.0,1245.0
+373,1221,"[63, '[TUBE-1-01-AC75801] X-Ray Tube with 300W Air Cooling']","[8, 'GSAI/Stock']","[210, '27595']",rtw RÖNTGEN-TECHNIK,TUBE-1-01-AC75801,"MCDH_75B-1,5/1,5_80°x10°AirCooled",RTW,0.0,1.0,"[1, 'Units']",0.0,1.0,5078.05
+374,1232,"[120, '[CBL-1-314SH] 3/14 AWG Shielded Power Cable']","[57, 'SLN/Stock']",False,Digikey,CBL-1-314SH,2214030,Lapp Tannehill,18.0,20.0,"[1, 'Units']",0.0,2.0,80.4
+375,1235,"[672, '[ELEC-2-LF-24030A] Line Filter 115/250VAC - 30A']","[57, 'SLN/Stock']",False,Digikey,ELEC-2-LF-24030A,FN2060-30-08,Schaffner EMC Inc.,44.0,45.0,"[1, 'Units']",0.0,1.0,2716.65
+376,1237,"[313, '[ELEC-1-CON-10POS] Connector, 10 position ribbon']","[57, 'SLN/Stock']",False,Digikey,ELEC-1-CON-10POS,AKC10H-ND,TE Connectivity AMP Connectors,53.0,53.0,"[1, 'Units']",0.0,0.0,59.89
+377,1239,"[121, '[CBL-1-318SH] 3/18 AWG Foil Shield Cable (BLK, BRN, RED)']","[57, 'SLN/Stock']",False,Digikey,CBL-1-318SH,5430/3 SL005,Alpha Wire,1.0,1.0,"[1, 'Units']",0.0,0.0,598.58
+378,1240,"[360, 'Threaded-Hole Round Pull Handle']","[57, 'SLN/Stock']",False,McMaster-Carr,False,1726A93,McMaster,7.0,7.0,"[1, 'Units']",0.0,0.0,84.0
+379,1241,"[361, 'Lift off Hinge']","[57, 'SLN/Stock']",False,McMaster-Carr,False,1071A51,McMaster Carr,4.0,4.0,"[1, 'Units']",0.0,0.0,23.2
+380,1243,"[647, 'M5 x 35mm Sealing Socket Screw']","[57, 'SLN/Stock']",False,McMaster-Carr,False,91292A193,McMaster Carr,25.0,25.0,"[1, 'Units']",0.0,0.0,183.0
+381,1244,"[362, 'Fan Guard']","[57, 'SLN/Stock']",False,McMaster-Carr,False,19155K127,McMaster Carr,36.0,36.0,"[1, 'Units']",0.0,0.0,250.20000000000002
+382,1245,"[363, 'Cord Grip, Sanitary']","[57, 'SLN/Stock']",False,McMaster-Carr,False,3711N12,McMaster Carr,61.0,61.0,"[1, 'Units']",0.0,0.0,2958.5
+383,1246,"[364, 'Cord Grip, Sanitary (.2""-.25"")']","[57, 'SLN/Stock']",False,McMaster-Carr,False,3711N11,McMaster Carr,32.0,32.0,"[1, 'Units']",0.0,0.0,1474.56
+384,1247,"[367, 'Nut, Sanitary Low Profile, M6']","[57, 'SLN/Stock']",False,McMaster-Carr,False,97511A110,McMaster Carr,42.0,42.0,"[1, 'Units']",0.0,0.0,569.1
+385,1248,"[369, '[HW-NUT-M4-NLC] Nut, M4 Nyloc SST']","[57, 'SLN/Stock']",False,McMaster-Carr,HW-NUT-M4-NLC,93625A150,McMaster Carr,1000.0,1000.0,"[1, 'Units']",0.0,0.0,60.0
+386,1249,"[380, 'Nut, Cap, m4']","[57, 'SLN/Stock']",False,McMaster-Carr,False,94000A035,McMaster Carr,150.0,150.0,"[1, 'Units']",0.0,0.0,606.0
+387,1250,"[371, 'Nut, Cap, m5']","[57, 'SLN/Stock']",False,McMaster-Carr,False,94000A037,McMaster Carr,25.0,25.0,"[1, 'Units']",0.0,0.0,109.75
+388,1251,"[372, '[HW-NUT-M5-NLC] Nut, Nylon Insert, m5']","[57, 'SLN/Stock']",False,McMaster-Carr,HW-NUT-M5-NLC,93625A200,McMaster Carr,100.0,100.0,"[1, 'Units']",0.0,0.0,6.0
+389,1252,"[373, 'Nut, Locknut, External Tooth washer']","[57, 'SLN/Stock']",False,McMaster-Carr,False,90923A219,McMaster Carr,200.0,200.0,"[1, 'Units']",0.0,0.0,2482.0
+390,1253,"[374, 'Bearing, Sleeve, 12mm ID, Acetal']","[57, 'SLN/Stock']",False,McMaster-Carr,False,57785K324,McMaster Carr,26.0,26.0,"[1, 'Units']",0.0,0.0,46.800000000000004
+391,1254,"[375, 'Spacer, m6, 6mm lg']","[57, 'SLN/Stock']",False,McMaster-Carr,False,92871A247,McMaster Carr,24.0,24.0,"[1, 'Units']",0.0,0.0,81.12
+392,1255,"[376, 'Spacer, m5, 4mm lg']","[57, 'SLN/Stock']",False,McMaster-Carr,False,92871A240,McMaster Carr,16.0,16.0,"[1, 'Units']",0.0,0.0,51.04
+393,1256,"[377, 'Standoff, Male-Female, Hex, m4 x 10mm lg']","[57, 'SLN/Stock']",False,McMaster-Carr,False,93655A450,McMaster Carr,20.0,20.0,"[1, 'Units']",0.0,0.0,59.800000000000004
+394,1257,"[379, 'Washer, #10 screw, PU Rubber']","[57, 'SLN/Stock']",False,McMaster-Carr,False,93650A120,McMaster Carr,200.0,200.0,"[1, 'Units']",0.0,0.0,3354.0
+395,1258,"[381, 'Washer, m5']","[57, 'SLN/Stock']",False,McMaster-Carr,False,98689A114,McMaster Carr,200.0,200.0,"[1, 'Units']",0.0,0.0,628.0
+396,1259,"[382, 'Washer, 3/8"" Screw Size, PTFE']","[57, 'SLN/Stock']",False,McMaster-Carr,False,95630A245,McMaster,20.0,20.0,"[1, 'Units']",0.0,0.0,143.8
+397,1260,"[383, 'Washer, Lock, m5']","[57, 'SLN/Stock']",False,McMaster-Carr,False,93925A260,McMaster Carr,200.0,200.0,"[1, 'Units']",0.0,0.0,682.0
+398,1261,"[384, 'Screw, Sealing Socket Head, 8-32 x 1/4"", Locking']","[57, 'SLN/Stock']",False,McMaster-Carr,False,96738A159,McMaster Carr,10.0,10.0,"[1, 'Units']",0.0,0.0,36.5
+399,1262,"[385, 'Screw, Shoulder, Slotted, M5, 7mm dia, 16mm Lg']","[57, 'SLN/Stock']",False,McMaster-Carr,False,97307A122,McMaster Carr,10.0,10.0,"[1, 'Units']",0.0,0.0,76.4
+400,1263,"[386, 'Screw, Pan Head Slotted, m4 x 12mm']","[57, 'SLN/Stock']",False,McMaster-Carr,False,93923A119,McMaster Carr,100.0,100.0,"[1, 'Units']",0.0,0.0,1130.0
+401,1264,"[387, 'Screw, Pan Head Philips, m4 x 12mm']","[57, 'SLN/Stock']",False,McMaster-Carr,False,92000A222,McMaster Carr,200.0,200.0,"[1, 'Units']",0.0,0.0,2046.0
+402,1265,"[388, 'Screw, Pan Head Philips, m4 x 10mm']","[57, 'SLN/Stock']",False,McMaster-Carr,False,92000A220,McMaster Carr,300.0,300.0,"[1, 'Units']",0.0,0.0,3177.0
+403,1266,"[390, 'Screw, Shoulder, Slotted, m3, 4mm Dia, 4mm Lg']","[57, 'SLN/Stock']",False,McMaster-Carr,False,97307A114,McMaster Carr,58.0,58.0,"[1, 'Units']",0.0,0.0,350.32
+404,1267,"[391, 'Screw, Socket Head, m5 x 22mm']","[57, 'SLN/Stock']",False,McMaster-Carr,False,91292A060,McMaster Carr,50.0,50.0,"[1, 'Units']",0.0,0.0,568.0
+405,1268,"[392, 'Screw, Socket Head, m5 x 8mm']","[57, 'SLN/Stock']",False,McMaster-Carr,False,91292A191,McMaster Carr,200.0,200.0,"[1, 'Units']",0.0,0.0,2362.0
+406,1269,"[393, 'Screw, Flat head, m3 x 10mm']","[57, 'SLN/Stock']",False,McMaster-Carr,False,92125A130,McMaster Carr,200.0,200.0,"[1, 'Units']",0.0,0.0,1138.0
+407,1270,"[394, 'Screw, Flat head, m5 x 16mm']","[57, 'SLN/Stock']",False,McMaster-Carr,False,92125A212,McMaster Carr,100.0,100.0,"[1, 'Units']",0.0,0.0,905.0
+408,1271,"[395, 'Screw, Flat head, m3 x 6mm']","[57, 'SLN/Stock']",False,McMaster-Carr,False,92125A126,McMaster Carr,200.0,200.0,"[1, 'Units']",0.0,0.0,884.0
+409,1272,"[396, 'Screw, Flat head, m3 x 8mm']","[57, 'SLN/Stock']",False,McMaster-Carr,False,92125A128,McMaster Carr,100.0,100.0,"[1, 'Units']",0.0,0.0,435.0
+410,1273,"[397, 'Screw, Flat head, m5 x 18mm']","[57, 'SLN/Stock']",False,McMaster-Carr,False,92010A793,McMaster Carr,100.0,100.0,"[1, 'Units']",0.0,0.0,1499.0
+411,1274,"[398, 'Screw, Flanged Button Head, m6 x 10mm']","[57, 'SLN/Stock']",False,McMaster-Carr,False,97654A379,McMaster Carr,10.0,10.0,"[1, 'Units']",0.0,0.0,58.800000000000004
+412,1275,"[399, 'Screw, Socket Head, m5 x 10mm']","[57, 'SLN/Stock']",False,McMaster-Carr,False,91292A124,McMaster Carr,200.0,200.0,"[1, 'Units']",0.0,0.0,2222.0
+413,1276,"[400, 'Screw, Flat Head, m5 x 10mm']","[57, 'SLN/Stock']",False,McMaster-Carr,False,92010A320,McMaster Carr,100.0,100.0,"[1, 'Units']",0.0,0.0,1214.0
+414,1277,"[401, 'Screw, Sanitary Hex, 1/2""-13 x 1 in lg']","[57, 'SLN/Stock']",False,False,False,False,False,16.0,16.0,"[1, 'Units']",0.0,0.0,222.08
+415,1278,"[402, 'Screw, Sanitary Hex, m8 x 16mm lg']","[57, 'SLN/Stock']",False,False,False,False,False,8.0,8.0,"[1, 'Units']",0.0,0.0,82.32000000000001
+416,1279,"[403, 'Screw, Shoulder, Slotted, m10, 12mm dia x 8mm lg']","[57, 'SLN/Stock']",False,McMaster-Carr,False,90270A701,McMaster Carr,22.0,22.0,"[1, 'Units']",0.0,0.0,262.24
+417,1280,"[404, 'Screw, Hex Head, m5 x 6mm']","[57, 'SLN/Stock']",False,McMaster-Carr,False,91287A081,McMaster Carr,50.0,50.0,"[1, 'Units']",0.0,0.0,510.5
+418,1281,"[405, 'Screw, Socket Head Low Profile, m4 x 8mm']","[57, 'SLN/Stock']",False,McMaster-Carr,False,92855A408,McMaster Carr,25.0,25.0,"[1, 'Units']",0.0,0.0,201.25
+419,1282,"[406, 'Screw, Hex Head, m5 x 10mm']","[57, 'SLN/Stock']",False,McMaster-Carr,False,93635A156,McMaster Carr,50.0,50.0,"[1, 'Units']",0.0,0.0,548.5
+420,1284,"[638, 'screw, flat head sealing m6 x 12']","[57, 'SLN/Stock']",False,McMaster-Carr,False,98070a780,mcmaster carr,20.0,20.0,"[1, 'Units']",0.0,0.0,237.20000000000002
+421,1285,"[408, 'Screw, Flat Head, m4 x 8mm']","[57, 'SLN/Stock']",False,McMaster-Carr,False,92125A188,McMaster Carr,100.0,100.0,"[1, 'Units']",0.0,0.0,685.0
+422,1286,"[409, 'Screw, Socket Head, m5 x 6mm']","[57, 'SLN/Stock']",False,McMaster-Carr,False,91292A189,McMaster Carr,50.0,50.0,"[1, 'Units']",0.0,0.0,315.5
+423,1287,"[410, 'Screw, Socket Head, m4 x 6mm']","[57, 'SLN/Stock']",False,McMaster-Carr,False,91292A107,McMaster Carr,100.0,100.0,"[1, 'Units']",0.0,0.0,763.0
+424,1288,"[411, 'Screw, Socket Head, Sealing, Locking, m5 x 8mm']","[57, 'SLN/Stock']",False,McMaster-Carr,False,96738A257,McMaster Carr,8.0,8.0,"[1, 'Units']",0.0,0.0,29.2
+425,1289,"[412, 'Screw, Flat Head, m4 x 10mm']","[57, 'SLN/Stock']",False,McMaster-Carr,False,92125A190,McMaster Carr,100.0,100.0,"[1, 'Units']",0.0,0.0,708.0
+426,1290,"[414, 'Rivet, Stainless, .125 dia, Countersink']","[57, 'SLN/Stock']",False,McMaster-Carr,False,97525A670,McMaster Carr,100.0,100.0,"[1, 'Units']",0.0,0.0,1161.0
+427,1291,"[415, 'Retaining Ring, 7mm-9mm']","[57, 'SLN/Stock']",False,McMaster-Carr,False,98317A220,McMaster Carr,25.0,25.0,"[1, 'Units']",0.0,0.0,150.25
+428,1293,"[416, 'Pin, Clevis, Double Retaining Ring, 6mm Dia x 30mm Lg']","[57, 'SLN/Stock']",False,McMaster-Carr,False,93890A735,McMaster Carr,4.0,4.0,"[1, 'Units']",0.0,0.0,44.800000000000004
+429,1294,"[418, 'Cable Holder, Screw In, .5in dia']","[57, 'SLN/Stock']",False,McMaster-Carr,False,7572K24,McMaster Carr,50.0,50.0,"[1, 'Units']",0.0,0.0,462.5
+430,1297,"[639, 'Bushing - Door Hinge']","[57, 'SLN/Stock']",False,False,False,False,False,10.0,10.0,"[1, 'Units']",0.0,0.0,12.0
+431,1299,"[640, 'M6x8mm Spacer']","[57, 'SLN/Stock']",False,McMaster-Carr,False,93657a408,McMaster Carr,20.0,20.0,"[1, 'Units']",0.0,0.0,37.4
+432,1301,"[642, 'M6x5mm Spacer']","[57, 'SLN/Stock']",False,McMaster-Carr,False,93657a405,McMaster Carr,20.0,20.0,"[1, 'Units']",0.0,0.0,33.0
+433,1303,"[643, '8/32 x 1 - 1/8"" shoulder screw (3/16 Dia)']","[57, 'SLN/Stock']",False,McMaster-Carr,False,90337a427,McMaster Carr,10.0,10.0,"[1, 'Units']",0.0,0.0,84.0
+434,1305,"[644, '8/32 Nylon Nut']","[57, 'SLN/Stock']",False,McMaster-Carr,False,90633a009,McMaster Carr,100.0,100.0,"[1, 'Units']",0.0,0.0,323.0
+435,1307,"[645, 'M6x13mm Spacer']","[57, 'SLN/Stock']",False,McMaster-Carr,False,92871a238,McMaster Carr,16.0,16.0,"[1, 'Units']",0.0,0.0,42.56
+436,1309,"[646, '5/16"" x 0.625"" Nylon Spacer']","[57, 'SLN/Stock']",False,McMaster-Carr,False,96371a203,McMaster Carr,4.0,4.0,"[1, 'Units']",0.0,0.0,34.84
+437,1310,"[413, 'Screw, Socket Head, Locking, m5 x 30mm']","[57, 'SLN/Stock']",False,McMaster-Carr,False,93705A838,McMaster Carr,20.0,20.0,"[1, 'Units']",0.0,0.0,92.0
+438,1312,"[306, '[WIR-1-20BLU] 20 AWG Blue']","[57, 'SLN/Stock']",False,Digikey,WIR-1-20BLU,A2040L-100-ND,Alpha Wire,4.0,4.0,"[1, 'Units']",0.0,0.0,153.12
+439,1314,"[655, 'Flexible Radiation Protection Sheet (1.0mm Pb / Leadfree / 36""(900mm) x 48""']","[57, 'SLN/Stock']",False,XrayCurtains,False,"1.0mm Pb / Leadfree / 36""(900mm) x 48"" (1200mm) sheet",XRay Curtains,1.0,1.0,"[1, 'Units']",0.0,0.0,1195.0
+440,1316,"[656, 'Lead Curtains (1.0mm - 4ftW x 7ft H)']","[57, 'SLN/Stock']",False,XrayCurtains,False,1.0mm - 4 ft W x 7 ft H,XRay Curtains,2.0,2.0,"[1, 'Units']",0.0,0.0,4200.0
+441,1318,"[527, '[CON-1-01-6026-141] HRX660 Conveyor (60.25x26 | 141fpm)']","[57, 'SLN/Stock']",False,Inline Motion,CON-1-01-6026-141,1396-101,Inline Motion,8.0,11.0,"[1, 'Units']",0.0,3.0,122602.81
+442,1332,"[229, '[DET-1-01-650CON] Dual Energy X-Ray Detector (650)']","[57, 'SLN/Stock']","[220, '02FX652495']",Direct Conversion,DET-1-01-650CON,TDI650.1.60.075,Direct Conversion,1.0,1.0,"[1, 'Units']",0.0,0.0,26160.0
+443,1333,"[229, '[DET-1-01-650CON] Dual Energy X-Ray Detector (650)']","[57, 'SLN/Stock']","[218, '02FX652490']",Direct Conversion,DET-1-01-650CON,TDI650.1.60.075,Direct Conversion,1.0,1.0,"[1, 'Units']",0.0,0.0,26160.0
+444,1334,"[229, '[DET-1-01-650CON] Dual Energy X-Ray Detector (650)']","[57, 'SLN/Stock']","[219, '02FX652491']",Direct Conversion,DET-1-01-650CON,TDI650.1.60.075,Direct Conversion,1.0,1.0,"[1, 'Units']",0.0,0.0,26160.0
+445,1335,"[63, '[TUBE-1-01-AC75801] X-Ray Tube with 300W Air Cooling']","[57, 'SLN/Stock']","[213, '28015']",rtw RÖNTGEN-TECHNIK,TUBE-1-01-AC75801,"MCDH_75B-1,5/1,5_80°x10°AirCooled",RTW,1.0,1.0,"[1, 'Units']",0.0,0.0,5078.05
+446,1336,"[63, '[TUBE-1-01-AC75801] X-Ray Tube with 300W Air Cooling']","[57, 'SLN/Stock']","[214, '29442']",rtw RÖNTGEN-TECHNIK,TUBE-1-01-AC75801,"MCDH_75B-1,5/1,5_80°x10°AirCooled",RTW,1.0,1.0,"[1, 'Units']",0.0,0.0,5078.05
+447,1337,"[63, '[TUBE-1-01-AC75801] X-Ray Tube with 300W Air Cooling']","[57, 'SLN/Stock']","[211, '27592']",rtw RÖNTGEN-TECHNIK,TUBE-1-01-AC75801,"MCDH_75B-1,5/1,5_80°x10°AirCooled",RTW,0.0,1.0,"[1, 'Units']",0.0,1.0,5078.05
+448,1341,"[659, '18 AWG Stranded Wire (Yellow / Green)']","[57, 'SLN/Stock']",False,McMaster-Carr,False,8054T15,McMaster-Carr,1.0,1.0,"[1, 'Units']",0.0,0.0,5.66
+449,1350,"[63, '[TUBE-1-01-AC75801] X-Ray Tube with 300W Air Cooling']","[57, 'SLN/Stock']","[223, '29452']",rtw RÖNTGEN-TECHNIK,TUBE-1-01-AC75801,"MCDH_75B-1,5/1,5_80°x10°AirCooled",RTW,1.0,1.0,"[1, 'Units']",0.0,0.0,5078.05
+450,1351,"[63, '[TUBE-1-01-AC75801] X-Ray Tube with 300W Air Cooling']","[57, 'SLN/Stock']","[222, '29450']",rtw RÖNTGEN-TECHNIK,TUBE-1-01-AC75801,"MCDH_75B-1,5/1,5_80°x10°AirCooled",RTW,1.0,1.0,"[1, 'Units']",0.0,0.0,5078.05
+451,1352,"[63, '[TUBE-1-01-AC75801] X-Ray Tube with 300W Air Cooling']","[57, 'SLN/Stock']","[221, '29444']",rtw RÖNTGEN-TECHNIK,TUBE-1-01-AC75801,"MCDH_75B-1,5/1,5_80°x10°AirCooled",RTW,1.0,1.0,"[1, 'Units']",0.0,0.0,5078.05
+452,1354,"[304, '[ELEC-FRL-16-10] 16AWG Ferrule Insulated 10mm Black']","[57, 'SLN/Stock']",False,Digikey,ELEC-FRL-16-10,288-1020-ND,American Electrical Inc.,100.0,100.0,"[1, 'Units']",0.0,0.0,26.0
+453,1356,"[123, '[CBL-1-220] 2/20 AWG Unshielded Cable (BLK, RED)']","[57, 'SLN/Stock']",False,Digikey,CBL-1-220,5052C SL005,Alpha Wire,2.0,2.0,"[1, 'Units']",0.0,0.0,522.44
+454,1360,"[690, '[SHME-380-21-0064] Fan Ducting, Fixed, Upper Assy']","[57, 'SLN/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-380-21-0064,380-21-0064 R-2.3,RMFI,2.0,2.0,"[1, 'Units']",0.0,0.0,296.7
+455,1362,"[691, '[SHME-380-31-0090] Tube PSU BRKT-Mod Back']","[57, 'SLN/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-380-31-0090,380-31-0090 R-2.1,RMFI,2.0,2.0,"[1, 'Units']",0.0,0.0,62.6
+456,1364,"[692, '[SHME-380-31-0091] Tube PSU Brkt-Mod Front']","[57, 'SLN/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-380-31-0091,380-31-0091 R-2.1,RMFI,2.0,2.0,"[1, 'Units']",0.0,0.0,54.5
+457,1369,"[648, '[PS-1-02-HV600W] XRay Power Supply 600W 10mA']","[57, 'SLN/Stock']","[215, '137680538-A00001']",Spellman High Voltage Electronics,PS-1-02-HV600W,DXM75N600X6178,Spellman,1.0,1.0,"[1, 'Units']",0.0,0.0,0.0
+458,1372,"[431, '[AP-1-01-AIRBLST] High Power Flat Super Air Nozzle with 18"" SSH']","[57, 'SLN/Stock']",False,EXAIR,AP-1-01-AIRBLST,HP1125SS-9218,Exair,2.0,2.0,"[1, 'Units']",0.0,0.0,366.0
+459,1375,"[229, '[DET-1-01-650CON] Dual Energy X-Ray Detector (650)']","[57, 'SLN/Stock']","[226, '02FX652506']",Direct Conversion,DET-1-01-650CON,TDI650.1.60.075,Direct Conversion,1.0,1.0,"[1, 'Units']",0.0,0.0,26160.0
+460,1377,"[676, '[SFTY-1-04-212] Xyflex Lead-Free Rubber Curtain (Dual Layer - 0.25mm LE - 823mm W x 549mm H) - cut to 61-1001']","[57, 'SLN/Stock']",False,XrayCurtains,SFTY-1-04-212,XRC437RBK250 SHORT,XRay Curtains,3.0,12.0,"[1, 'Units']",0.0,9.0,7500.0
+461,1379,"[677, '[SFTY-1-04-213] Xyflex Lead-Free Rubber Curtain - Dual Layer 0.25mm LE - 951mm W x 564mm H - cut to 61-1002']","[57, 'SLN/Stock']",False,XrayCurtains,SFTY-1-04-213,XRC437RBK250 LONG,XRay Curtains,3.0,12.0,"[1, 'Units']",0.0,9.0,8940.0
+462,1382,"[229, '[DET-1-01-650CON] Dual Energy X-Ray Detector (650)']","[57, 'SLN/Stock']","[227, '02FX652507']",Direct Conversion,DET-1-01-650CON,TDI650.1.60.075,Direct Conversion,0.0,1.0,"[1, 'Units']",0.0,1.0,26160.0
+463,1414,"[328, '[HRX380.BA.A] HRX380.BA.A']","[57, 'SLN/Stock']","[149, 'B2139A003']",False,HRX380.BA.A,False,False,0.0,1.0,"[1, 'Units']",0.0,1.0,0.0
+464,1426,"[32, '[TS-1-01-17ACRES] 17"" Touchscreen Monitor AC Power']","[57, 'SLN/Stock']","[107, '20032086']",Hope Industrial,TS-1-01-17ACRES,HIS-ML17-STAH,Hope Industrial,1.0,1.0,"[1, 'Units']",0.0,0.0,814.0
+465,1446,"[63, '[TUBE-1-01-AC75801] X-Ray Tube with 300W Air Cooling']","[57, 'SLN/Stock']","[42, '27346']",rtw RÖNTGEN-TECHNIK,TUBE-1-01-AC75801,"MCDH_75B-1,5/1,5_80°x10°AirCooled",RTW,-1.0,-1.0,"[1, 'Units']",0.0,0.0,-5078.05
+466,1449,"[328, '[HRX380.BA.A] HRX380.BA.A']","[57, 'SLN/Stock']","[178, 'B2144A004']",False,HRX380.BA.A,False,False,1.0,1.0,"[1, 'Units']",0.0,0.0,0.0
+467,1456,"[683, '[MCHND-TUBE-30-0013] Tube Compression Plate']","[57, 'SLN/Stock']",False,Vision Technology,MCHND-TUBE-30-0013,30-0013,Vision Tech,42.0,42.0,"[1, 'Units']",0.0,0.0,1204.56
+468,1458,"[684, '[MCHND-TUBE-30-0005] Side Heat Spreader']","[57, 'SLN/Stock']",False,Vision Technology,MCHND-TUBE-30-0005,30-0005,Vision Tech,14.0,14.0,"[1, 'Units']",0.0,0.0,9081.800000000001
+469,1460,"[685, '[MCHND-TUBE-30-0006] Side Heat Spreader, Mirror']","[57, 'SLN/Stock']",False,Vision Technology,MCHND-TUBE-30-0006,30-0006,Vision Tech,14.0,14.0,"[1, 'Units']",0.0,0.0,9784.32
+470,1462,"[686, '[MCHND-TUBE-30-0007] Heat Pipe Base']","[57, 'SLN/Stock']",False,Vision Technology,MCHND-TUBE-30-0007,30-0007,Vision Tech,14.0,14.0,"[1, 'Units']",0.0,0.0,4139.52
+471,1464,"[687, '[MCHND-TUBE-32-1001] Window, Detector']","[57, 'SLN/Stock']",False,Vision Technology,MCHND-TUBE-32-1001,32-1001,Vision Tech,14.0,14.0,"[1, 'Units']",0.0,0.0,2709.56
+472,1466,"[688, '[32-1002] Window, Source']","[57, 'SLN/Stock']",False,Vision Technology,32-1002,32-1002,Vision Tech,14.0,14.0,"[1, 'Units']",0.0,0.0,1896.72
+473,1468,"[654, '[ELEC-1-ACHEAT-01-4000] 4000 BTUH NEMA 4X  230V 60 Hz Options']","[57, 'SLN/Stock']","[228, '2146050006']",Thermal Edge,ELEC-1-ACHEAT-01-4000,NE0402364X,Thermal Edge,1.0,1.0,"[1, 'Units']",0.0,0.0,2809.25
+474,1470,"[654, '[ELEC-1-ACHEAT-01-4000] 4000 BTUH NEMA 4X  230V 60 Hz Options']","[57, 'SLN/Stock']","[229, '2146050007']",Thermal Edge,ELEC-1-ACHEAT-01-4000,NE0402364X,Thermal Edge,1.0,1.0,"[1, 'Units']",0.0,0.0,2809.25
+475,1472,"[654, '[ELEC-1-ACHEAT-01-4000] 4000 BTUH NEMA 4X  230V 60 Hz Options']","[57, 'SLN/Stock']","[230, '2146050008']",Thermal Edge,ELEC-1-ACHEAT-01-4000,NE0402364X,Thermal Edge,1.0,1.0,"[1, 'Units']",0.0,0.0,2809.25
+476,1474,"[654, '[ELEC-1-ACHEAT-01-4000] 4000 BTUH NEMA 4X  230V 60 Hz Options']","[57, 'SLN/Stock']","[231, '2146050009']",Thermal Edge,ELEC-1-ACHEAT-01-4000,NE0402364X,Thermal Edge,1.0,1.0,"[1, 'Units']",0.0,0.0,2809.25
+477,1476,"[654, '[ELEC-1-ACHEAT-01-4000] 4000 BTUH NEMA 4X  230V 60 Hz Options']","[57, 'SLN/Stock']","[232, '2146050010']",Thermal Edge,ELEC-1-ACHEAT-01-4000,NE0402364X,Thermal Edge,1.0,1.0,"[1, 'Units']",0.0,0.0,2809.25
+478,1478,"[654, '[ELEC-1-ACHEAT-01-4000] 4000 BTUH NEMA 4X  230V 60 Hz Options']","[57, 'SLN/Stock']","[233, '2146050011']",Thermal Edge,ELEC-1-ACHEAT-01-4000,NE0402364X,Thermal Edge,1.0,1.0,"[1, 'Units']",0.0,0.0,2809.25
+479,1480,"[654, '[ELEC-1-ACHEAT-01-4000] 4000 BTUH NEMA 4X  230V 60 Hz Options']","[57, 'SLN/Stock']","[234, '2146050012']",Thermal Edge,ELEC-1-ACHEAT-01-4000,NE0402364X,Thermal Edge,1.0,1.0,"[1, 'Units']",0.0,0.0,2809.25
+480,1482,"[654, '[ELEC-1-ACHEAT-01-4000] 4000 BTUH NEMA 4X  230V 60 Hz Options']","[57, 'SLN/Stock']","[235, '2146050013']",Thermal Edge,ELEC-1-ACHEAT-01-4000,NE0402364X,Thermal Edge,1.0,1.0,"[1, 'Units']",0.0,0.0,2809.25
+481,1484,"[654, '[ELEC-1-ACHEAT-01-4000] 4000 BTUH NEMA 4X  230V 60 Hz Options']","[57, 'SLN/Stock']","[236, '2146050014']",Thermal Edge,ELEC-1-ACHEAT-01-4000,NE0402364X,Thermal Edge,1.0,1.0,"[1, 'Units']",0.0,0.0,2809.25
+482,1486,"[654, '[ELEC-1-ACHEAT-01-4000] 4000 BTUH NEMA 4X  230V 60 Hz Options']","[57, 'SLN/Stock']","[237, '2146050015']",Thermal Edge,ELEC-1-ACHEAT-01-4000,NE0402364X,Thermal Edge,1.0,1.0,"[1, 'Units']",0.0,0.0,2809.25
+483,1487,"[389, 'Thumb Screw, m4 x 8mm']","[57, 'SLN/Stock']",False,McMaster-Carr,False,92558A100,McMaster Carr,60.0,60.0,"[1, 'Units']",0.0,0.0,438.0
+484,1489,"[783, 'Screw, M5x0.8 x 8mm Lg Sealing']","[57, 'SLN/Stock']",False,McMaster-Carr,False,96738A257,McMaster Carr,12.0,12.0,"[1, 'Units']",0.0,0.0,0.0
+485,1491,"[805, '[AP-1-01-42] Elbow Fitting, 3/8"" Tube x 1/2"" NPT']","[57, 'SLN/Stock']",False,AutomationDirect,AP-1-01-42,ME38-12N,Nitra,5.0,5.0,"[1, 'Units']",0.0,0.0,80.0
+486,1493,"[806, '[AP-1-01-43] Elbow Fitting, 3/8 Tube x 3/8 NPT']","[57, 'SLN/Stock']",False,AutomationDirect,AP-1-01-43,ME38-38N,Nitra,5.0,5.0,"[1, 'Units']",0.0,0.0,62.5
+487,1495,"[516, '[AP-1-01-APS] Pressure Switch']","[57, 'SLN/Stock']",False,AutomationDirect,AP-1-01-APS,QPSH-AP-42,Prosense,1.0,1.0,"[1, 'Units']",0.0,0.0,76.0
+488,1497,"[821, '[AP-1-01-48] Fitting, 1/4 NPT Male to 1/4 NPT Male']","[57, 'SLN/Stock']",False,AutomationDirect,AP-1-01-48,BFMC-14N,Nitra,5.0,5.0,"[1, 'Units']",0.0,0.0,32.5
+489,1499,"[822, '[AP-1-01-49] Elbow Fitting,  3/8 Tube x 1/4 NPT']","[57, 'SLN/Stock']",False,AutomationDirect,AP-1-01-49,ME38-14N,Nitra,5.0,5.0,"[1, 'Units']",0.0,0.0,62.5
+490,1501,"[100, '[ELEC-1-CON-ACFEM] AC power connector']","[57, 'SLN/Stock']",False,Allied Electronics & Automation,ELEC-1-CON-ACFEM,4782.01,Schurter,44.0,60.0,"[1, 'Units']",0.0,16.0,417.6
+491,1509,"[800, '[AP-1-01-20] 5/2 Valve']","[57, 'SLN/Stock']",False,EandM,AP-1-01-20,VUVS-LT30-M52-MD-N38-F8,Festo,2.0,2.0,"[1, 'Units']",0.0,0.0,141.76
+492,1510,"[446, '[AP-1-01-25] Solenoid Coil']","[57, 'SLN/Stock']",False,EandM,AP-1-01-25,VACF-B-C1-1,Festo,2.0,2.0,"[1, 'Units']",0.0,0.0,15.700000000000001
+493,1512,"[801, '[AP-1-01-30] Coil IP67 Seal']","[57, 'SLN/Stock']",False,EandM,AP-1-01-30,VAMC-B10-B-B-S8,Festo,2.0,2.0,"[1, 'Units']",0.0,0.0,1.98
+494,1514,"[802, '[AP-1-01-26] Solenoid Plug Socket with Cable']","[57, 'SLN/Stock']",False,EandM,AP-1-01-26,KMEB-1-24-10-LED,Festo,1.0,1.0,"[1, 'Units']",0.0,0.0,43.22
+495,1516,"[803, '[AP-1-01-40] 2 Valve Manifold']","[57, 'SLN/Stock']",False,EandM,AP-1-01-40,VABM-B10-30S-N12-2,Festo,1.0,1.0,"[1, 'Units']",0.0,0.0,64.08
+496,1518,"[804, '[AP-1-01-41] 1/2"" NPT Plug']","[57, 'SLN/Stock']",False,EandM,AP-1-01-41,B-1/2-NPT,Festo,2.0,2.0,"[1, 'Units']",0.0,0.0,5.98
+497,1523,"[453, '[HRX660-01-01-CAB] HRX660 Chassis (Carrera)']","[57, 'SLN/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",HRX660-01-01-CAB,HRX660.01.01.CAB,RMFI,3.0,6.0,"[1, 'Units']",0.0,3.0,106146.90000000001
+498,1537,"[328, '[HRX380.BA.A] HRX380.BA.A']","[57, 'SLN/Stock']","[144, 'B2140AP04']",False,HRX380.BA.A,False,False,1.0,1.0,"[1, 'Units']",0.0,0.0,0.0
+499,1548,"[328, '[HRX380.BA.A] HRX380.BA.A']","[57, 'SLN/Stock']","[244, 'B2150A004']",False,HRX380.BA.A,False,False,1.0,1.0,"[1, 'Units']",0.0,0.0,0.0
+500,1549,"[287, '[HRX380-01-02-CAB] HRX380 Chassis (Earth)']","[57, 'SLN/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",HRX380-01-02-CAB,HRX380.01.02.CAB,RMFI,0.0,1.0,"[1, 'Units']",0.0,1.0,7312.400000000001
+501,1550,"[268, '[CON-1-DRVPLY15] Conveyor Drive Pulley']","[57, 'SLN/Stock']",False,Inline Motion,CON-1-DRVPLY15,1299-101-999-90004,Inline Motion,4.0,4.0,"[1, 'Units']",0.0,0.0,9225.0
+502,1551,"[434, '[COOL-1-WAT-1000] Heat Exchanger']","[57, 'SLN/Stock']",False,Digikey,COOL-1-WAT-1000,926-1404-ND,Laird,3.0,3.0,"[1, 'Units']",0.0,0.0,5681.25
+503,1552,"[31, '[FB-SPDY-1-01] Fan board']","[57, 'SLN/Stock']","[115, 'F05']",LAE,FB-SPDY-1-01,FB-SPDY-1-01,LAE,0.0,1.0,"[1, 'Units']",0.0,1.0,154.5
+504,1557,"[29, '[PC-SPDY-1-01] Industrial Computer']","[8, 'GSAI/Stock']","[21, 'PSE210300122']",Premio,PC-SPDY-1-01,M2Q370V2-GRE2U,Premio,-1.0,-1.0,"[1, 'Units']",0.0,0.0,-1350.0
+505,1564,"[237, '[HRX380] HRX380']","[8, 'GSAI/Stock']","[128, 'A2121AP02']",False,HRX380,False,False,1.0,1.0,"[1, 'Units']",0.0,0.0,0.0
+506,1568,"[124, '[CBL-1-320] 3/20 AWG Unshielded Cable (BLK, RED, WHT)']","[57, 'SLN/Stock']",False,Digikey,CBL-1-320,5053C SL005,Alpha Wire,2.0,2.0,"[1, 'Units']",0.0,0.0,712.5
+507,1570,"[122, '[CBL-1-418SH] 4/18 AWG Foil Shield Cable (BLK, BRN, RED, ORG)']","[57, 'SLN/Stock']",False,Digikey,CBL-1-418SH,5430/4 SL005,Alpha Wire,2.0,2.0,"[1, 'Units']",0.0,0.0,1292.72
+508,1589,"[63, '[TUBE-1-01-AC75801] X-Ray Tube with 300W Air Cooling']","[8, 'GSAI/Stock']","[172, '27591']",rtw RÖNTGEN-TECHNIK,TUBE-1-01-AC75801,"MCDH_75B-1,5/1,5_80°x10°AirCooled",RTW,1.0,1.0,"[1, 'Units']",0.0,0.0,5078.05
+509,1591,"[65, '[DET-1-01-220CON] XRay Camera 221mm, low energy']","[8, 'GSAI/Stock']","[245, '00003912']",Hamamatsu,DET-1-01-220CON,C12300-321B,Hamamatsu,1.0,1.0,"[1, 'Units']",0.0,0.0,26100.0
+510,1593,"[65, '[DET-1-01-220CON] XRay Camera 221mm, low energy']","[8, 'GSAI/Stock']","[246, '00003913']",Hamamatsu,DET-1-01-220CON,C12300-321B,Hamamatsu,1.0,1.0,"[1, 'Units']",0.0,0.0,26100.0
+511,1595,"[68, '[DET-1-01-220CONFG] Low Profile Camera Link Board (framegrabber)']","[8, 'GSAI/Stock']","[247, '69900823']",Hamamatsu,DET-1-01-220CONFG,CAMRA-3114-00,Hamamatsu,1.0,1.0,"[1, 'Units']",0.0,0.0,1160.0
+512,1597,"[68, '[DET-1-01-220CONFG] Low Profile Camera Link Board (framegrabber)']","[8, 'GSAI/Stock']","[248, '69900824']",Hamamatsu,DET-1-01-220CONFG,CAMRA-3114-00,Hamamatsu,1.0,1.0,"[1, 'Units']",0.0,0.0,1160.0
+513,1604,"[31, '[FB-SPDY-1-01] Fan board']","[8, 'GSAI/Stock']","[63, 'FB04']",LAE,FB-SPDY-1-01,FB-SPDY-1-01,LAE,-1.0,-1.0,"[1, 'Units']",0.0,0.0,-154.5
+514,1616,"[553, '[TUBE-1-02-AC75801] X-Ray Tube with 600W Air Cooling']","[8, 'GSAI/Stock']","[173, '27591']",rtw RÖNTGEN-TECHNIK,TUBE-1-02-AC75801,"MCDH 75B-1,5/1,5 80°x10° Air Cooled",RTW,0.0,1.0,"[1, 'Units']",0.0,1.0,6135.66
+515,1619,"[101, '[ELEC-1-CON-FANPLUG] Fan Plugs']","[8, 'GSAI/Stock']",False,Digikey,ELEC-1-CON-FANPLUG,151350306,Molex,8.0,8.0,"[1, 'Units']",0.0,0.0,26.0
+516,1621,"[32, '[TS-1-01-17ACRES] 17"" Touchscreen Monitor AC Power']","[8, 'GSAI/Stock']","[58, '20019160']",Hope Industrial,TS-1-01-17ACRES,HIS-ML17-STAH,Hope Industrial,1.0,1.0,"[1, 'Units']",0.0,0.0,814.0
+517,1622,"[31, '[FB-SPDY-1-01] Fan board']","[8, 'GSAI/Stock']","[195, 'F09']",LAE,FB-SPDY-1-01,FB-SPDY-1-01,LAE,1.0,1.0,"[1, 'Units']",0.0,0.0,154.5
+518,1625,"[859, '[ABC-123] Dummy Plugs']","[57, 'SLN/Stock']",False,False,ABC-123,False,False,1.0,1.0,"[1, 'Units']",0.0,0.0,1.0
+519,1627,"[266, '[SFTY-1-01-70] Green Start Button Flush Mount']","[8, 'GSAI/Stock']",False,Buckles-Smith Electric,SFTY-1-01-70,800K-30FMG24X10,Allen Bradley,3.0,3.0,"[1, 'Units']",0.0,0.0,402.51
+520,1631,"[563, '[HRX660.P600.A] HRX660.P600.A']","[57, 'SLN/Stock']",False,False,HRX660.P600.A,False,False,1.0,1.0,"[1, 'Units']",0.0,0.0,0.0
+521,1632,"[319, '[MC-SPDY-1-02] Controller Board']","[57, 'SLN/Stock']","[250, 'SC14']",Selene,MC-SPDY-1-02,Spidey_810 A Rev: A,Selene,0.0,1.0,"[1, 'Units']",0.0,1.0,1245.0
+522,1634,"[584, '[VFD-2-01-2HP1P230] Variable Frequency Drive (2HP)']","[57, 'SLN/Stock']",False,Buckles-Smith Electric,VFD-2-01-2HP1P230,ALB25BA8P0N104,Allen Bradley,11.0,14.0,"[1, 'Units']",0.0,3.0,9095.52
+523,1636,"[296, '[ELEC-1-CB-2POL25A] Breaker']","[57, 'SLN/Stock']",False,Mouser Electronics,ELEC-1-CB-2POL25A,651-2907598,Phoenix Contact,4.0,11.0,"[1, 'Units']",0.0,7.0,476.19
+524,1637,"[582, '[PC-SPDY-2-01] Industrial Computer (3000 - 2 Port LAN)']","[57, 'SLN/Stock']","[190, 'PSE211000136']",Premio,PC-SPDY-2-01,KCO-3000-GRE-2L,Premio,0.0,1.0,"[1, 'Units']",0.0,1.0,1915.0
+525,1638,"[730, '[SHME-660-21-1034] Rail Bracket Right Assembly']","[57, 'SLN/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-660-21-1034,660-21-1034 R-1,RMFI,14.0,14.0,"[1, 'Units']",0.0,0.0,1215.9
+526,1640,"[860, '[SHME-660-31-1031] Front Conveyor Support Bracket']","[57, 'SLN/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-660-31-1031,660-31-1031 R-1,RMFI,24.0,24.0,"[1, 'Units']",0.0,0.0,1915.2
+527,1642,"[731, '[SHME-660-21-1035] Rail Bracket Left Assembly']","[57, 'SLN/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-660-21-1035,660-21-1035 R-1,RMFI,14.0,14.0,"[1, 'Units']",0.0,0.0,1050.7
+528,1644,"[861, '[SHME-660-21-1041] Electrical Bracket High Voltage Assembly']","[57, 'SLN/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-660-21-1041,SHME-660-21-1041,RMFI,14.0,14.0,"[1, 'Units']",0.0,0.0,569.8000000000001
+529,1646,"[761, '[SHME-660-21-1040] Electrical Bracket, Low Voltage Assy']","[57, 'SLN/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-660-21-1040,660-21-1040 R-1,RMFI,14.0,14.0,"[1, 'Units']",0.0,0.0,609.0
+530,1648,"[760, '[SHME-660-21-1039] Power Supply DIN Bracket Assy']","[57, 'SLN/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-660-21-1039,660-21-1039 R-1,RMFI,14.0,14.0,"[1, 'Units']",0.0,0.0,373.8
+531,1650,"[759, '[SHME-660-21-1038] UPS DIN Bracket Assy']","[57, 'SLN/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-660-21-1038,660-21-1038 R-1,RMFI,14.0,14.0,"[1, 'Units']",0.0,0.0,657.58
+532,1652,"[737, '[SHME-660-21-1056] Fan Mounting Bracket, Bottom Back Door']","[57, 'SLN/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-660-21-1056,660-21-1056 R-1,RMFI,14.0,14.0,"[1, 'Units']",0.0,0.0,906.9200000000001
+533,1654,"[742, '[SHME-660-21-1061] Fan Bracket, Removable, Back Door']","[57, 'SLN/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-660-21-1061,660-21-1061 R-1,RMFI,14.0,14.0,"[1, 'Units']",0.0,0.0,668.78
+534,1656,"[738, '[SHME-660-21-1057] Fan Mounting Bracket, Mid, Back Door Assy']","[57, 'SLN/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-660-21-1057,660-21-1057 R-1,RMFI,28.0,28.0,"[1, 'Units']",0.0,0.0,1894.2
+535,1658,"[740, '[SHME-660-21-1059] Door Reinforcement Bracket Assy']","[57, 'SLN/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-660-21-1059,660-21-1059 R-1,RMFI,21.0,21.0,"[1, 'Units']",0.0,0.0,555.45
+536,1660,"[739, '[SHME-660-21-1058] Fan Mounting Bracket, Top, Back Door Assy']","[57, 'SLN/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-660-21-1058,660-21-1058 R-1,RMFI,14.0,14.0,"[1, 'Units']",0.0,0.0,636.72
+537,1662,"[744, '[SHME-660-21-1044] Display Hinge, 3 Piece, Weld Assy']","[57, 'SLN/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-660-21-1044,660-21-1044 R-1,RMFI,28.0,28.0,"[1, 'Units']",0.0,0.0,2141.7200000000003
+538,1664,"[758, '[SHME-660-21-1037] Conveyor Drive Mounting Plate Assy']","[57, 'SLN/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-660-21-1037,660-21-1037 R-1.1,RMFI,28.0,28.0,"[1, 'Units']",0.0,0.0,1091.72
+539,1666,"[863, '[SHME-660-21-1023] Detector Bracket Rear']","[57, 'SLN/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-660-21-1023,21-1023,RMFI,14.0,14.0,"[1, 'Units']",0.0,0.0,0.0
+540,1668,"[864, '[SHME-660-21-1022] Detector Front Right Bracket Assembly']","[57, 'SLN/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-660-21-1022,660-21-1022,RMFI,28.0,28.0,"[1, 'Units']",0.0,0.0,778.12
+541,1670,"[729, '[SHME-660-21-0069] Rear Door Interlock Bracket Assy']","[57, 'SLN/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-660-21-0069,660-21-0069 R-2,RMFI,14.0,14.0,"[1, 'Units']",0.0,0.0,217.0
+542,1672,"[728, '[SHME-660-21-0068] Hood Interlock Bracket Assy']","[57, 'SLN/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-660-21-0068,660-21-0068 R-2,RMFI,14.0,14.0,"[1, 'Units']",0.0,0.0,165.20000000000002
+543,1674,"[726, '[SHME-660-31-1032] Front Cantilever Support Bracket #2']","[57, 'SLN/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-660-31-1032,660-31-1032 R-1,RMFI,14.0,14.0,"[1, 'Units']",0.0,0.0,1226.4
+544,1676,"[741, '[SHME-660-31-1060] Door Air Panel Weld']","[57, 'SLN/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-660-31-1060,660-31-1060 R-1,RMFI,28.0,28.0,"[1, 'Units']",0.0,0.0,3792.88
+545,1678,"[751, '[SHME-660-21-1052] Curtain Carrier, Outer, With Hardware']","[57, 'SLN/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-660-21-1052,660-21-1052 R-1,RMFI,14.0,14.0,"[1, 'Units']",0.0,0.0,2327.5
+546,1680,"[750, '[SHME-660-31-1063] Inner Curtain Support']","[57, 'SLN/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-660-31-1063,660-31-1063 R-1,RMFI,14.0,14.0,"[1, 'Units']",0.0,0.0,158.9
+547,1682,"[868, '[SHME-660-21-1051] Curtain Carrier, Inner with hardware']","[57, 'SLN/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-660-21-1051,660-21-1051 R-1,RMFI,28.0,28.0,"[1, 'Units']",0.0,0.0,4589.2
+548,1684,"[871, '[SHME-660-31-1083] Fan Mounting Face Plate']","[57, 'SLN/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-660-31-1083,SHME-660-31-1083 R-1,RMFI,14.0,14.0,"[1, 'Units']",0.0,0.0,551.46
+549,1686,"[873, '[SHME-660-21-0065] Fan Ducting Tube Lower Assy']","[57, 'SLN/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-660-21-0065,660-21-0065,RMFI,14.0,14.0,"[1, 'Units']",0.0,0.0,402.22
+550,1688,"[875, '[SHME-660-31-1084] Fan Mounting Face Plate']","[57, 'SLN/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-660-31-1084,660-31-1084 R-1,RMFI,14.0,14.0,"[1, 'Units']",0.0,0.0,519.26
+551,1690,"[878, '[SHME-660-21-1079] Source Baffle Left Assembly']","[57, 'SLN/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-660-21-1079,660-21-1079 R.1,RMFI,14.0,14.0,"[1, 'Units']",0.0,0.0,1932.0
+552,1692,"[872, '[SHME-660-31-1082] Collimator Shield']","[57, 'SLN/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-660-31-1082,660-31-1082 R.1,RMFI,14.0,14.0,"[1, 'Units']",0.0,0.0,627.2
+553,1694,"[234, '[PS-1-01-HV600W] XRay Power Supply 600W 8mA']","[57, 'SLN/Stock']","[175, '136535355-A00003']",Spellman High Voltage Electronics,PS-1-01-HV600W,DXM75N600X6113,Spellman,1.0,1.0,"[1, 'Units']",0.0,0.0,5500.0
+554,1695,"[234, '[PS-1-01-HV600W] XRay Power Supply 600W 8mA']","[57, 'SLN/Stock']","[240, '136647979-A00012']",Spellman High Voltage Electronics,PS-1-01-HV600W,DXM75N600X6113,Spellman,1.0,1.0,"[1, 'Units']",0.0,0.0,5500.0
+555,1696,"[234, '[PS-1-01-HV600W] XRay Power Supply 600W 8mA']","[57, 'SLN/Stock']","[239, '136647978-A00011']",Spellman High Voltage Electronics,PS-1-01-HV600W,DXM75N600X6113,Spellman,0.0,1.0,"[1, 'Units']",0.0,1.0,5500.0
+556,1699,"[675, '[HTSNK-30-0008] Heat Sink']","[57, 'SLN/Stock']",False,ETS,HTSNK-30-0008,30-0008,ETS,11.0,15.0,"[1, 'Units']",0.0,4.0,3750.0
+557,1706,"[230, '[DET-1-01-350CON] Dual Energy X-Ray Detector (350)']","[57, 'SLN/Stock']","[252, '02FX352521']",Direct Conversion,DET-1-01-350CON,TDI350.1.60.075,Direct Conversion,0.0,1.0,"[1, 'Units']",0.0,1.0,15569.65
+558,1707,"[230, '[DET-1-01-350CON] Dual Energy X-Ray Detector (350)']","[57, 'SLN/Stock']","[253, '02FX352523']",Direct Conversion,DET-1-01-350CON,TDI350.1.60.075,Direct Conversion,1.0,1.0,"[1, 'Units']",0.0,0.0,15569.65
+559,1708,"[230, '[DET-1-01-350CON] Dual Energy X-Ray Detector (350)']","[57, 'SLN/Stock']","[251, '02FX352510']",Direct Conversion,DET-1-01-350CON,TDI350.1.60.075,Direct Conversion,1.0,1.0,"[1, 'Units']",0.0,0.0,15569.65
+560,1710,"[291, '[ELEC-1-RFID-RDR] RFID Reader']","[57, 'SLN/Stock']",False,CDW,ELEC-1-RFID-RDR,RDR-800W1AKU,RFIdeas,2.0,2.0,"[1, 'Units']",0.0,0.0,389.98
+561,1711,"[292, '[KT-IP67] RFID Reader IP67 Install Kit']","[57, 'SLN/Stock']",False,CDW,KT-IP67,KT-IP67,RFIdeas,2.0,2.0,"[1, 'Units']",0.0,0.0,66.0
+562,1712,"[229, '[DET-1-01-650CON] Dual Energy X-Ray Detector (650)']","[57, 'SLN/Stock']","[225, '02FX652499']",Direct Conversion,DET-1-01-650CON,TDI650.1.60.075,Direct Conversion,1.0,1.0,"[1, 'Units']",0.0,0.0,26160.0
+563,1713,"[229, '[DET-1-01-650CON] Dual Energy X-Ray Detector (650)']","[57, 'SLN/Stock']","[224, '02FX652500']",Direct Conversion,DET-1-01-650CON,TDI650.1.60.075,Direct Conversion,1.0,1.0,"[1, 'Units']",0.0,0.0,26160.0
+564,1715,"[847, '[PC-SPDY-2-04-E] Industrial Computer (3000 - 2 Port LAN - E CPU - GPU)']","[57, 'SLN/Stock']","[254, 'PSE220100081']",Premio,PC-SPDY-2-04-E,KCO-3000-GRE-2L-A4K,Premio,0.0,1.0,"[1, 'Units']",0.0,1.0,3710.0
+565,1717,"[847, '[PC-SPDY-2-04-E] Industrial Computer (3000 - 2 Port LAN - E CPU - GPU)']","[57, 'SLN/Stock']","[255, 'PSE220100082']",Premio,PC-SPDY-2-04-E,KCO-3000-GRE-2L-A4K,Premio,1.0,1.0,"[1, 'Units']",0.0,0.0,3710.0
+566,1727,"[237, '[HRX380] HRX380']","[57, 'SLN/Stock']","[177, 'B2144A004']",False,HRX380,False,False,1.0,1.0,"[1, 'Units']",0.0,0.0,0.0
+567,1729,"[237, '[HRX380] HRX380']","[57, 'SLN/Stock']","[209, 'B2147A005']",False,HRX380,False,False,1.0,1.0,"[1, 'Units']",0.0,0.0,0.0
+568,1731,"[237, '[HRX380] HRX380']","[57, 'SLN/Stock']","[141, 'B2142AP06']",False,HRX380,False,False,1.0,1.0,"[1, 'Units']",0.0,0.0,0.0
+569,1733,"[237, '[HRX380] HRX380']","[57, 'SLN/Stock']","[150, 'B2139A003']",False,HRX380,False,False,1.0,1.0,"[1, 'Units']",0.0,0.0,0.0
+570,1735,"[285, '[TUBE-1-01-WC75801] X-Ray Tube with 600W Water Cooling']","[137, 'GSAI/RMA']","[132, '29051']",rtw RÖNTGEN-TECHNIK,TUBE-1-01-WC75801,"MCDH_75B-1,5/1,5_80°x10°WaterCooled",RTW,1.0,1.0,"[1, 'Units']",0.0,0.0,6013.35
+571,1736,"[63, '[TUBE-1-01-AC75801] X-Ray Tube with 300W Air Cooling']","[57, 'SLN/Stock']","[60, '28018']",rtw RÖNTGEN-TECHNIK,TUBE-1-01-AC75801,"MCDH_75B-1,5/1,5_80°x10°AirCooled",RTW,0.0,1.0,"[1, 'Units']",0.0,1.0,5078.05
+572,1737,"[63, '[TUBE-1-01-AC75801] X-Ray Tube with 300W Air Cooling']","[57, 'SLN/Stock']","[74, '27353']",rtw RÖNTGEN-TECHNIK,TUBE-1-01-AC75801,"MCDH_75B-1,5/1,5_80°x10°AirCooled",RTW,0.0,1.0,"[1, 'Units']",0.0,1.0,5078.05
+573,1738,"[63, '[TUBE-1-01-AC75801] X-Ray Tube with 300W Air Cooling']","[57, 'SLN/Stock']","[90, '27350']",rtw RÖNTGEN-TECHNIK,TUBE-1-01-AC75801,"MCDH_75B-1,5/1,5_80°x10°AirCooled",RTW,0.0,1.0,"[1, 'Units']",0.0,1.0,5078.05
+574,1745,"[63, '[TUBE-1-01-AC75801] X-Ray Tube with 300W Air Cooling']","[57, 'SLN/Stock']","[256, '29455']",rtw RÖNTGEN-TECHNIK,TUBE-1-01-AC75801,"MCDH_75B-1,5/1,5_80°x10°AirCooled",RTW,1.0,1.0,"[1, 'Units']",0.0,0.0,5078.05
+575,1747,"[63, '[TUBE-1-01-AC75801] X-Ray Tube with 300W Air Cooling']","[57, 'SLN/Stock']","[257, '29454']",rtw RÖNTGEN-TECHNIK,TUBE-1-01-AC75801,"MCDH_75B-1,5/1,5_80°x10°AirCooled",RTW,1.0,1.0,"[1, 'Units']",0.0,0.0,5078.05
+576,1748,"[63, '[TUBE-1-01-AC75801] X-Ray Tube with 300W Air Cooling']","[57, 'SLN/Stock']","[44, '29443']",rtw RÖNTGEN-TECHNIK,TUBE-1-01-AC75801,"MCDH_75B-1,5/1,5_80°x10°AirCooled",RTW,0.0,1.0,"[1, 'Units']",0.0,1.0,5078.05
+577,1749,"[63, '[TUBE-1-01-AC75801] X-Ray Tube with 300W Air Cooling']","[57, 'SLN/Stock']","[243, '29456']",rtw RÖNTGEN-TECHNIK,TUBE-1-01-AC75801,"MCDH_75B-1,5/1,5_80°x10°AirCooled",RTW,1.0,1.0,"[1, 'Units']",0.0,0.0,5078.05
+578,1751,"[63, '[TUBE-1-01-AC75801] X-Ray Tube with 300W Air Cooling']","[57, 'SLN/Stock']","[241, '28017']",rtw RÖNTGEN-TECHNIK,TUBE-1-01-AC75801,"MCDH_75B-1,5/1,5_80°x10°AirCooled",RTW,1.0,1.0,"[1, 'Units']",0.0,0.0,5078.05
+579,1752,"[63, '[TUBE-1-01-AC75801] X-Ray Tube with 300W Air Cooling']","[57, 'SLN/Stock']","[212, '27594']",rtw RÖNTGEN-TECHNIK,TUBE-1-01-AC75801,"MCDH_75B-1,5/1,5_80°x10°AirCooled",RTW,0.0,1.0,"[1, 'Units']",0.0,1.0,5078.05
+580,1753,"[29, '[PC-SPDY-1-01] Industrial Computer']","[57, 'SLN/Stock']","[87, 'PSE210600019']",Premio,PC-SPDY-1-01,M2Q370V2-GRE2U,Premio,1.0,1.0,"[1, 'Units']",0.0,0.0,1350.0
+581,1755,"[808, '[AP-1-01-45] Pressure Switch']","[57, 'SLN/Stock']",False,AutomationDirect,AP-1-01-45,QPSH-AP-42,Prosense,4.0,4.0,"[1, 'Units']",0.0,0.0,304.0
+582,1766,"[63, '[TUBE-1-01-AC75801] X-Ray Tube with 300W Air Cooling']","[57, 'SLN/Stock']","[263, '29695']",rtw RÖNTGEN-TECHNIK,TUBE-1-01-AC75801,"MCDH_75B-1,5/1,5_80°x10°AirCooled",RTW,1.0,1.0,"[1, 'Units']",0.0,0.0,5078.05
+583,1767,"[63, '[TUBE-1-01-AC75801] X-Ray Tube with 300W Air Cooling']","[57, 'SLN/Stock']","[259, '29526']",rtw RÖNTGEN-TECHNIK,TUBE-1-01-AC75801,"MCDH_75B-1,5/1,5_80°x10°AirCooled",RTW,1.0,1.0,"[1, 'Units']",0.0,0.0,5078.05
+584,1768,"[63, '[TUBE-1-01-AC75801] X-Ray Tube with 300W Air Cooling']","[57, 'SLN/Stock']","[260, '29527']",rtw RÖNTGEN-TECHNIK,TUBE-1-01-AC75801,"MCDH_75B-1,5/1,5_80°x10°AirCooled",RTW,1.0,1.0,"[1, 'Units']",0.0,0.0,5078.05
+585,1769,"[63, '[TUBE-1-01-AC75801] X-Ray Tube with 300W Air Cooling']","[57, 'SLN/Stock']","[261, '29529']",rtw RÖNTGEN-TECHNIK,TUBE-1-01-AC75801,"MCDH_75B-1,5/1,5_80°x10°AirCooled",RTW,1.0,1.0,"[1, 'Units']",0.0,0.0,5078.05
+586,1770,"[63, '[TUBE-1-01-AC75801] X-Ray Tube with 300W Air Cooling']","[57, 'SLN/Stock']","[262, '29531']",rtw RÖNTGEN-TECHNIK,TUBE-1-01-AC75801,"MCDH_75B-1,5/1,5_80°x10°AirCooled",RTW,1.0,1.0,"[1, 'Units']",0.0,0.0,5078.05
+587,1773,"[836, '[SHME-660-31-1089] AC Vent, Baffle, Top']","[57, 'SLN/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-660-31-1089,660-31-1089 R-1,RMFI,14.0,14.0,"[1, 'Units']",0.0,0.0,626.92
+588,1775,"[837, '[SHME-660-31-1090] AC Vent, Baffle, Back Door, Bottom']","[57, 'SLN/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-660-31-1090,660-31-1090 R-1,RMFI,14.0,14.0,"[1, 'Units']",0.0,0.0,536.62
+589,1776,"[476, '[SHME-380-21-0060] Duct Overlap Bottom Assy']","[57, 'SLN/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-380-21-0060,380-21-0060 R-2,RMFI,1.0,1.0,"[1, 'Units']",0.0,0.0,67.8
+590,1778,"[31, '[FB-SPDY-1-01] Fan board']","[57, 'SLN/Stock']","[264, 'F14']",LAE,FB-SPDY-1-01,FB-SPDY-1-01,LAE,0.0,1.0,"[1, 'Units']",0.0,1.0,154.5
+591,1780,"[31, '[FB-SPDY-1-01] Fan board']","[57, 'SLN/Stock']","[265, 'F15']",LAE,FB-SPDY-1-01,FB-SPDY-1-01,LAE,0.0,1.0,"[1, 'Units']",0.0,1.0,154.5
+592,1782,"[31, '[FB-SPDY-1-01] Fan board']","[57, 'SLN/Stock']","[266, 'F16']",LAE,FB-SPDY-1-01,FB-SPDY-1-01,LAE,0.0,1.0,"[1, 'Units']",0.0,1.0,154.5
+593,1784,"[31, '[FB-SPDY-1-01] Fan board']","[57, 'SLN/Stock']","[267, 'F17']",LAE,FB-SPDY-1-01,FB-SPDY-1-01,LAE,1.0,1.0,"[1, 'Units']",0.0,0.0,154.5
+594,1786,"[31, '[FB-SPDY-1-01] Fan board']","[57, 'SLN/Stock']","[268, 'F18']",LAE,FB-SPDY-1-01,FB-SPDY-1-01,LAE,1.0,1.0,"[1, 'Units']",0.0,0.0,154.5
+595,1788,"[31, '[FB-SPDY-1-01] Fan board']","[57, 'SLN/Stock']","[269, 'F19']",LAE,FB-SPDY-1-01,FB-SPDY-1-01,LAE,1.0,1.0,"[1, 'Units']",0.0,0.0,154.5
+596,1790,"[31, '[FB-SPDY-1-01] Fan board']","[57, 'SLN/Stock']","[270, 'F20']",LAE,FB-SPDY-1-01,FB-SPDY-1-01,LAE,1.0,1.0,"[1, 'Units']",0.0,0.0,154.5
+597,1792,"[31, '[FB-SPDY-1-01] Fan board']","[57, 'SLN/Stock']","[271, 'F21']",LAE,FB-SPDY-1-01,FB-SPDY-1-01,LAE,1.0,1.0,"[1, 'Units']",0.0,0.0,154.5
+598,1794,"[31, '[FB-SPDY-1-01] Fan board']","[57, 'SLN/Stock']","[272, 'F22']",LAE,FB-SPDY-1-01,FB-SPDY-1-01,LAE,1.0,1.0,"[1, 'Units']",0.0,0.0,154.5
+599,1796,"[31, '[FB-SPDY-1-01] Fan board']","[57, 'SLN/Stock']","[273, 'F23']",LAE,FB-SPDY-1-01,FB-SPDY-1-01,LAE,1.0,1.0,"[1, 'Units']",0.0,0.0,154.5
+600,1798,"[319, '[MC-SPDY-1-02] Controller Board']","[57, 'SLN/Stock']","[274, 'SC15']",Selene,MC-SPDY-1-02,Spidey_810 A Rev: A,Selene,0.0,1.0,"[1, 'Units']",0.0,1.0,1245.0
+601,1800,"[319, '[MC-SPDY-1-02] Controller Board']","[57, 'SLN/Stock']","[275, 'SC16']",Selene,MC-SPDY-1-02,Spidey_810 A Rev: A,Selene,1.0,1.0,"[1, 'Units']",0.0,0.0,1245.0
+602,1802,"[319, '[MC-SPDY-1-02] Controller Board']","[57, 'SLN/Stock']","[276, 'SC17']",Selene,MC-SPDY-1-02,Spidey_810 A Rev: A,Selene,1.0,1.0,"[1, 'Units']",0.0,0.0,1245.0
+603,1804,"[319, '[MC-SPDY-1-02] Controller Board']","[57, 'SLN/Stock']","[277, 'SC18']",Selene,MC-SPDY-1-02,Spidey_810 A Rev: A,Selene,1.0,1.0,"[1, 'Units']",0.0,0.0,1245.0
+604,1806,"[319, '[MC-SPDY-1-02] Controller Board']","[57, 'SLN/Stock']","[278, 'SC19']",Selene,MC-SPDY-1-02,Spidey_810 A Rev: A,Selene,1.0,1.0,"[1, 'Units']",0.0,0.0,1245.0
+605,1808,"[319, '[MC-SPDY-1-02] Controller Board']","[57, 'SLN/Stock']","[279, 'SC20']",Selene,MC-SPDY-1-02,Spidey_810 A Rev: A,Selene,1.0,1.0,"[1, 'Units']",0.0,0.0,1245.0
+606,1810,"[319, '[MC-SPDY-1-02] Controller Board']","[57, 'SLN/Stock']","[280, 'SC21']",Selene,MC-SPDY-1-02,Spidey_810 A Rev: A,Selene,1.0,1.0,"[1, 'Units']",0.0,0.0,1245.0
+607,1812,"[319, '[MC-SPDY-1-02] Controller Board']","[57, 'SLN/Stock']","[281, 'SC22']",Selene,MC-SPDY-1-02,Spidey_810 A Rev: A,Selene,1.0,1.0,"[1, 'Units']",0.0,0.0,1245.0
+608,1814,"[319, '[MC-SPDY-1-02] Controller Board']","[57, 'SLN/Stock']","[282, 'SC23']",Selene,MC-SPDY-1-02,Spidey_810 A Rev: A,Selene,1.0,1.0,"[1, 'Units']",0.0,0.0,1245.0
+609,1816,"[319, '[MC-SPDY-1-02] Controller Board']","[57, 'SLN/Stock']","[283, 'SC24']",Selene,MC-SPDY-1-02,Spidey_810 A Rev: A,Selene,1.0,1.0,"[1, 'Units']",0.0,0.0,1245.0
+610,1817,"[427, '[AP-1-01-10] Filter Regulator']","[57, 'SLN/Stock']",False,Orange Coast Pneumatics,AP-1-01-10,AW30-N03B-Z-A,SMC,6.0,6.0,"[1, 'Units']",0.0,0.0,266.7
+611,1818,"[457, '[PS-1-02-UPS] UPS, 120/230VAC, 4.3/2.2A']","[57, 'SLN/Stock']",False,Allied Electronics & Automation,PS-1-02-UPS,70235755,Phoenix Contact,6.0,10.0,"[1, 'Units']",0.0,4.0,15572.800000000001
+612,1819,"[234, '[PS-1-01-HV600W] XRay Power Supply 600W 8mA']","[57, 'SLN/Stock']","[200, '136520562-A00007']",Spellman High Voltage Electronics,PS-1-01-HV600W,DXM75N600X6113,Spellman,0.0,1.0,"[1, 'Units']",0.0,1.0,5500.0
+613,1820,"[234, '[PS-1-01-HV600W] XRay Power Supply 600W 8mA']","[57, 'SLN/Stock']","[199, '136520560-A00006']",Spellman High Voltage Electronics,PS-1-01-HV600W,DXM75N600X6113,Spellman,0.0,1.0,"[1, 'Units']",0.0,1.0,5500.0
+614,1822,"[832, '[CON-1-01-2430] HRX660 Reject Conveyor (24x30)']","[57, 'SLN/Stock']",False,Inline Motion,CON-1-01-2430,1421-101,Inline Motion,6.0,6.0,"[1, 'Units']",0.0,0.0,65672.34
+615,1840,"[847, '[PC-SPDY-2-04-E] Industrial Computer (3000 - 2 Port LAN - E CPU - GPU)']","[57, 'SLN/Stock']","[297, 'PSE220100077']",Premio,PC-SPDY-2-04-E,KCO-3000-GRE-2L-A4K,Premio,0.0,1.0,"[1, 'Units']",0.0,1.0,3710.0
+616,1842,"[847, '[PC-SPDY-2-04-E] Industrial Computer (3000 - 2 Port LAN - E CPU - GPU)']","[57, 'SLN/Stock']","[298, 'PSE220100078']",Premio,PC-SPDY-2-04-E,KCO-3000-GRE-2L-A4K,Premio,1.0,1.0,"[1, 'Units']",0.0,0.0,3710.0
+617,1844,"[847, '[PC-SPDY-2-04-E] Industrial Computer (3000 - 2 Port LAN - E CPU - GPU)']","[57, 'SLN/Stock']","[299, 'PSE220100079']",Premio,PC-SPDY-2-04-E,KCO-3000-GRE-2L-A4K,Premio,1.0,1.0,"[1, 'Units']",0.0,0.0,3710.0
+618,1846,"[847, '[PC-SPDY-2-04-E] Industrial Computer (3000 - 2 Port LAN - E CPU - GPU)']","[57, 'SLN/Stock']","[300, 'PSE220100080']",Premio,PC-SPDY-2-04-E,KCO-3000-GRE-2L-A4K,Premio,1.0,1.0,"[1, 'Units']",0.0,0.0,3710.0
+619,1848,"[847, '[PC-SPDY-2-04-E] Industrial Computer (3000 - 2 Port LAN - E CPU - GPU)']","[57, 'SLN/Stock']","[301, 'PSE220100083']",Premio,PC-SPDY-2-04-E,KCO-3000-GRE-2L-A4K,Premio,1.0,1.0,"[1, 'Units']",0.0,0.0,3710.0
+620,1850,"[847, '[PC-SPDY-2-04-E] Industrial Computer (3000 - 2 Port LAN - E CPU - GPU)']","[57, 'SLN/Stock']","[302, 'PSE220100084']",Premio,PC-SPDY-2-04-E,KCO-3000-GRE-2L-A4K,Premio,1.0,1.0,"[1, 'Units']",0.0,0.0,3710.0
+621,1852,"[847, '[PC-SPDY-2-04-E] Industrial Computer (3000 - 2 Port LAN - E CPU - GPU)']","[57, 'SLN/Stock']","[303, 'PSE220100085']",Premio,PC-SPDY-2-04-E,KCO-3000-GRE-2L-A4K,Premio,1.0,1.0,"[1, 'Units']",0.0,0.0,3710.0
+622,1854,"[847, '[PC-SPDY-2-04-E] Industrial Computer (3000 - 2 Port LAN - E CPU - GPU)']","[57, 'SLN/Stock']","[304, 'PSE220100060']",Premio,PC-SPDY-2-04-E,KCO-3000-GRE-2L-A4K,Premio,1.0,1.0,"[1, 'Units']",0.0,0.0,3710.0
+623,1855,"[63, '[TUBE-1-01-AC75801] X-Ray Tube with 300W Air Cooling']","[136, 'SLN/RMA']","[89, '27354']",rtw RÖNTGEN-TECHNIK,TUBE-1-01-AC75801,"MCDH_75B-1,5/1,5_80°x10°AirCooled",RTW,1.0,1.0,"[1, 'Units']",0.0,0.0,5078.05
+624,1857,"[905, '[TS-1-01-19.5ACRES] 19.5"" Touchscreen Monitor AC Power']","[57, 'SLN/Stock']","[305, '20043912']",Hope Industrial,TS-1-01-19.5ACRES,HIS-UM19.5-STAA,Hope Industrial,1.0,1.0,"[1, 'Units']",0.0,0.0,1127.0
+625,1859,"[906, '[TS-19.5-KIT] Monitor Mounting Kit (19.5"")']","[57, 'SLN/Stock']",False,Hope Industrial,TS-19.5-KIT,YB19.5-SS-N4X,Hope Industrial,1.0,1.0,"[1, 'Units']",0.0,0.0,488.0
+626,1861,"[907, '[TS-KVM-60] KVM Extender']","[57, 'SLN/Stock']",False,Hope Industrial,TS-KVM-60,KVM2EXT-SS-N4X-USB60,Hope Industrial,1.0,1.0,"[1, 'Units']",0.0,0.0,617.0
+627,1863,"[908, '[TS-PEDES] Pedestal for Monitor']","[57, 'SLN/Stock']",False,Hope Industrial,TS-PEDES,False,Hope Industrial,1.0,1.0,"[1, 'Units']",0.0,0.0,506.0
+628,1865,"[909, '[TS--FTSTND] Floor Stand with 4 legs, and levelling feet']","[57, 'SLN/Stock']",False,Hope Industrial,TS--FTSTND,MOBL4X4-FIXD-SS,Hope Industrial,1.0,1.0,"[1, 'Units']",0.0,0.0,842.0
+629,1867,"[234, '[PS-1-01-HV600W] XRay Power Supply 600W 8mA']","[57, 'SLN/Stock']","[306, '136647980-A00014']",Spellman High Voltage Electronics,PS-1-01-HV600W,DXM75N600X6113,Spellman,1.0,1.0,"[1, 'Units']",0.0,0.0,5500.0
+630,1874,"[229, '[DET-1-01-650CON] Dual Energy X-Ray Detector (650)']","[57, 'SLN/Stock']","[307, '02FX652564']",Direct Conversion,DET-1-01-650CON,TDI650.1.60.075,Direct Conversion,1.0,1.0,"[1, 'Units']",0.0,0.0,26160.0
+631,1875,"[229, '[DET-1-01-650CON] Dual Energy X-Ray Detector (650)']","[57, 'SLN/Stock']","[308, '02FX652565']",Direct Conversion,DET-1-01-650CON,TDI650.1.60.075,Direct Conversion,1.0,1.0,"[1, 'Units']",0.0,0.0,26160.0
+632,1876,"[229, '[DET-1-01-650CON] Dual Energy X-Ray Detector (650)']","[57, 'SLN/Stock']","[309, '02FX652566']",Direct Conversion,DET-1-01-650CON,TDI650.1.60.075,Direct Conversion,1.0,1.0,"[1, 'Units']",0.0,0.0,26160.0
+633,1881,"[230, '[DET-1-01-350CON] Dual Energy X-Ray Detector (350)']","[57, 'SLN/Stock']","[311, '02FX352559']",Direct Conversion,DET-1-01-350CON,TDI350.1.60.075,Direct Conversion,1.0,1.0,"[1, 'Units']",0.0,0.0,15569.65
+634,1883,"[230, '[DET-1-01-350CON] Dual Energy X-Ray Detector (350)']","[57, 'SLN/Stock']","[312, '02FX352560']",Direct Conversion,DET-1-01-350CON,TDI350.1.60.075,Direct Conversion,1.0,1.0,"[1, 'Units']",0.0,0.0,15569.65
+635,1894,"[648, '[PS-1-02-HV600W] XRay Power Supply 600W 10mA']","[57, 'SLN/Stock']","[313, '137146713-A00012']",Spellman High Voltage Electronics,PS-1-02-HV600W,DXM75N600X6178,Spellman,1.0,1.0,"[1, 'Units']",0.0,0.0,0.0
+636,1895,"[648, '[PS-1-02-HV600W] XRay Power Supply 600W 10mA']","[57, 'SLN/Stock']","[314, '137202239-A00006']",Spellman High Voltage Electronics,PS-1-02-HV600W,DXM75N600X6178,Spellman,1.0,1.0,"[1, 'Units']",0.0,0.0,0.0
+637,1896,"[648, '[PS-1-02-HV600W] XRay Power Supply 600W 10mA']","[57, 'SLN/Stock']","[315, '137202244-A00004']",Spellman High Voltage Electronics,PS-1-02-HV600W,DXM75N600X6178,Spellman,1.0,1.0,"[1, 'Units']",0.0,0.0,0.0
+638,1897,"[648, '[PS-1-02-HV600W] XRay Power Supply 600W 10mA']","[57, 'SLN/Stock']","[316, '137146714-A00010']",Spellman High Voltage Electronics,PS-1-02-HV600W,DXM75N600X6178,Spellman,1.0,1.0,"[1, 'Units']",0.0,0.0,0.0
+639,1898,"[648, '[PS-1-02-HV600W] XRay Power Supply 600W 10mA']","[57, 'SLN/Stock']","[317, '137202241-A00008']",Spellman High Voltage Electronics,PS-1-02-HV600W,DXM75N600X6178,Spellman,1.0,1.0,"[1, 'Units']",0.0,0.0,0.0
+640,1900,"[884, '[SHME-660-21-1091] Photoeye Bracket']","[57, 'SLN/Stock']",False,"Responsible Metal Fab, Inc (RMFI)",SHME-660-21-1091,660-21-1091 R-1,RMFI,14.0,14.0,"[1, 'Units']",0.0,0.0,472.5
+641,1914,"[63, '[TUBE-1-01-AC75801] X-Ray Tube with 300W Air Cooling']","[57, 'SLN/Stock']","[323, '29929']",rtw RÖNTGEN-TECHNIK,TUBE-1-01-AC75801,"MCDH_75B-1,5/1,5_80°x10°AirCooled",RTW,1.0,1.0,"[1, 'Units']",0.0,0.0,5078.05
+642,1915,"[63, '[TUBE-1-01-AC75801] X-Ray Tube with 300W Air Cooling']","[57, 'SLN/Stock']","[318, '29532']",rtw RÖNTGEN-TECHNIK,TUBE-1-01-AC75801,"MCDH_75B-1,5/1,5_80°x10°AirCooled",RTW,1.0,1.0,"[1, 'Units']",0.0,0.0,5078.05
+643,1916,"[63, '[TUBE-1-01-AC75801] X-Ray Tube with 300W Air Cooling']","[57, 'SLN/Stock']","[319, '29696']",rtw RÖNTGEN-TECHNIK,TUBE-1-01-AC75801,"MCDH_75B-1,5/1,5_80°x10°AirCooled",RTW,1.0,1.0,"[1, 'Units']",0.0,0.0,5078.05
+644,1917,"[63, '[TUBE-1-01-AC75801] X-Ray Tube with 300W Air Cooling']","[57, 'SLN/Stock']","[320, '29699']",rtw RÖNTGEN-TECHNIK,TUBE-1-01-AC75801,"MCDH_75B-1,5/1,5_80°x10°AirCooled",RTW,1.0,1.0,"[1, 'Units']",0.0,0.0,5078.05
+645,1918,"[63, '[TUBE-1-01-AC75801] X-Ray Tube with 300W Air Cooling']","[57, 'SLN/Stock']","[321, '29871']",rtw RÖNTGEN-TECHNIK,TUBE-1-01-AC75801,"MCDH_75B-1,5/1,5_80°x10°AirCooled",RTW,1.0,1.0,"[1, 'Units']",0.0,0.0,5078.05
+646,1919,"[63, '[TUBE-1-01-AC75801] X-Ray Tube with 300W Air Cooling']","[57, 'SLN/Stock']","[322, '29928']",rtw RÖNTGEN-TECHNIK,TUBE-1-01-AC75801,"MCDH_75B-1,5/1,5_80°x10°AirCooled",RTW,1.0,1.0,"[1, 'Units']",0.0,0.0,5078.05
+647,1920,"[63, '[TUBE-1-01-AC75801] X-Ray Tube with 300W Air Cooling']","[135, 'SLN/Quarantine']","[242, '29449']",rtw RÖNTGEN-TECHNIK,TUBE-1-01-AC75801,"MCDH_75B-1,5/1,5_80°x10°AirCooled",RTW,1.0,1.0,"[1, 'Units']",0.0,0.0,5078.05
+648,1921,"[63, '[TUBE-1-01-AC75801] X-Ray Tube with 300W Air Cooling']","[57, 'SLN/Stock']","[89, '27354']",rtw RÖNTGEN-TECHNIK,TUBE-1-01-AC75801,"MCDH_75B-1,5/1,5_80°x10°AirCooled",RTW,-1.0,-1.0,"[1, 'Units']",0.0,0.0,-5078.05
+649,1922,"[63, '[TUBE-1-01-AC75801] X-Ray Tube with 300W Air Cooling']","[135, 'SLN/Quarantine']","[89, '27354']",rtw RÖNTGEN-TECHNIK,TUBE-1-01-AC75801,"MCDH_75B-1,5/1,5_80°x10°AirCooled",RTW,1.0,1.0,"[1, 'Units']",0.0,0.0,5078.05
+650,1923,"[63, '[TUBE-1-01-AC75801] X-Ray Tube with 300W Air Cooling']","[135, 'SLN/Quarantine']","[258, '29523']",rtw RÖNTGEN-TECHNIK,TUBE-1-01-AC75801,"MCDH_75B-1,5/1,5_80°x10°AirCooled",RTW,1.0,1.0,"[1, 'Units']",0.0,0.0,5078.05
+651,1925,"[899, '[HW-1-02-M25] M25 Cord Grip (black)']","[57, 'SLN/Stock']",False,Sealcon,HW-1-02-M25,CD25DA-BK,Sealcon,100.0,100.0,"[1, 'Units']",0.0,0.0,231.0
+652,1927,"[900, '[HW-1-02-M25N] M25 Cord Grip Nut (copy)']","[57, 'SLN/Stock']",False,Sealcon,HW-1-02-M25N,NM-25-BK,Sealcon,100.0,100.0,"[1, 'Units']",0.0,0.0,49.0
+653,1929,"[230, '[DET-1-01-350CON] Dual Energy X-Ray Detector (350)']","[164, 'SLN/Test']","[310, '02FX352558']",Direct Conversion,DET-1-01-350CON,TDI350.1.60.075,Direct Conversion,1.0,1.0,"[1, 'Units']",0.0,0.0,15569.65
+654,1930,"[234, '[PS-1-01-HV600W] XRay Power Supply 600W 8mA']","[164, 'SLN/Test']","[238, '136647977-A00013']",Spellman High Voltage Electronics,PS-1-01-HV600W,DXM75N600X6113,Spellman,1.0,1.0,"[1, 'Units']",0.0,0.0,5500.0
+655,1937,"[229, '[DET-1-01-650CON] Dual Energy X-Ray Detector (650)']","[57, 'SLN/Stock']","[325, '02FX652580']",Direct Conversion,DET-1-01-650CON,TDI650.1.60.075,Direct Conversion,1.0,1.0,"[1, 'Units']",0.0,0.0,26160.0
+656,1938,"[229, '[DET-1-01-650CON] Dual Energy X-Ray Detector (650)']","[57, 'SLN/Stock']","[326, '02FX652582']",Direct Conversion,DET-1-01-650CON,TDI650.1.60.075,Direct Conversion,1.0,1.0,"[1, 'Units']",0.0,0.0,26160.0
+657,1939,"[648, '[PS-1-02-HV600W] XRay Power Supply 600W 10mA']","[57, 'SLN/Stock']","[327, '137146715-A00015']",Spellman High Voltage Electronics,PS-1-02-HV600W,DXM75N600X6178,Spellman,1.0,1.0,"[1, 'Units']",0.0,0.0,0.0
+658,1941,"[848, '[PC-SPDY-1-03-E] Industrial Computer (2000 - 2 Port LAN - E CPU))']","[57, 'SLN/Stock']","[328, 'PSE220100086']",Premio,PC-SPDY-1-03-E,KCO-2000-GRE-2L,Premio,1.0,1.0,"[1, 'Units']",0.0,0.0,1885.0
+659,1943,"[848, '[PC-SPDY-1-03-E] Industrial Computer (2000 - 2 Port LAN - E CPU))']","[57, 'SLN/Stock']","[329, 'PSE220100087']",Premio,PC-SPDY-1-03-E,KCO-2000-GRE-2L,Premio,1.0,1.0,"[1, 'Units']",0.0,0.0,1885.0
+660,1945,"[848, '[PC-SPDY-1-03-E] Industrial Computer (2000 - 2 Port LAN - E CPU))']","[57, 'SLN/Stock']","[330, 'PSE220100088']",Premio,PC-SPDY-1-03-E,KCO-2000-GRE-2L,Premio,1.0,1.0,"[1, 'Units']",0.0,0.0,1885.0
+661,1947,"[848, '[PC-SPDY-1-03-E] Industrial Computer (2000 - 2 Port LAN - E CPU))']","[57, 'SLN/Stock']","[331, 'PSE220100089']",Premio,PC-SPDY-1-03-E,KCO-2000-GRE-2L,Premio,1.0,1.0,"[1, 'Units']",0.0,0.0,1885.0
+662,1949,"[848, '[PC-SPDY-1-03-E] Industrial Computer (2000 - 2 Port LAN - E CPU))']","[57, 'SLN/Stock']","[332, 'PSE220100090']",Premio,PC-SPDY-1-03-E,KCO-2000-GRE-2L,Premio,1.0,1.0,"[1, 'Units']",0.0,0.0,1885.0
+663,1951,"[848, '[PC-SPDY-1-03-E] Industrial Computer (2000 - 2 Port LAN - E CPU))']","[57, 'SLN/Stock']","[333, 'PSE220100091']",Premio,PC-SPDY-1-03-E,KCO-2000-GRE-2L,Premio,1.0,1.0,"[1, 'Units']",0.0,0.0,1885.0
+664,1953,"[848, '[PC-SPDY-1-03-E] Industrial Computer (2000 - 2 Port LAN - E CPU))']","[57, 'SLN/Stock']","[334, 'PSE220100092']",Premio,PC-SPDY-1-03-E,KCO-2000-GRE-2L,Premio,1.0,1.0,"[1, 'Units']",0.0,0.0,1885.0
+665,1955,"[848, '[PC-SPDY-1-03-E] Industrial Computer (2000 - 2 Port LAN - E CPU))']","[57, 'SLN/Stock']","[335, 'PSE220100093']",Premio,PC-SPDY-1-03-E,KCO-2000-GRE-2L,Premio,1.0,1.0,"[1, 'Units']",0.0,0.0,1885.0
+666,1957,"[848, '[PC-SPDY-1-03-E] Industrial Computer (2000 - 2 Port LAN - E CPU))']","[57, 'SLN/Stock']","[336, 'PSE220100094']",Premio,PC-SPDY-1-03-E,KCO-2000-GRE-2L,Premio,1.0,1.0,"[1, 'Units']",0.0,0.0,1885.0
+667,1959,"[848, '[PC-SPDY-1-03-E] Industrial Computer (2000 - 2 Port LAN - E CPU))']","[57, 'SLN/Stock']","[337, 'PSE220100058']",Premio,PC-SPDY-1-03-E,KCO-2000-GRE-2L,Premio,1.0,1.0,"[1, 'Units']",0.0,0.0,1885.0
+668,1961,"[847, '[PC-SPDY-2-04-E] Industrial Computer (3000 - 2 Port LAN - E CPU - GPU)']","[57, 'SLN/Stock']","[338, 'PSE220100059']",Premio,PC-SPDY-2-04-E,KCO-3000-GRE-2L-A4K,Premio,1.0,1.0,"[1, 'Units']",0.0,0.0,3710.0
+669,1963,"[847, '[PC-SPDY-2-04-E] Industrial Computer (3000 - 2 Port LAN - E CPU - GPU)']","[57, 'SLN/Stock']","[339, 'PSE220100098']",Premio,PC-SPDY-2-04-E,KCO-3000-GRE-2L-A4K,Premio,1.0,1.0,"[1, 'Units']",0.0,0.0,3710.0
+670,1965,"[847, '[PC-SPDY-2-04-E] Industrial Computer (3000 - 2 Port LAN - E CPU - GPU)']","[57, 'SLN/Stock']","[340, 'PSE220100103']",Premio,PC-SPDY-2-04-E,KCO-3000-GRE-2L-A4K,Premio,1.0,1.0,"[1, 'Units']",0.0,0.0,3710.0
+671,1967,"[847, '[PC-SPDY-2-04-E] Industrial Computer (3000 - 2 Port LAN - E CPU - GPU)']","[57, 'SLN/Stock']","[341, 'PSE220100107']",Premio,PC-SPDY-2-04-E,KCO-3000-GRE-2L-A4K,Premio,1.0,1.0,"[1, 'Units']",0.0,0.0,3710.0
+672,1969,"[847, '[PC-SPDY-2-04-E] Industrial Computer (3000 - 2 Port LAN - E CPU - GPU)']","[57, 'SLN/Stock']","[342, 'PSE220100108']",Premio,PC-SPDY-2-04-E,KCO-3000-GRE-2L-A4K,Premio,1.0,1.0,"[1, 'Units']",0.0,0.0,3710.0
+673,1971,"[847, '[PC-SPDY-2-04-E] Industrial Computer (3000 - 2 Port LAN - E CPU - GPU)']","[57, 'SLN/Stock']","[343, 'PSE220100109']",Premio,PC-SPDY-2-04-E,KCO-3000-GRE-2L-A4K,Premio,1.0,1.0,"[1, 'Units']",0.0,0.0,3710.0
+674,1973,"[847, '[PC-SPDY-2-04-E] Industrial Computer (3000 - 2 Port LAN - E CPU - GPU)']","[57, 'SLN/Stock']","[344, 'PSE220100110']",Premio,PC-SPDY-2-04-E,KCO-3000-GRE-2L-A4K,Premio,1.0,1.0,"[1, 'Units']",0.0,0.0,3710.0
+675,1975,"[847, '[PC-SPDY-2-04-E] Industrial Computer (3000 - 2 Port LAN - E CPU - GPU)']","[57, 'SLN/Stock']","[345, 'PSE220100111']",Premio,PC-SPDY-2-04-E,KCO-3000-GRE-2L-A4K,Premio,1.0,1.0,"[1, 'Units']",0.0,0.0,3710.0
+676,1977,"[847, '[PC-SPDY-2-04-E] Industrial Computer (3000 - 2 Port LAN - E CPU - GPU)']","[57, 'SLN/Stock']","[346, 'PSE220100112']",Premio,PC-SPDY-2-04-E,KCO-3000-GRE-2L-A4K,Premio,1.0,1.0,"[1, 'Units']",0.0,0.0,3710.0
+677,1979,"[847, '[PC-SPDY-2-04-E] Industrial Computer (3000 - 2 Port LAN - E CPU - GPU)']","[57, 'SLN/Stock']","[347, 'PSE220100113']",Premio,PC-SPDY-2-04-E,KCO-3000-GRE-2L-A4K,Premio,1.0,1.0,"[1, 'Units']",0.0,0.0,3710.0
+678,1982,"[63, '[TUBE-1-01-AC75801] X-Ray Tube with 300W Air Cooling']","[57, 'SLN/Stock']","[348, '29872']",rtw RÖNTGEN-TECHNIK,TUBE-1-01-AC75801,"MCDH_75B-1,5/1,5_80°x10°AirCooled",RTW,1.0,1.0,"[1, 'Units']",0.0,0.0,5078.05
+679,1983,"[55, '[FT-1-01-M20WP] M20 2.5mm Thread Sanitary Weld Plate']","[57, 'SLN/Stock']",False,NGI,FT-1-01-M20WP,HF70016,NGI,30.0,30.0,"[1, 'Units']",0.0,0.0,75.0
