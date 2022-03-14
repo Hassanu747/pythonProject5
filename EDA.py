@@ -6,11 +6,14 @@ from dask.distributed import Client
 import dask.dataframe as dd
 import time
 import re as regex
+import datetime
+
 #commit test
 pd.set_option('display.max_rows', 500)
 pd.set_option('display.max_columns', 500)
 pd.set_option('display.width', 150)
 unwantedCharList = ['\'','\"','[',']']
+subsetColumns = ['product_qty','weekNum','partNum']
 timeArray = []
 iterArray = []
 difference = []
@@ -41,4 +44,8 @@ ReceiptsDF['partNum'] = ReceiptsDF['partNum'].str.replace('[','')
 ReceiptsDF['partNum'] = ReceiptsDF['partNum'].str.replace(']','')
 ReceiptsDF['partNum'] = ReceiptsDF['partNum'].str.replace('\'','')
 ReceiptsDF['partNum'] = ReceiptsDF['partNum'].str.replace('\"','')
+ReceiptsDF['weekNum'] = pd.to_datetime(ReceiptsDF['date_planned']).dt.strftime('%W')
+subsetReceiptsDF = ReceiptsDF[subsetColumns]
+groupedReceiptsDF = subsetReceiptsDF.groupby(['partNum','weekNum']).sum('product_qty')
 test = 1
+
