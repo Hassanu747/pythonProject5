@@ -58,6 +58,8 @@ for date in ReceiptsDF['date_planned']:
         state = False
     dateArray.append(state)
 ReceiptsDF['backorderStatus'] = dateArray
+ReceiptsDF['product_qty'] = [x if isinstance(x,float) else 0 for x in ReceiptsDF['product_qty']]
+ReceiptsDF['qty_received'] = [x if isinstance(x,float) else 0 for x in ReceiptsDF['qty_received']]
 ReceiptsDF['netQty'] = ReceiptsDF['product_qty'] - ReceiptsDF['qty_received']
 ReceiptsDF = ReceiptsDF.loc[(ReceiptsDF['state'] == 'purchase')]
 subsetReceiptsDF = ReceiptsDF[subsetReceipt]
@@ -80,8 +82,13 @@ ManufacturingDF['backorder'] = [True if x < startDate else False for x in weekNu
 ManufacturingDF['done'] = [True if x == 'done' or x == 'cancel' else False for x in ManufacturingDF['state']]
 subsetManufacturingDF = ManufacturingDF[subsetManufacturing]
 
-
+subsetReceiptsDF['weekNum'] = subsetReceiptsDF['weekNum'].astype(int)
 subsetInventoryDF = InventoryDF[subsetInventory]
 subsetInventoryDF.rename(columns = {'x_studio_gsai_part':'partNum'}, inplace=True)
 subsetInventoryDF = subsetInventoryDF.groupby('partNum').sum('available_quantity')
+subsetInventoryDF = subsetInventoryDF.add_prefix('_INV_')
+planningDF = pd.merge(left = subsetManufacturingDF, right=subsetReceiptsDF, how = 'outer', left_on=['partNum','weekNum'],right_on=['partNum','weekNum'],suffixes=('_MFG_','_RCV_'))
+planningDF['partNum'] = [x if regex.match(r'[a-zA-Z]+-', x) else False for x in planningDF['partNum']]
+planningDF['partNum'].drop(planningDF[planningDF.partNum=='False'].index)
 test = 1
+
