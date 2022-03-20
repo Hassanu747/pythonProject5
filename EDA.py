@@ -91,4 +91,5 @@ planningDF = pd.merge(left = subsetManufacturingDF, right=subsetReceiptsDF, how 
 planningDF['partNum'] = [x if regex.match(r'[a-zA-Z]+-', x) else False for x in planningDF['partNum']]
 planningDF['partNum'].drop(planningDF[planningDF.partNum=='False'].index)
 test = 1
+planningDF.to_csv('updatedDF.csv')
 
